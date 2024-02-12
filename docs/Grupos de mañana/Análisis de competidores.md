@@ -1,5 +1,4 @@
 En este documento vamos a encontrar feedback dado respecto a los posibles competidores de nuestro producto.
 ****
 ## Semana 1
-+ Esto es un ejemplo
-+ Esto es otro ejemplo
++ Explorar posibles competidores y situarlos en qué clase de negocio tienen, para encontrar un cuadrante de negocio que nos ofrezca un mayor número de oportunidades y diferenciación frente a la competencia.
