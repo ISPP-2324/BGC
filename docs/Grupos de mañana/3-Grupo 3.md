@@ -31,3 +31,37 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 
 10. **Consideraciones Técnicas y de Planificación:**
     - Se señala la importancia de especificar los grupos de trabajo, recopilar el conocimiento tecnológico dentro del equipo y abordar debilidades en la planificación de rutinas.
+
+
+## Semana 2
+
+1. **Cuidado con la Ortografía y Lenguaje Informal:**
+   - Es importante prestar atención a la ortografía y evitar el uso de lenguaje informal, especialmente palabras malsonantes, para mantener la profesionalidad de la presentación.
+
+2. **Seguimiento del Feedback Anterior:**
+   - Se señala como grave la falta de seguimiento del feedback anterior, lo que indica una falta de atención a las áreas de mejora identificadas previamente.
+
+3. **Claridad en el Product Statement:**
+   - Es esencial tener claro el Product Statement y asegurarse de incluirlo en la presentación para definir claramente el producto y sus características distintivas.
+
+4. **Análisis de Costes y Riesgos:**
+   - Se destaca la necesidad de hablar sobre los costes operativos y realizar un análisis exhaustivo de los riesgos, incluyendo su enumeración y las acciones a tomar para mitigarlos.
+
+5. **Compromiso y Gestión del Tiempo:**
+   - Es importante mostrar compromiso con el proyecto y gestionar adecuadamente el tiempo, tanto en la preparación de materiales como en la presentación en sí.
+
+6. **Cumplimiento de las Rubricas y Priorización de Contenidos:**
+   - Se sugiere seguir las rubricas al 100% y priorizar los contenidos más importantes, como el Business Statement, para garantizar una presentación efectiva y enfocada.
+
+7. **Seguridad de Datos y Gestión de Cuentas:**
+   - Se expresa preocupación por la seguridad de los datos y la posibilidad de falsificación de cuentas, lo que debe abordarse para garantizar la integridad del producto.
+
+8. **Conocimiento y Confianza en el Producto:**
+   - Es fundamental que el equipo conozca y demuestre confianza en el producto que están presentando, destacando las características clave y su propuesta de valor de manera segura y convincente.
+
+9. **Gestión Efectiva de Información:**
+   - Se recomienda proporcionar información relevante y evitar el exceso de detalles innecesarios para mantener la efectividad de la presentación.
+
+10. **Atención a las Necesidades del Cliente:**
+    - Es esencial centrarse en las necesidades del cliente y en lo que se desea vender, destacando la relevancia y el valor del producto para el público objetivo.
+
