@@ -23,3 +23,7 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 + Preparar las presentaciones con alguien que las escuche y tenga un checklist para comprobar que no nos saltamos nada.
 
 + Es buena idea introducir una diapositiva de contacto para que nos puedan dar más feedback.
+
++ Hay palabras que no se deben utilizar a no ser que sea requerido por el contexto ya que puede dar a entender otra cosa.
+
++ Añadir un simbolo como una "F" para indicar que ese apartado se a arreglado gracias al feedback.
