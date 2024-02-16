@@ -5,3 +5,6 @@ En este documento vamos a encontrar feedback respecto al modelo de negocio en el
 + Buscar el máximo numero de posibilidades de negocio.
 + Saber definir quien es el cliente de la aplicación.
 + Definir el Producto Mínimo Viable (PMV), para estudiar la viabilidad de la aplicación a comercializar y los elementos a implementar.
+
+## Semana 2
++ Hay que buscar el elemento diferenciador de tu aplicación.
