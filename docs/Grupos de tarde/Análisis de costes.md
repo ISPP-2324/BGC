@@ -1,8 +1,7 @@
 En este documento vamos a encontrar feedback respecto a los costes asociados a nuestro proyecto.
 ****
 ## Semana 1
-+ Esto es un ejemplo
-+ Esto es otro ejemplo
++ Hay que distinguir entre el coste de la puesta en marcha y el del mantenimiento. El dato verdaderamente importante es aventurar cuánto va a ser el coste mensual una vez se haya puesto en marcha el proyecto.
 
 ## Semana 2
 

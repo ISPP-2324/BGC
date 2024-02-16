@@ -1,8 +1,8 @@
 En este documento vamos a encontrar feedback respecto al desempeño de los presentadores.
 ****
 ## Semana 1
-+ Esto es un ejemplo
-+ Esto es otro ejemplo
++ La velocidad de exposición genera que no se pueda dar un feedback preciso. Intentar ser eficiente. Plantearse qué es lo que se quiere transmitir en la presentación. 
+
 
 ## Semana 2
 
