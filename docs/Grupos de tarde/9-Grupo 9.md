@@ -36,7 +36,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - Centrarse más aún en la correcta definición del Producto Mínimo Viable (MVP) y comenzar con la creación de mockups interactivos utilizando herramientas como Balsamiq.
 - Revisar los detalles del Commitment Agreement y abordar cualquier cambio o problema que haya surgido con relación a este.
 - Crear un informe más detallado del uso de la IA en el proyecto, destacando sus beneficios y áreas de mejora, y dando ejemplos. Puede ser una sección de la Wiki.
-- Identificar y evaluar los posibles riesgos a lo largo del proyecto, utilizando herramientas y
+- Identificar y evaluar los posibles riesgos a lo largo del proyecto, utilizando herramientas y técnicas apropiadas vistas en las píldoras.
 
 
 ## Semana 2
