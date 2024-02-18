@@ -9,7 +9,7 @@ En este documento vamos a encontrar feedback respecto a la documentación de des
 + Establecer prácticas claras para mantener una estructura organizada en el repositorio.
 
 ### Semana 2
-
 + Destacar la importancia de entregar evidencias del trabajo realizado, como documentos y registros de actividades.
 + Revisar y proporcionar documentos que respalden el progreso y los logros alcanzados.
 + Establecer un seguimiento regular del Commitment Agreement (CA) y actualizar su estado semanalmente.
+

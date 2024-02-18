@@ -15,3 +15,4 @@ En este documento vamos a encontrar feedback respecto a los posibles riesgos de 
 + Se deberá hacer un seguimiento de los riesgos a lo largo del proyecto. Establecer consecuencias a incumplir el agreement.
 + Incluir la probabilidad de cada riesgo y la efectividad prevista de las medidas de mitigación.
 + Utilizar íconos o indicadores visuales para representar el estado de cada riesgo en las presentaciones.
+

@@ -18,3 +18,4 @@ En este documento vamos a encontrar feedback respecto al modelo de negocio en el
 + Proponer la verificación del usuario mediante DNI y foto al momento del inicio de sesión.
 + Contemplar planes futuros.
 + Proporcionar un enfoque claro y efectivo para mantener la coherencia y comprensión.
+

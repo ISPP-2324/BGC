@@ -19,3 +19,4 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 + Estar abierto a realizar ajustes en el producto según el feedback recibido de los usuarios piloto.
 + Utilizar esta fase como una oportunidad para mejorar y adaptar el producto.
 
+

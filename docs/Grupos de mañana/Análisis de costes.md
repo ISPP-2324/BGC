@@ -13,4 +13,3 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + Considerar la inclusión de una tabla con los costes mensuales estimados.
 + Detallar los costes específicos, como herramientas, licencias y otros gastos asociados.
 + Proporcionar evidencia del seguimiento del presupuesto.
-

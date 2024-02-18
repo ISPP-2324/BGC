@@ -8,6 +8,5 @@ En este documento vamos a encontrar feedback respecto a los roles en el proyecto
 + Retrospectiva de funciones y roles al finalizar el proyecto.
 
 ## Semana 2
-
 + Introducir roles específicos, como el rol de mantenimiento, para mejorar la gestión de la plataforma.
 + Tener cuidado con el tema de la comunicación en caso de rotación de roles.
