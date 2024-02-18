@@ -4,7 +4,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 #### Presentación
 + Incluir un opener para atraer la atención del público al comienzo de la presentación
 + Mejorar la entonación para no aburrir al público y demostrar comienza y seguridad
-+ Reducir la cantidad de texto en las diapostivas y al 
++ Reducir la cantidad de texto en las diapostivas
 #### Business Statement
 + Dejar bien claro cúal es nuestra idea clave de negocio
 #### Análisis de Riesgos
