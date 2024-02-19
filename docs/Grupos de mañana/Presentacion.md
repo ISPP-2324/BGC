@@ -13,6 +13,7 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Debe haber soporte visual que acompañe al discurso y a la presentación.
 + Al insertar el diagrama DAFO en las diapositivas es importante el orden para que sea facil de entender.
 + En cada presentación hay que reflejar el avance de las horas consumidas durante el proyecto.
++ Tratar de homogeneizar las fotos de los participantes, que no tengan fondos muy diferentes.
 
 ## Semana 2
 + Evitar sobrecargar las diapositivas.
