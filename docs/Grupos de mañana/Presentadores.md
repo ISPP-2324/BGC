@@ -9,6 +9,8 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 + Hay que ser cercano con el.
 + Hablar poco y efectivo, transmitiendo las ideas principales.
 + Acordar preguntas con el público (ya sean miembros de tu equipo o amigos de otros equipos)
++ “Segmentar las ideas” de tal manera que queden claros los mensajes clave.
++ Evitar permanecer demasiado tiempo en una diapositiva o dejar explicación sin soporte visual.
 
 ## Semana 2
 + La forma de comunicar la presentación debe tener un ritmo agradable. Hay que evitar hablar muy rápido o muy lento.
