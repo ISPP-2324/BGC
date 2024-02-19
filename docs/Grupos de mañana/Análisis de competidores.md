@@ -2,6 +2,7 @@ En este documento vamos a encontrar feedback dado respecto a los posibles compet
 ****
 ## Semana 1
 + Explorar posibles competidores y situarlos en qué clase de negocio tienen, para encontrar un cuadrante de negocio que nos ofrezca un mayor número de oportunidades y diferenciación frente a la competencia.
++ En vez de situar competidores o elementos en lista (de ventajas y desventajas), realizar un mapa y agruparlos por similaridad para evaluarlos de esta manera.
 
 ## Semana 2
 + Evitar usar los primeros competidores que se encuentren, analizarlos bien.
