@@ -40,5 +40,20 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
  + Dejar claro que el uso de RRSS para el registro es opcional, nunca se pretende ser intrusivo en la vida personal del candidato, lo último que buscamos es perturbarlo con estos análisis.
  + Dar mayor protagonismo a los mockups, casos de uso core y la idea de negocio.
  + Hay que asumir los costes de github y tenerlos en cuenta. Si asumimos que es gratuita la licencia, ¿Qué pasaría si no? ¿Cuántas github action usaremos al mes?
- + Se debe dejar claro de dónde sale el cálculo de precios y cuál es el beneficio que se saca de estos. 
+ + Se debe dejar claro de dónde sale el cálculo de precios y cuál es el beneficio que se saca de estos.
+
+## Semana 3
+ + Si se realiza un Killer Opener, este debe ser corto. Si se demora demasiado deja de ser efectivo.
+ + Situar la marca de feedback en la parte superior de la presentación.
+ + Al presentar los mockups realizar zoom cuando se haga referencia a partes concretas que no sean legibles al fondo de la clase.
+ + Es importante “afilar” los argumentos, sintetizar de manera que quede solo lo esencial.
+ + Al comparar con los competidores hacer énfasis en los puntos que mejora nuestra aplicación.
+ + Dejar claro el estado de la comunicación con los usuarios pilotos.
+ + Dejar claro el versionado que se usará en la gestión del código.
+ + Tener una gestión de la documentación similar a la del código con github. Por ejemplo, la presentación debería subirse como una pull request con todo el grupo como revisor.
+ + Se debe dejar claro que la presentación ha sido revisada y escuchada por todos los miembros del equipo y que estos han aportado su feedback.
+ + Si se han aplicado medidas para solucionar un problema hay que plasmar, evaluar y medir cómo de buenas han sido estas.
+ + Tener claros y plasmar las metas y objetivos de cada sprint.
+ + No quejarse NUNCA en medio de la presentación.
+
 
