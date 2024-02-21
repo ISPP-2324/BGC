@@ -1,4 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 6 del proyecto CiaoLavoro
+La base de conocimientos individual del grupo 6 ciaolaboro la podeis encontrar en el siguiente enlace: https://github.com/ciaolavoro/ciao-lavoro/wiki
 ****
 ## Semana 1: 6 de febrero
 
