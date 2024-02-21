@@ -1,4 +1,36 @@
-En este documento vamos a encontrar el feedback recibido por el grupo 1
+En este documento vamos a encontrar el feedback recibido por el grupo 4
 ****
-## Semana 1
-+ Insertar info
+
+### Semana 1: 06/02
+
++ Reducir el número de personas que exponen, ya que puede suponer una distracción para el público.
++ Detallar el modelo de negocio, medidas de seguridad y verificación de la existencia del piso.
++ Está bien no asociar roles a personas, sino que todo el mundo sea multidisciplinar. Pero en los roles que sí se definan, como el PM, es importante la comunicación entre el anterior y el nuevo, y hay que determinar ciertas medidas para no sobrecargar al nuevo con cosas que no hizo el anterior.
++ Trabajar en la seguridad ante bots. Para ello, se puede verificar a los usuarios mediante algún método como DNI, foto o similares.
++ Implementar un reloj de equipo para saber cómo se está invirtiendo el tiempo.
++ Describir casos de uso mínimos de una manera más exhaustiva para que la audiencia pueda entender la diferencia entre ellos.
++ Se podría validar la existencia del piso para garantizar la seguridad. Se propone usar el código de catastro o algún similar.
+
+
+### Semana 2: 13/02
+
++ Conveniente la definición de políticas de commits y convenciones.
++ Sugerencia de hablar de tecnologías de comunicación y control del tiempo.
++ Falta de información sobre cómo se administrará el uso de inteligencia artificial.
++ Falta un inicio efectivo, al parecer el silencio no es un inicio efectivo.
++ Entregar documento de TCO, ya que se ha elaborado exhaustivamente.
++ Identificar cliente, en nuestro caso podría ser el usuario.
++ Mejorar el análisis de competidores. Explicar por qué se excluyen competidores, usar herramientas para buscar competidores, buscar keywords,...
++ Replantear pricing sobre lo que nos diferencia del resto (Realmente se ha explicado mal lo que nos diferencia del resto, que son los chats grupales)
++ Desarrollar la idea de usar etiquetas de usuario.
++ No pasar diapositivas dando por hecho que ya está explicado.
++ Resumir texto de los planes de contingencia de riesgos.
++ Hacer seguimiento de riesgos en cada iteración.
++ Si el riesgo es muy probable, hay que actuar antes de que ocurra, no solo cuando ocurra.
++ Hacer seguimiento de que se siga el commitment agreement.
++ Indicar transparencias en los que se ha aplicado el feedback anterior con un icono.
++ Los mocks al final mejoran la fluidez puesto que no cortan la presentación.
++ No queda claro la geolocalización por rango.
++ Disonancia entre algunas imágenes y lo explicado.
++ No separar los costes de producción del TCO, puesto que dichos costes son parte de él.
++ Sintetizar la información del TCO.
