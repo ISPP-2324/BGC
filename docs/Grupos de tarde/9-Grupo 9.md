@@ -75,3 +75,40 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - Reforzar el compromiso con el commitment agreement y definir la metodología de desarrollo, incluyendo métricas para medir el rendimiento y la calidad.
 - Asegurar el uso efectivo de las herramientas obligatorias, como GitHub, y considerar la integración de herramientas opcionales, como análisis de código.
 - Planificar el despliegue de los entregables en diferentes URLs y continuar aportando reportes sobre el uso de la IA en el proyecto.
+
+
+## Semana 3
+### Temas que mejorar en las presentaciones:
+- Mejorar la capacidad de sintaxis en la presentación.
+- Evitar frases demasiado largas en el análisis DAFO.
+- Asegurarse de que la información sobre los competidores sea visible y clara.
+- Aclarar términos como TCO (Costo Total de Propiedad).
+- Añadir texto explicativo debajo de los filtros con imágenes.
+- Incluir apoyo visual para el Commitment Agreement, como una tabla con indicadores de cumplimiento.
+- Incluir el estado de los usuarios pilotos y del Commitment Agreement.
+- Incorporar la planificación y la metodología utilizada.
+- Agregar gráficas para ilustrar datos relevantes.
+- Practicar la presentación previamente grabándose y viendo que se puede sintetizar.
+
+### Temas que mejorar en el trabajo realizado:
+- Detallar el plan de precios exacto de las herramientas incluidas en el TCO.
+- Documentar los cambios realizados, similar a como se hace en un changelog.
+- Establecer medidas de rendimiento precisas.
+- Cuantificar y definir objetivos para las medidas destinadas a resolver problemas.
+- Monitorear el progreso del proyecto con respecto a las horas y tareas planificadas.
+- Contactar a los usuarios pilotos y establecer un cuadro de mando para su seguimiento.
+- Implementar el feedback recibido de los usuarios pilotos de manera efectiva.
+- Las imágenes que se utilicen deben ser de un repositorio público.
+- Establecer una comunicación más sistemática a través de GitHub para resolver dudas.
+- Mantener coherencia y claridad en los commits para facilitar la automatización del changelog.
+
+### Temas a tratar la siguiente semana:
+- Resumir el proyecto y lo visto en anteriores presentaciones al inicio de la presentación.
+- Mostrar el estado actual del prototipo desarrollado.
+- Realizar una retrospectiva de la primera semana de trabajo, incluyendo medidas de rendimiento, estado de los riesgos y lecciones aprendidas.
+- Revisar la planificación y, si es necesario, replanificar el proyecto.
+- Reasignar responsabilidades según sea necesario.
+- Gestionar adecuadamente la interacción con los usuarios pilotos y la implementación del feedback recibido.
+- Se debe actualizar el reporte de la IA utilizada, ya que es bastante importante.
+- Hay que asegurar que se proporcionen recursos como enlaces al dashboard de Clockify.
+- Discutir la cohesión y acoplamiento del equipo en relación con el rendimiento del proyecto.
