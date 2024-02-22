@@ -33,3 +33,7 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 + Hilo argumental. Dar importancia a lo verdaderamente crítico. Dónde está la mayor debilidad. 
 + Pensar si lo que estamos ofreciendo es un producto o un servicio. 
 + Tooling support dashboard, hacer un cuadro de estadísticas en el que se vea el uso real de cada una de las herramientas del proyecto.
+
+## Semana 3
+
++ A partir de ahora hay que añadir una diapositiva donde se muestre el estado en el que están los usuarios pilotos, si han sido contactados, si han confirmado, si estamos esperando su confirmación, etc.
