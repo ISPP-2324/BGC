@@ -66,7 +66,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
     - Es esencial centrarse en las necesidades del cliente y en lo que se desea vender, destacando la relevancia y el valor del producto para el público objetivo.
 
 
-### Semana 3
+## Semana 3
 
 1. **Problemas con el TCO y claridad en los costos:**
    - No se entiende la diferencia entre el coste de desarrollo y el coste de mantenimiento, así como cuánto debe pagar el cliente. Se necesita mayor claridad en la representación del TCO.
