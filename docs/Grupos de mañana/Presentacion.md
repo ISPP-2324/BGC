@@ -20,3 +20,9 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + No mezclar idiomas.
 + Marcar las diapositivas que sean respuesta de seguir feedback anterior.
 + Dejar los mockups para el final de la presentación.
+
+## Semana 3
++ Para practicar las presentaciones es recomendable la tecnica de hacerlo previamente con miembros del grupo, para que estos puedan aportar feedback sobre las diapositivas o la propia presentación.
++ Es recomendable que las diapositivas pasen el visto bueno de todos los miembros del grupo.
++ Al exponer en las diapositivas los usuarios piloto, hay que indicar si se está en contacto con ellos.
++ Cuando se usa github actions hay que poner captura de la estimación en las diapositivas.

@@ -7,3 +7,6 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 ## Semana 2
 + Evitar usar la palabra castigo, cambiar por otras palabras como penalizar.
 + Es mejor recompensar en lugar de castigar en el agreement.
+
+## Semana 3
++ Es buena idea poner algún documento o cuestionario para colocar las quejas y problemas, y así podemos ver la retrospectiva semanal y solucionar problemas. 
