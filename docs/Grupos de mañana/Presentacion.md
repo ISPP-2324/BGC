@@ -26,3 +26,13 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Es recomendable que las diapositivas pasen el visto bueno de todos los miembros del grupo.
 + Al exponer en las diapositivas los usuarios piloto, hay que indicar si se está en contacto con ellos.
 + Cuando se usa github actions hay que poner captura de la estimación en las diapositivas.
++ Seguir mejorando la forma de expresar mas en menos.
++ No hablar tan rapido, el público puede llegar a colapsarse y quitarle atención para descansar.
++ Indices innecesarios.
++ Mal uso de los espacios en las trasparencias.
++ Valorar el uso del microfono.
++  No usar tantos colores en la presentación y menos en pricing y ese tipo de información que SI hay qu emirar la diapositiva.
++ Importante uniformidad en las fotos.
++ Números en las diapostivas y la marca del feedback bien visible.
++ Mirar al público, no mirar el suelo.
+

@@ -16,3 +16,6 @@ En este documento vamos a encontrar feedback respecto a los posibles riesgos de 
 + Incluir la probabilidad de cada riesgo y la efectividad prevista de las medidas de mitigación.
 + Utilizar íconos o indicadores visuales para representar el estado de cada riesgo en las presentaciones.
 
+## Semana 3
++ No representar falta de usuarios piloto como riesgo, implica falta de confianza.
++ No hacer tan ambiguo el estudio de riesgos con iconos, no se sabe a q eu se refiere.

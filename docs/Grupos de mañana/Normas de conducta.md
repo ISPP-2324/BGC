@@ -6,3 +6,7 @@ En este documento vamos a encontrar feedback respecto a las normas de  conducta 
 
 ## Semana 2
 + No usar lenguaje informal.
+
+## Semana 3
++ Seguir cuidando el lenguaje.
+

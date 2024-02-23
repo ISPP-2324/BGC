@@ -7,3 +7,7 @@ En este documento vamos a encontrar feedback respecto al uso de la IA a lo largo
 ### Semana 2
 + Proporcionar detalles específicos sobre cómo se integrará la IA en el proyecto.
 + Especificar las áreas o funciones específicas en las que se utilizará la IA.
+
+## Semana 3 
++ Quieren ver mas el uso de la IA que le estamos dando.
+

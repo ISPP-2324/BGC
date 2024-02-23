@@ -13,3 +13,10 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + Considerar la inclusión de una tabla con los costes mensuales estimados.
 + Detallar los costes específicos, como herramientas, licencias y otros gastos asociados.
 + Proporcionar evidencia del seguimiento del presupuesto.
+
+## Semana 3
++ Siguen sin quedar claro los gastos relacionados con GitHub, en concreto los gastos que se asumen como estudante, en una empresa esos gastos son reales.
++ Hacer incapien entre diferencia entre coste de desarrollo y el coste de mantenimiento asi como cuanto debe pagar el cliente.
++ No expresar el ROI con decimales, es mas comodo para el público.
++ Estimación  del TCO como título.
+
