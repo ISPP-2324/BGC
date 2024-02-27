@@ -58,3 +58,21 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Revisar a conciencia todos los puntos a presentar en clase para que no falte nada.
 
 + En cuanto a las medidas de rendimiento, falta detallar exactamente los procesos a seguir y las métricas a contabilizar.
+
+## Semana 4
+
++ No se ha hablado del core de nuestro sistema y de la planificación para el próximo sprint.
+
++ Comentar cuál es el objetivo principal de la aplicación para este primer sprint.
+
++ Indicar el formato de subida de imagen. Estudiar el nivel de dificultad del uso de este formato y el posible uso de plugins que cambie de formato.
+
++ Ha faltado incluir el planning y mencionar las IAs usadas.
+
++ Ha faltado el elevator pitch. Hay que vender la aplicación. Preparar un buen discurso con este objetivo.
+
++ Estudiar adaptar el modelo de puntuación a la nota que quiera conseguir cada uno. Por ejemplo, tenemos 100 horas y cada hora es un punto, cómo organizar la asignación de tareas.
+
++ Diferenciar entre CapEx y OpEx.
+
++ Identificar roles de una forma más concreta.
