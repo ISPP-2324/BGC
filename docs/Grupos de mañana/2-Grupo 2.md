@@ -58,5 +58,18 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Cuando se suba la PPT, que nos lo hayan presentado a todo el grupo y den su visto bueno. 
 - Añadir un slide con el grado de acuerdo. Anañizar el rendimiento de cada usuario.
 
+## Semana 4
+
+- Buena presentación.
+- Como vamos a usar la encuesta referente a los problemas encontrados para afrontarlos.
+- Buena gestión de usuarios pilotos.
+- Que nos quedemos con los 3 primeros del analisis de competidores. (Hemos hecho un analisis de 9 pero nos centramos en ...)
+- Estimación de minutos del github actions.
+- Opener no muy efectivo. (Meterle drama)
+- Elevator tiene que estar.
+- Costes de mantenimiento (lo puesto no es mantenimiento, lo puesto es coste de operación).
+- Tener en cuenta el orden de la presentación.
+- En el análisis de competidores indicar cual es la característica killer.
+
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*
