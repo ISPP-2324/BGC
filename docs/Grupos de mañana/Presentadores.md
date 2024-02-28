@@ -28,4 +28,5 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 + No olvidar que es el moderador (no nuestro grupo) quien lleva el conteo del tiempo (fuera de evaluación) de las presentaciones.
 + Cuidar y evitar las muletillas.
 + No suspirar a lo largo de la presentación, da sensación de agotamiento de lo que se está contando.
++ Siempre cuidar y tener claro el hilo de la presentación. Debe de haber coherencia entre los puntos y no dejar conceptos sueltos.
 
