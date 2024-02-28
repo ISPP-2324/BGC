@@ -20,3 +20,9 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + No expresar el ROI con decimales, es mas comodo para el público.
 + Estimación  del TCO como título.
 
+## Semana 4
++ Cuanto mayores son los números en cuanto a ROI mayor debe ser el Elevator Pitch, orientado a estos números. Si son poco realistas deben ser repensados.
++ No confundir coste de mantenimiento con coste de operación, el mantenimiento puede ser por ejemplo el correctivo (para posibles fallos) o aumentativo (hay suficiente dinero como para hacer añadidos).
++ Para el TCO es pertinente definir un marco de tiempo (time frame) y una capacidad de demanda nominal para comprender mejor cómo se comportará el sistema en diferentes condiciones de uso, en resumen, cómo escalará. No solo se trata de cuántos usuarios pueden usarlo al mismo tiempo, sino también de cuándo y con qué nivel de demanda.
++ Hablar de porcentajes del número de usuarios que tienen que usar nuestra aplicación (TCO) con respecto al número de usuarios potenciales.
++ El número de usuarios que necesitamos para mantener la aplicación debe tener porcentajes con respecto al número de personas en el sector en Sevilla por ejemplo.
