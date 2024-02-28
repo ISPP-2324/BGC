@@ -60,3 +60,4 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + A cada sprint siempre se debe mostrar la planificación o re-planificación de los próximos sprints.
 + Se busca una mejora de la síntesis cada semana, no se deben eliminar conceptos de una a otra.
 + Mantener siempre una diapositiva con la Landing Page con QR aunque sea en la última diapositiva.
++ Siempre incluir los estados de la comunicación en la gestión de usuarios pilotos.
