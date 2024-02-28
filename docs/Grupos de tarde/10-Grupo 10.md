@@ -1,4 +1,4 @@
-En este documento vamos a encontrar el feedback recibido por el grupo 1
+En este documento vamos a encontrar el feedback recibido por el grupo 12
 ****
 ## Semana 1
 #### Presentación
@@ -41,3 +41,29 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 #### Casos de Uso
 + Añadir más funcionalidad (Ej: Puntos calientes, Grado de accesibilidad de un edificio, Municipios sin el plan aceptado, etc)
 + Proponer expansiones de funcionalidad a la ONG
+
+## Semana 3 (Test 1)
+#### Presentación
++ Tener cuidado con las imágenes de personas que usamos en la presentación
++ Evitar texto pequeño en las diapositivas
++ Recomendable ensayar al menos una vez con otra persona del grupo delante
++ Usar IA para apoyo en la presentación principalmente para el síntesis de la información
++ Si usamos códigos QR en nuestra presentación tener cuidado de no ponerse delante
+### Usuarios pilotos
++ Realizar un cuadro de mando con los usuarios pilotos
+### Documentación
++ Gestionar la documentación con estrategias de código (Markdown, ramas propias, etiquetas, etc)
++ En el sprint 3 hay que tener los manuales usuarios hechos para las ONG
+### Medición del Rendimiento
++ Tener en cuenta que diferentes roles pueden precisar de diferentes maneras de medir el rendimiento
+### Retroespectiva
++ Al igual que el rendimiento es diferente dependiendo de los roles (Mostrar diferencia tiempo entre lo estimado y lo real -> Reloj horas)
+### Commitment Agreement
++ Contemplar el grado de compromiso del Commitment Agreement en la presentación
+### Análisis de Riesgos
++ Decir el estado actual de los riesgos
+### Código
++ Tener un changelog entre sprints (Releases)
+### Landing Page
++ Poner enlace al Clockify
+

@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://github.com/ispp-2324-ocial/KB/discussions/categories/lessons-improvements
+**Enlace al la base de conocimientos del grupo 2:** https://github.com/ispp-2324-ocial/KB/discussions/categories/lessons-improvements *Última actualización 20/02 19.00h*
 ****
 ## Semana 1
 
@@ -38,6 +38,38 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 + Colocar el enlace de la base de conocimiento del grupo en la base general.
 + Hacer énfasis en los feedback de la semana pasada (marcarlo en la diapositiva de alguna manera).
 + El acuerdo de compromiso hay que irlo monitorizándolo. Decir también si este se ha cumplido o no.
+
+## Semana 3
+
+- Recomendaciones de planes mediante puja (aplicar la ley de la oferta y la demanda).
+- Para el futuro analizar costes marketing
+- Opener bueno pero arriesgado, pensar en algo más seguro.
+- Diapositiva del ROI. Especificar de donde salen esos 2 decimales.
+- Quitar las trasparencias en las que aparecen cosa de la asignatura (en la de client != user)
+- Estructura en grupos. En el backend mirar la arquitectura de microservicios (es la que se suele usar).
+- Gestión de la documentación.
+- En los riesgos, resumirlo quedandonos con los más importantes.
+- Indicar el número de horas que pensamos que vamos a usar (github actions).
+- Explicar el agreement, decir el estado. Analizar el rendimiento de cada miembro del grupo e indicarlo con gráficos.
+- Diapositiva 12. Decir que es lo que tenemos ya.
+- Muy buena gestión de usuarios pilotos.
+- Bien que en el Sprint 3 tengamos pocas tareas.
+- Poner fotos uniformes.
+- Cuando se suba la PPT, que nos lo hayan presentado a todo el grupo y den su visto bueno. 
+- Añadir un slide con el grado de acuerdo. Anañizar el rendimiento de cada usuario.
+
+## Semana 4
+
+- Buena presentación.
+- Como vamos a usar la encuesta referente a los problemas encontrados para afrontarlos.
+- Buena gestión de usuarios pilotos.
+- Que nos quedemos con los 3 primeros del analisis de competidores. (Hemos hecho un analisis de 9 pero nos centramos en ...)
+- Estimación de minutos del github actions.
+- Opener no muy efectivo. (Meterle drama)
+- Elevator tiene que estar.
+- Costes de mantenimiento (lo puesto no es mantenimiento, lo puesto es coste de operación).
+- Tener en cuenta el orden de la presentación.
+- En el análisis de competidores indicar cual es la característica killer.
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

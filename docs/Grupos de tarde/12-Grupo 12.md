@@ -42,3 +42,37 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + En cuanto a los riesgos, hacer tabla clasificatoria de riesgos, con su probabilidad de ocurrencia, impacto y plan de contingencia. Si pasa esto, se hace esto otro. Nada de decir "probablemente" se haga esto.
 
 + Commitment agreement es un documento vivo, lo que significa que cada semana hay que revisarlo y ver si se ha cumplido o no. Se puede tener un apartado donde haya una cláusula (modificar commitment agreement), que diga que todos se comprometen a realizar las tareas claves de cada semana, indicando el grado de participación de cada uno en cada tarea. Incluir cláusulas de cancelación, es decir, plantear service credits. Si alguien no llega a una determinada cantidad de trabajo, entonces que esa persona realice más trabajo la próxima semana. Tener un anexo para indicar el cumplimiento del commitment agreement. Incluir en las presentaciones una tabla con el grado de cumplimiento de cada uno de los miembros del equipo en el commitment agreement. Mantener informado al profesorado sobre esto continuamente.
+
+## Semana 3
+
++ El primer punto de la diapositiva se ha pasado muy rápido.
+
++ De dónde salen los números del coste de licencia de GitHub. Mirar número de minutos para GitHub Actions e indicarlo. Estimar minutos de GitHub Actions para cada sprint.
+
++ En usuarios piloto no ha quedado claro si están contactados o no. Para la próxima semana, incluir un cuadro de mando con todos los usuarios pilotos y su estado (contactado o no contactado).
+
++ El análisis de competidores, muy rápido. Se puede sintetizar de manera general pero sin ir rápido. Además, es difícil conocer cuál es el aporte. Concentrar y resumir las diapositivas y resaltar nuestras características frente a los competidores.
+
++ Faltan incluir detalles de la planificación. Poner una diapositiva de apoyo antes de los mockups.
+
++ Revisar a conciencia todos los puntos a presentar en clase para que no falte nada.
+
++ En cuanto a las medidas de rendimiento, falta detallar exactamente los procesos a seguir y las métricas a contabilizar.
+
+## Semana 4
+
++ No se ha hablado del core de nuestro sistema y de la planificación para el próximo sprint.
+
++ Comentar cuál es el objetivo principal de la aplicación para este primer sprint.
+
++ Indicar el formato de subida de imagen. Estudiar el nivel de dificultad del uso de este formato y el posible uso de plugins que cambie de formato.
+
++ Ha faltado incluir el planning y mencionar las IAs usadas.
+
++ Ha faltado el elevator pitch. Hay que vender la aplicación. Preparar un buen discurso con este objetivo.
+
++ Estudiar adaptar el modelo de puntuación a la nota que quiera conseguir cada uno. Por ejemplo, tenemos 100 horas y cada hora es un punto, cómo organizar la asignación de tareas.
+
++ Diferenciar entre CapEx y OpEx.
+
++ Identificar roles de una forma más concreta.

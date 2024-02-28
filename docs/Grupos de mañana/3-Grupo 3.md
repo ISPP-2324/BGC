@@ -65,3 +65,23 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 10. **Atención a las Necesidades del Cliente:**
     - Es esencial centrarse en las necesidades del cliente y en lo que se desea vender, destacando la relevancia y el valor del producto para el público objetivo.
 
+
+## Semana 3
+
+1. **Problemas con el TCO y claridad en los costos:**
+   - No se entiende la diferencia entre el coste de desarrollo y el coste de mantenimiento, así como cuánto debe pagar el cliente. Se necesita mayor claridad en la representación del TCO.
+
+2. **Representación de los riesgos:**
+   - Representar la falta de clientes como un riesgo implica una falta de confianza en la idea del proyecto. Se sugiere abordar esta cuestión para fortalecer la confianza en el producto.
+
+3. **Práctica de la presentación:**
+   - La falta de práctica de la presentación ha resultado en obstáculos durante la presentación, lo que ha provocado la falta de tiempo para mostrar todo lo necesario.
+
+4. **Números en las diapositivas:**
+   - Se señala la necesidad de incluir números en las diapositivas para respaldar la información presentada.
+
+5. **Necesidad de negocio clara con estadísticas:**
+   - Se requiere una necesidad de negocio clara respaldada por estadísticas para fortalecer la presentación.
+
+6. **Claridad y concisión en la presentación:**
+   - Se insta a ser más claro y directo en la presentación para evitar confusiones y mantener la atención del público.

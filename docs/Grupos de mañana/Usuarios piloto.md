@@ -19,4 +19,9 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 + Estar abierto a realizar ajustes en el producto según el feedback recibido de los usuarios piloto.
 + Utilizar esta fase como una oportunidad para mejorar y adaptar el producto.
 
+## Semana 3
++ Los usuarios piloto: hay que indicar el estado de contacto con ellos. Si se ha contactado y no han respondido, si han respondido, etc.
++ Hay que preparar un formulario para los usuarios pilotos y que nos genere un excel con los resultados.
++ No usar usuarios piloto ficticios, como famosos o personajes ilustres, otorga falta de seriedad.
++ No registrar como riesgo falta de usuarios piloto, representa inseguridad.
 

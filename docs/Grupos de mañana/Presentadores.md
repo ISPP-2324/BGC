@@ -16,3 +16,8 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 ## Semana 2
 + La forma de comunicar la presentación debe tener un ritmo agradable. Hay que evitar hablar muy rápido o muy lento.
 + Evitar hablar en voz baja o usar alguna herramienta para hacerte oír.
+
+## Semana 3
++ Para practicar las presentaciones es recomendable la tecnica de hacerlo previamente con miembros del grupo, para que estos puedan aportar feedback sobre las diapositivas o la propia presentación.
++ Es también recomendable que el presentador no dependa de un compañero para que este pase las diapositivas: mejor usar algún tipo de mando.
+
