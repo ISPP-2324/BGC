@@ -36,3 +36,18 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Números en las diapostivas y la marca del feedback bien visible.
 + Mirar al público, no mirar el suelo.
 
+## Semana 4
++ Las demos de los prototipos se deben ver bien, hacer zoom si es necesario.
++ Evitar letras blancas sobre colores claros.
++ Si hay datos en el tiempo (días) poner como apoyo visual un calendario.
++ Se debe ser coherente lo que se refleja en la diapositiva con lo que pone en el título.
++ Evitar sobrecarga en las presentaciones, buscar la simplicidad y la correlación entre diapositivas.
++ Marcar más el reconocimiento que se dice que se tiene sobre el Commitment Agreement. Poner un pódium con los nombres.
++ Usar recursos en la presentación como líneas o subrayados para corresponder con lo que se dice.
++ El DAFO ya no merece la pena incluirlo en la presentación.
++ Pensar en si es mejor una DEMO grabada o en directo.
++ Indicar con triángulos hacia arriba o abajo cuando haya habido rendimiento positivo o negativo en la retrospectiva.
++ Siempre debe haber una transparencia con la productividad por miembro del equipo (horas).
++ Si se dicen las tareas que ha hecho cada subgrupo deben ir acompañadas de un diagrama de gantt simplificado o similar en el que se vean para cuando estaba planificada cada una.
++ No meter una imagen de un QR si no es funcional o al menos aclarar que no lo es.
+
