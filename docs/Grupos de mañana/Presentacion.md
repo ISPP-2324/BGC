@@ -50,6 +50,13 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Siempre debe haber una transparencia con la productividad por miembro del equipo (horas).
 + Si se dicen las tareas que ha hecho cada subgrupo deben ir acompañadas de un diagrama de gantt simplificado o similar en el que se vean para cuando estaba planificada cada una.
 + No meter una imagen de un QR si no es funcional o al menos aclarar que no lo es.
-+  No basta con mostrar los problemas que ha habido durante la semana de trabajo, se debe mostrar siempre el análisis de riesgos inicial.
-+  No mezclar la retrospectiva con la autoevaluación.
-
++ No basta con mostrar los problemas que ha habido durante la semana de trabajo, se debe mostrar siempre el análisis de riesgos inicial.
++ No mezclar la retrospectiva con la autoevaluación.
++ Debe quedar reflejado en la presentación que cuando no se llega el trabajo planificado se ha incumplido alguna cláusula del Commitment Agreement.
++ Deben quedar claro los responsables de una tarea.
++ En la presentación deben quedar claros los análisis del rendimiento  y los límites operativos de github (github actions) para justificar el plan que necesitamos. Por ejemplo, cuánto tarda en evaluar a X usuarios para formar un grupo.
++ En la autoevaluación debe haber un análisis con métricas y números claros.
++ Siempre que  se muestren problemas en el trabajo en equipo en la presentación, se mostrarán las medidas que se tomarán para solventarlos con las métricas con las que se medirá la eficacia de las respuestas.
++ A cada sprint siempre se debe mostrar la planificación o re-planificación de los próximos sprints.
++ Se busca una mejora de la síntesis cada semana, no se deben eliminar conceptos de una a otra.
++ Mantener siempre una diapositiva con la Landing Page con QR aunque sea en la última diapositiva.
