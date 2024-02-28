@@ -25,6 +25,4 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 + No usar usuarios piloto ficticios, como famosos o personajes ilustres, otorga falta de seriedad.
 + No registrar como riesgo falta de usuarios piloto, representa inseguridad.
 
-## Semana 4
-+ Siempre incluir los estados de la comunicación en la gestión de usuarios pilotos.
 
