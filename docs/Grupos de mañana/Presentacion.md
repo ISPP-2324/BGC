@@ -51,4 +51,5 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Si se dicen las tareas que ha hecho cada subgrupo deben ir acompañadas de un diagrama de gantt simplificado o similar en el que se vean para cuando estaba planificada cada una.
 + No meter una imagen de un QR si no es funcional o al menos aclarar que no lo es.
 +  No basta con mostrar los problemas que ha habido durante la semana de trabajo, se debe mostrar siempre el análisis de riesgos inicial.
++  No mezclar la retrospectiva con la autoevaluación.
 
