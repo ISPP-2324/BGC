@@ -1,4 +1,4 @@
-En este documento vamos a encontrar el feedback recibido por el grupo 1
+En este documento vamos a encontrar el feedback dado a todos los grupos, recogido por el grupo 9, y reorganizado en tres secciones que consideramos las más importantes.
 ****
 ## Semana 1
 ### Temas que mejorar en las presentaciones:
