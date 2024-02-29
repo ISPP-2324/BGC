@@ -112,3 +112,32 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - Se debe actualizar el reporte de la IA utilizada, ya que es bastante importante.
 - Hay que asegurar que se proporcionen recursos como enlaces al dashboard de Clockify.
 - Discutir la cohesión y acoplamiento del equipo en relación con el rendimiento del proyecto.
+
+
+## Semana 4
+### Temas que mejorar en las presentaciones:
+- Incluir estadísticas relevantes como el número de comentarios en GitHub.
+- Incorporar elementos esenciales como el Elevator Speech, el estado del Commitment Agreement, el prototipo actual y la gestión de usuarios piloto.
+- Proporcionar medidas concretas para evaluar el rendimiento del proyecto.
+- Separar la discusión sobre el Commitment Agreement de la evaluación del rendimiento.
+- Mostrar rendimiento individual de cada miembro del equipo.
+- Evitar hacer referencia a presentaciones anteriores.
+- Profundizar en la asignación de roles y evitar un enfoque jerárquico.
+- Mejorar la eficiencia en la comunicación y presentación de la información.
+
+### Temas que mejorar en el trabajo realizado:
+- Mejorar la planificación del sprint, centrándose también en el siguiente sprint.
+- Profundizar en la gestión de usuarios piloto, incluyendo fechas y metodologías de recopilación de feedback.
+- Documentar detalladamente la resolución de problemas y las medidas implementadas.
+- Implementar medidas para evaluar la efectividad de las estimaciones y la coordinación del equipo.
+- Mejorar la monitorización del proyecto utilizando herramientas como Bluejay.
+- Mejorar el análisis del TCO teniendo en cuenta recursos como los minutos de GitHub Actions necesarios.
+- Diferenciar claramente entre gastos operativos (OPEX) y de capital (CAPEX).
+
+### Temas a tratar la siguiente semana:
+- Establecer un orden de presentación que incluya la introducción del negocio, estado actual del proyecto y retrospectiva del primer sprint.
+- En la introducción resumir secciones importantes como análisis de competidores, análisis del TCO diferenciando entre CAPEX y OPEX, y estimaciones de gastos e ingresos.
+- En la retrospectiva incluir el rendimiento individual de forma anónima, las medidas de calidad del código para ver su evolución, como se han gestionado los riesgos y el análisis de las soluciones, el reporte del clockify…
+- Discutir la planificación detallada del próximo sprint y cualquier replanificación necesaria.
+- Documentar adecuadamente los recursos y procesos clave, haciendo hincapié en el dashboard de Bluejay y el porfolio de documentación.
+- Incluir una transparencia final con QRs para la landing page y dar feedback.
