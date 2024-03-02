@@ -49,21 +49,68 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Recomendable ensayar al menos una vez con otra persona del grupo delante
 + Usar IA para apoyo en la presentación principalmente para el síntesis de la información
 + Si usamos códigos QR en nuestra presentación tener cuidado de no ponerse delante
-### Usuarios pilotos
+#### Usuarios pilotos
 + Realizar un cuadro de mando con los usuarios pilotos
-### Documentación
+#### Documentación
 + Gestionar la documentación con estrategias de código (Markdown, ramas propias, etiquetas, etc)
 + En el sprint 3 hay que tener los manuales usuarios hechos para las ONG
-### Medición del Rendimiento
+#### Medición del Rendimiento
 + Tener en cuenta que diferentes roles pueden precisar de diferentes maneras de medir el rendimiento
-### Retroespectiva
+#### Retroespectiva
 + Al igual que el rendimiento es diferente dependiendo de los roles (Mostrar diferencia tiempo entre lo estimado y lo real -> Reloj horas)
-### Commitment Agreement
+#### Commitment Agreement
 + Contemplar el grado de compromiso del Commitment Agreement en la presentación
 ### Análisis de Riesgos
 + Decir el estado actual de los riesgos
-### Código
+#### Código
 + Tener un changelog entre sprints (Releases)
-### Landing Page
+#### Landing Page
 + Poner enlace al Clockify
+
+## Semana 4
+#### Presentación:
++ Fluidez en la presentación
+#### Usuarios piloto:
++ Formularios para los usuarios pilotos
++ Buscar diferentes perfiles
++ Agenda de usuarios pilotos -> Cuando y qué tocan (Ir avisando no muy concreto)
+#### MVP:
++ Visualmente está feo, ponerlo de manera más visual
++ Demostrar que da valor al negocio y hace que tenga éxito
+#### Análisis de costes:
++ TCO: Coste de propiedad, están los costes iniciales fijos y luego los costes por mes como mantenimiento
++ Mostrar en la siguiente el OPEX (Operación) y TCO (Inversión Inicial)
++ Realizar Comparación TCO real y estimado
++ Ya que estamos más avanzados en el proyecto realizar estimación de gastos y ingresos estimando una cantidad de usuarios y con visiones pesimistas, optimistas y realistas
++ Evolución TCO según usuarios
+#### Mockups:
++ Decidir si enseñar un vídeo o en vivo
+#### Análisis de riesgos:
++ Evaluación de la respuesta al riesgo (¿Funcionó? ¿Cómo de bien?)
+#### Sprint Retroespective:
++ Decir claro el objetivo del sprint
+#### Medición Rendimiento:
++ Mejorar la diapositiva
++ Diapositivas con gráficas anónimas del rendimiento de cada individuo o subgrupo
++ Mostrar evolución respecto a la semana anterior
+#### Medición calidad:
++ Implementar analizadores de código (Comparaciones con futuros sprints)
++ Mencionar cuántos test tenemos (Esto no lo dijo pero lo incluiría)
++ Usar dashboard de BlueJ (Theory pill) para seguimiento (Mide las buenas prácticas)
+#### Sprint Backlog:
++ Tener en cuenta que el Sprint 2 hay más tiempo
++ Mostrar reloj de avance y comparar
++ Sprint Backlog 2 detallado ya
++ Mencionar priorización tareas backlog
+#### Commitment Agreement:
++ Bien nuestra sección de CA
++ Mostrar el nivel de compromiso de la gente (Quién quiere el 10 y quien quiere aprobar)
+#### Landing Page:
++ Poner el clocki en nuestro Docusaurus personal no en la LP (La semana pasada dijo lo contrario)
+#### Despliegue:
++ Dicen que van a actualizar el documento de despliegue (A la espera de que lo suban)
+#### Otros:
++ Gestión tareas por GitHub y dejar constancia de todo (dudas en comentarios de issues y eso)
++ Aplicar estrategias de ramificación y código a documentos (Cree un Docusaurus personal para nosotros y lo estoy poniendo listo para empezar a subir nuestros documentos)
+
 
