@@ -34,3 +34,39 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + Disonancia entre algunas imágenes y lo explicado.
 + No separar los costes de producción del TCO, puesto que dichos costes son parte de él.
 + Sintetizar la información del TCO.
+
+
+### Semana 3: 20/02
+
++ Mejorar el inicio efectivo.
++ Hacer uso del micrófono si es necesario.
++ Desglosar el TCO.
++ A la hora de mostrar el pricing, primero mostrar todos los planes y luego detallar cada uno.
++ Falta la Landing Page.
++ Añadir estadísticas sobre IA y desarrollo (cantidad de pull requests, si se ha usado mucho o no la IA).
++ Buscar usuarios piloto como estudiantes que buscan piso.
++ Cambiar los mockups para que contengan imágenes mas realistas.
+
+
+### Semana 4: 27/02
+
++ Resumen monótono en la presentación
++ Para el versionado de documentos se crea una carpeta de documentos y al final de cada semana se saca el pdf con un número de versión actualizado.
++ Falta el elevator pitch.
++ Leer las diapositivas si son largas para mantener la atención del público.
++ Más apoyo visual para el elevator pitch.
++ Especificar qué es la categoría "otros" en los usuarios piloto o eliminarla.
++ Trazar planificación sobre cómo tratar a los usuarios piloto.
++ Hablar de porcentajes cuando se hable de usuarios al mes.
++ Especificar cómo escala el tco y los beneficios con más usuarios.
++ Añadir estadísticas del INE.
++ Para regular el CA, si en una semana no se llega al 80, en la siguiente se hace un 120.
++ El rendimiento debe ser relativo al número de horas que se deben dedicar.
++ Definir a qué nota aspira cada miembro del grupo y especificarlo en el CA.
++ Especificar qué tareas hace cada subgrupo, con un pseudodiagrama de Gantt.
++ Para la retrospectiva, en vez de poner un tablero, poner un resumen.
++ Los problemas deben tener una propuesta de mejora, objetivo de mejora y la medición de cómo de efectiva es.
++ En la última columna de análisis de rendimiento, indicar con unas flechas verdes o rojas si el rendimiento está mejorando o empeorando.
++ Considerar ventajas y desventajas de una demo en directo o grabada.
++ Dividir sprints 2 y 3 en diapositivas aparte para evitar confusión sobre qué se hacce en cada uno.
++ Evitar hablar mal de los competidores y añadir más.
