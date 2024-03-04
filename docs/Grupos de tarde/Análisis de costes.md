@@ -24,3 +24,5 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 ## Semana 4
 
 - Ver de que manera evoluciona el TCO ¿más usuarios más costos de operación?
+- Análisis a corto plazo de gastos e ingreso,pensar en número estimado de usuarios clientes que vamos a tener(INTENTAR CONTEMPLAR SITUACIONES PESIMISTAS,NEUTRAS Y OPTIMISTAS)
+

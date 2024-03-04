@@ -28,3 +28,33 @@ Definir quién paga.
 + Tener en cuenta los usuarios que no pagan
 + Comentar algo sobre los prompts de IA usados
 + Commitment Agreement: Incluirlo en la presentación los cambios realizados y si se esta cumpliendo
+
+## Semana 3
+### Feedback profesores
++ Meter cláusulas de confidencialidad (-customer agreement?)
++ Distinguir entre proyecto y servicio(proyectos puede haber mucho dentro de un servicio)
++ Meter fotos más presentables
++ Especificar cómo estamos usando las métricas para medir el rendimiento
++ Buen inicio efectivo,pero se ha perdido ese hilo conductual a medida que ha ido desarrollandose la presentación
++ Estrategias de gestión de la documentación como código
++ Crear una rama para la documentación
++ No decir echar horas,mejorar el vocabulario
++ Practicar la presentación delante de todo el equipo,así se puede dar feedback antes de la presentación oficial
++ Documentar bien los cambios que se van haciendo y proyectarlo en la presentación
++ Intentar no ponerse delante de la pantalla de la presentación
++ Autodefensa al final de la presentación
+
+## Semana 4
+### Feedback profesores
++ Usuarios pilotos ¿Deberíamos aumentar el rango de edad?
++ TCO, muy escueto. Especificar un poco más. Decir para cuantos usuarios es el presupuesto PARA EL PRÓXIMO DIA HAY QUE VERLO.
++ Análisis de riesgos ->  PONERLO EN LA PRESENTACIÓN
++ En la tabla de rendimiento deberíamos añadir indicadores si el rendimiento esta subiendo o bajando 
++ Deberíamos añadir métricas de rendimiento, sintetizar la información en una gráfica/tabla. Una única transparencia con el rendimiento individual y cómo ha evolucionado de una semana a otra
++ Añadir comparativa de rendimiento de cada uno a lo largo de las semanas
++ Expresiones más neutras(utilizar palabras menos negativas), las medidas se adaptan en función de lo que se necesite.
++ Simplificar documentos, 105 documentos es demasiado. Portfolio de la documentación (docusaurus).. Estructura lógica de no más de 8-9 elementos de primer nivel. Pensar en el árbol de conocimiento (IMPORTANTE). Es mejor que la wiki de github.
++ Herramientas de markdown para poder colaborar en el mismo tiempo.
++ Muy buena gestión de los usuarios pilotos, vision temporal en 2 semanas
++ Customer agreement muy bueno.
++ Killer opener, innovar una posible idea es decir de donde eres, para que empaticen(compartir algo personal para que la gente empatice contigo es una buena técnica)
