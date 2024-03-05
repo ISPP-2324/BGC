@@ -18,3 +18,7 @@ En este documento vamos a encontrar feedback dado respecto a los posibles compet
 ## Semana 4
 + Pese a estar en la fase de desarrollo el análisis de competidores siempre debe estar presente en las presentaciones.
 + Para un análisis de competidores más sintetizado es suficiente con pararse en los tres más similares a nuestra plataforma focalizando en la característica más “killer”.
+
+## Semana 5
++ Para la sesión del 19/03/2024 hay que añadir en la presentación un resumen del análisis de competidores, siguiendo la estructura de la semana 4.
+
