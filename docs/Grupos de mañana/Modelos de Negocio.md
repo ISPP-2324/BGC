@@ -22,3 +22,6 @@ En este documento vamos a encontrar feedback respecto al modelo de negocio en el
 
 ## Semana 3
 + Seguir con la tónica de las estadisticas para la necesidad de negocio.
+
+## Semana 5
++ Para la semana del 19/03/2024 presentar un resumen del modelo de negocio como se ha hecho anteriormente.

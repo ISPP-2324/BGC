@@ -85,3 +85,27 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 
 6. **Claridad y concisión en la presentación:**
    - Se insta a ser más claro y directo en la presentación para evitar confusiones y mantener la atención del público.
+
+
+## Semana 4
+
+1. **Retrospectiva y plan de contingencia:**
+   - A la hora de la retrospectiva no solo tenemos que analizar qué hemos hecho bien y qué hemos hecho mal sino cómo vamos a tratar de resolver estas faltas, es decir, un plan de contingencia para estas.
+
+2. **Cuidado con el uso de códigos QR falsos:**
+   - Tener cuidado si hacemos uso de códigos QR falsos en nuestra presentación, ya que pueden redireccionar a lugares que no queramos mostrar o incluso peor.
+
+3. **Diferenciación respecto a la competencia:**
+   - No queda del todo claro en la presentación qué es aquello que nos diferencia de la competencia que puede hacer varios de los elementos que ofrecemos por separado.
+
+4. **Decoración excesiva de las diapositivas:**
+   - La decoración de las diapositivas parece algo excesiva, dando lugar a contaminación visual que puede quitar la atención del resto de esta.
+
+5. **Nombre del "diagrama de clases":**
+   - El "diagrama de clases", aunque acertado, debería nombrarse de otra manera para dejar más claro a qué se refiere, el nombre proporcionado daba lugar a confusión.
+
+6. **Reconocimiento del trabajo:**
+   - A la hora de conmemorar aquellos que han trabajado bien no es mala idea des-anonimizar para que aquellos que trabajen más se sientan recompensados y reconocidos.
+
+7. **Priorización de esfuerzos:**
+   - Es importante centrar los esfuerzos en aquello esencial lo primero. Si centramos el primer sprint solo en asentar bases podemos más tarde quedarnos sin tiempo para implementar estas funcionalidades clave.

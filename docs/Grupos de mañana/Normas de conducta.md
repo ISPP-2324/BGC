@@ -10,3 +10,6 @@ En este documento vamos a encontrar feedback respecto a las normas de  conducta 
 ## Semana 3
 + Seguir cuidando el lenguaje.
 
+## Semana 5
++ Ser puntuales en el descanso, se puede entrar hasta que sean las 12.40.
+

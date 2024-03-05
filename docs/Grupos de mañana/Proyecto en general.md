@@ -21,3 +21,6 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 + Durante el desarrollo dar preferencia a las funcionalidades core o del MVP, por ejemplo, si el login es secundario no debería estar siendo desarrollado en el primer sprint cuando el objetivo es acabar el MVP.
 + El testing no puede estar presente solamente en el sprint 3, deben ser FAST, se deben hacer a lo largo de todos los sprints.
 + En caso de tener problemas en el desarrollo, siempre valorar la posibilidad de mover tareas de un sprint a otro.
+
+## Semana 5
++ Enforcarse en el MVP, y si hay que recortar el alcance se recorta, siempre indicando el por qué, para que no se superen las 10 horas de trabajos.
