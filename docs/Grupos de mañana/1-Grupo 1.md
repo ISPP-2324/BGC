@@ -71,5 +71,23 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + Pensar en si es mejor una DEMO grabada o en directo.
 + Marcar más el reconocimiento que se dice que se tiene sobre el CA. Poner un pódium con los nombres.
 
+## Semana 5
++ Eliminar la captura del formulario, no es legible.
++ Falta un Elevator pitch claro.
++ Cambiar MPV por MVP.
++ Tener una demo grabada.
++ Para en la demo empezar por lo más importante, no el login.
++ Demasiados datos en el TCO, hacen complejo entender y seguir la presentación.
++ Las estimaciones a futuro (BUDGET) NO pueden ser lineales, datos como el número de usuarios deben hacer fluctuar los datos.
++ Evitar colores claros sobre blanco en los gráficos y poner etiquetas en cada eje.
++ Hacer poner  la clave de github (API) al cliente es arriesgado si la empresa es la que tiene que hacer los análisis. Sobre todo si el cliente ya usa su api para otras cosas, el requisito de uso es demasiado alto, no es profesional.
++ Estimar el número de peticiones que se deberían hacer en total y decir cuánto nos costaría con la responsabilidad de usar la API nosotros.
++ Deberíamos haber hecho el análisis de la capacidad de peticiones, para estimar el nº de peticiones óptimo para los clientes en los diferentes planes de subscripción.
++ Tendríamos que hacer el análisis económico de las peticiones que harán los clientes.
++ Estimaciones de usuarios (optimistas, pesimistas, realistas) más simple, realizar análisis PERT.
++ Realizar un pseudo gantt en la retrospectiva del sprint con las tareas que se han realizado en este.
++ Incluir documentación en el repositorio o en un docusaurus.
+
+
 
 
