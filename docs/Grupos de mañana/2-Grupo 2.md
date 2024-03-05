@@ -71,5 +71,23 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Tener en cuenta el orden de la presentación.
 - En el análisis de competidores indicar cual es la característica killer.
 
+## Semana 5
+
+- Diapositiva de problemas encontrados, no poner tanto tiempo.
+- Se ha seguido el orden dado por los profesores.
+- No se ha entregado una primera versión de la aplicación. Hay que unificar backend y frontend
+- Decir si hemos conseguido solucionar los problemas encontrados (en que estado están).
+- Se ha ido muy rapido en el planning.
+- Elevator tiene que tener un opener brutal, dejar en una frase de 10 sec el reclamo.
+- Prioridad al MVP, dejar el registro para el final.
+- En el TCO, poner una estimación a lo largo del año. Segmenar el beneficio en función del coste.
+- Hay precios que hay que ponerlos por mes (por ejemplo añadir la estimación del TCO en la gráfica).
+- Beneficio en base al coste de las operaciones de perfiles de los usuarios.
+- Todo lo que se habla en discord, pasarlo a por ejemplo comentarios en las issues.
+- Tener en github reflejo de los acuerdos tomados.
+- Poner el reloj del proyecto (el de clockify).
+
+
+
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

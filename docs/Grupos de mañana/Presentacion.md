@@ -61,3 +61,16 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Se busca una mejora de la síntesis cada semana, no se deben eliminar conceptos de una a otra.
 + Mantener siempre una diapositiva con la Landing Page con QR aunque sea en la última diapositiva.
 + Siempre incluir los estados de la comunicación en la gestión de usuarios pilotos.
+
+## Semana 5
++ Para la semana del 12/03/2024 se tiene que presentar (15 minutos) una retrospectiva genérica que incluya el tiempo invertido, tareas hechas, rendimiento del equipo, problemas, commitment agreement, etc...
++ También se debe hablar del procedimiento de evaluación de los miembros del grupo.
++ Para la semana del 19/03 tiene que tener una estrutura similar a la semana 4: killer opener, elevator, modelo de negocio, resumen de analisis de competidores, empezar a pensar en un story board (anuncio orientado a alguno de nuestros clientes), impacto legal del proyecto (licencia y otros aspectos legales), customer agreement.
++ Resumen analisis TCO (añadir actions), situación actual respecto al total, estimaciones realistas, optimistas, DEMO de la mitad del sprint2 (comparar demo sprint1 con la del 2), datos realistas (en la demo), retrospectiva de la mitad del sprint2.
++ ALM (todo lo que está en la píldora), hablar de como ha evolucionado la calidad del código.
++ Gestión de riesgos que se han convertido en problemas y problemas que no vengan de riesgos. Como vamos a reaccionar y como hemos reaccionado.
++ Reloj de avance del proyecto. (semanal y global)
++ Gestión de usuarios pilotos (como estamos gestionando ese feedback)
++ Planificación, reestimación del sprint2 y sprint3. Meter algo de pago para el sprint2.
++ Report de IAs, y qr de la landing al final de la presentación.
+
