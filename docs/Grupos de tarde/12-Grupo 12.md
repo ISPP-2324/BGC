@@ -58,3 +58,45 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Revisar a conciencia todos los puntos a presentar en clase para que no falte nada.
 
 + En cuanto a las medidas de rendimiento, falta detallar exactamente los procesos a seguir y las métricas a contabilizar.
+
+## Semana 4
+
++ No se ha hablado del core de nuestro sistema y de la planificación para el próximo sprint.
+
++ Comentar cuál es el objetivo principal de la aplicación para este primer sprint.
+
++ Indicar el formato de subida de imagen. Estudiar el nivel de dificultad del uso de este formato y el posible uso de plugins que cambie de formato.
+
++ Ha faltado incluir el planning y mencionar las IAs usadas.
+
++ Ha faltado el elevator pitch. Hay que vender la aplicación. Preparar un buen discurso con este objetivo.
+
++ Estudiar adaptar el modelo de puntuación a la nota que quiera conseguir cada uno. Por ejemplo, tenemos 100 horas y cada hora es un punto, cómo organizar la asignación de tareas.
+
++ Diferenciar entre CapEx y OpEx.
+
++ Identificar roles de una forma más concreta.
+
+## Semana 5
+
++ Buena presentación.
+
++ No se ha seguido el orden que se mencionó en el discussion guide.
+
++ No ha quedado el análisis de los costes. Los salarios de los desarrolladores no es
++ OpEx. CapEx es gastos en capital y OpEx gastos en operación. Los sueldos es el
++ capital humano de la empresa. Habría que hablar de subcontratación en nuestro caso y no hablar de la organización. Nosotros no subcontratamos a nadie, el equipo de proyecto pertenece a la organización. Los gastos de capital de la propia empresa es CapEx. Si subcontratamos, estamos contratando un servicio, eso sería OpEx. El trabajador de la empresa puede trabajar en cualquier parte de la empresa, es un gasto de esta. En la actualidad, casi todos los gastos empiezan a ser de operación (OpEx), pues se subcontratan muchos servicios.
+
++ Poner gráfica de los costes, comparando la predicción pesimista, optimista y objetiva.
+
++ El estado de los riesgos no ha quedado claro, tampoco cómo se van a tratar los mismos.
+
++ Identificar conceptos y separarlos en las diapositivas. De esta forma, en una diapositiva, un concepto, y en otra, otro.
+
++ El elevator pitch ha sido muy largo.
+
++ Trabajar mejor el análisis de coste y hacer una predicción realista del número de suscriptores por plan. No poner el mismo número de suscriptores en todos los planes.
+
++ Contabilizar el número de issues comentadas. Tenemos que comunicarnos a través de GitHub. Hacer comentarios en las issues para aclarar las tareas y las soluciones que se quieran desarrollar.
+
++ Usar convenciones semánticas para saber si las tareas son sobre documentación, código, etc.

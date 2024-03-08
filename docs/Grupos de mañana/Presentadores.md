@@ -21,3 +21,15 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 + Para practicar las presentaciones es recomendable la tecnica de hacerlo previamente con miembros del grupo, para que estos puedan aportar feedback sobre las diapositivas o la propia presentación.
 + Es también recomendable que el presentador no dependa de un compañero para que este pase las diapositivas: mejor usar algún tipo de mando.
 
+## Semana 4
++ Aunque se realice un Killer Opener, los presentadores deben recordar decir sus nombres.
++ Recordar que como presentador no recae en uno las responsabilidades del grupo al completo, disfrutar de la presentación.
++ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
++ No olvidar que es el moderador (no nuestro grupo) quien lleva el conteo del tiempo (fuera de evaluación) de las presentaciones.
++ Cuidar y evitar las muletillas.
++ No suspirar a lo largo de la presentación, da sensación de agotamiento de lo que se está contando.
++ Siempre cuidar y tener claro el hilo de la presentación. Debe de haber coherencia entre los puntos y no dejar conceptos sueltos.
+
+## Semana 5
++ Estar pendiente del tiempo para que no le sobre tiempo al final y pueda centrarse en lo importante.
+

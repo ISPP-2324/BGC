@@ -11,3 +11,6 @@ En este documento vamos a encontrar feedback respecto al uso de la IA a lo largo
 ## Semana 3 
 + Quieren ver mas el uso de la IA que le estamos dando.
 
+## Semana 5
++ Si se usan IAs nuevas, distintas de las convencionales, quiere que se le mencionen el uso para poder tomarlas como referencias para otros grupos.
+

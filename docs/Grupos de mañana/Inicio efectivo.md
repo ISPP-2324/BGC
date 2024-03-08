@@ -20,3 +20,6 @@ En este documento vamos a encontrar feedback respecto al inicio efectivo de las 
 + Inicio efectivo con un tono de voz llamativo.
 + Cuidado con el humos usado en el killer opener, puede dar lugar a un publico ofendido.
 + No hacerlos muy largos, sobre todo cuando estemos mas estrictos con el tiempo.
+
+## Semana 5
++ Intenar no repetir temáticas y hablar de cosas que todo el mundo pueda entender.

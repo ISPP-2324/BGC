@@ -56,4 +56,38 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
  + Tener claros y plasmar las metas y objetivos de cada sprint.
  + No quejarse NUNCA en medio de la presentación.
 
+## Semana 4
++ No suspirar a lo largo de la presentación, da sensación de agotamiento de lo que se está contando.
+Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
++ Falta claridad en el TCO. Se necesita definir un marco de tiempo (time frame) y una capacidad de demanda nominal para comprender mejor cómo se comportará el sistema en diferentes condiciones de uso, en resumen, cómo escalará. No solo se trata de cuántos usuarios pueden usarlo al mismo tiempo, sino también de cuándo y con qué nivel de demanda.
++ Hablar en profundidad de nuestra gestión de la documentación, mostrar el versionado de documentos que se lleva internamente.
++ En la presentación deben quedar claros los análisis del rendimiento  y los límites operativos de github (github actions) para justificar el plan que necesitamos. Por ejemplo, cuánto tarda en evaluar a X usuarios para formar un grupo.
++ La tabla de TEAM PERFORMANCE está bien, no cambiarla demasiado, pero le ha faltado la performance individual.
++ Faltan gráficas y métricas del rendimiento por cada integrante del equipo (anónimo). 
++ Las métricas del rendimiento debe ser capaz de comparar cada miembro del equipo y los datos obtenidos deben ser cotejados para evaluar al final de cada sprint. Para los que programan es sencillo; nº de commits… Pero ¿Cómo se está midiendo el rendimiento de la persona que coordina?
++ El DAFO ya no merece la pena incluirlo en la presentación.
++ Diferencias entre gitflow y goldenflow y decir cual nos merece la pena usar.
++ El número de usuarios que necesitamos para mantener la aplicación debe tener porcentajes con respecto al número de personas en el sector en Sevilla por ejemplo.
++ Pensar en si es mejor una DEMO grabada o en directo.
++ Marcar más el reconocimiento que se dice que se tiene sobre el CA. Poner un pódium con los nombres.
+
+## Semana 5
++ Eliminar la captura del formulario, no es legible.
++ Falta un Elevator pitch claro.
++ Cambiar MPV por MVP.
++ Tener una demo grabada.
++ Para en la demo empezar por lo más importante, no el login.
++ Demasiados datos en el TCO, hacen complejo entender y seguir la presentación.
++ Las estimaciones a futuro (BUDGET) NO pueden ser lineales, datos como el número de usuarios deben hacer fluctuar los datos.
++ Evitar colores claros sobre blanco en los gráficos y poner etiquetas en cada eje.
++ Hacer poner  la clave de github (API) al cliente es arriesgado si la empresa es la que tiene que hacer los análisis. Sobre todo si el cliente ya usa su api para otras cosas, el requisito de uso es demasiado alto, no es profesional.
++ Estimar el número de peticiones que se deberían hacer en total y decir cuánto nos costaría con la responsabilidad de usar la API nosotros.
++ Deberíamos haber hecho el análisis de la capacidad de peticiones, para estimar el nº de peticiones óptimo para los clientes en los diferentes planes de subscripción.
++ Tendríamos que hacer el análisis económico de las peticiones que harán los clientes.
++ Estimaciones de usuarios (optimistas, pesimistas, realistas) más simple, realizar análisis PERT.
++ Realizar un pseudo gantt en la retrospectiva del sprint con las tareas que se han realizado en este.
++ Incluir documentación en el repositorio o en un docusaurus.
+
+
+
 

@@ -17,3 +17,13 @@ En este documento vamos a encontrar feedback respecto a la documentación de des
 ## Semana 3
 + Documentación como código. Debe estar versionado. Los profesores quieren ver una rama que se llame doc y se vea ramificado (por nombre, documento, etc). https://docs-as-co.de/
 
+## Semana 4
++ Reflejar en el Commitment Agreement cuando personas tiene penalizaciones o “ya no van a por el 10”.
+
+## Semana 5
++ Se ha pedido pasar toda la documentación a git. A partir de ahora en los entregables no se van a entregar documentos físicos, se va a entregar una URL.
++ Se debe crear una carpeta "docs" donde está todos los documentos, tanto actas como documentos de las entregas.
++ Los profesores recomiendan desarrollar un docusaurus y desplegarlo, para dar ese enlace en la entrega.
++ Se ha sugerido pasarle a ChatGPT los documentos para que los pase automáticamente a formato markdown.
+
+

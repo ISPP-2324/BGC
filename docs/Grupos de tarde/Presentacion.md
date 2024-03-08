@@ -49,6 +49,7 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 - No olvidar el elevator speech.
 - Mostar el MVP, su utilidad es ver aquello que en general le da valor al negocio y va a hacer que el producto tenga éxito.
 - Hablar del costumer agreement.
+- Mostrar enlace a clockify
 
 ## Semana 5
 
