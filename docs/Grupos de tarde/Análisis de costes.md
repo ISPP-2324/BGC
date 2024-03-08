@@ -24,3 +24,7 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 ## Semana 4
 
 - Ver de que manera evoluciona el TCO ¿más usuarios más costos de operación?
+
+## Semana 5
+
+- Hacer el análisis de costes/beneficios pesimistas, optimistas y esperados.
