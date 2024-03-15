@@ -75,3 +75,11 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Minutos de las github actions: Calculo de de licencia, sin ser universidad.
 -   Commitment: Si alguien no aspira al 10 debe de aparecer
 -   Debe aparecer el responsable de cada tarea en la sección de commitment
+
+## Semana 5
+
+-   Aclarar qué GitHub Actions usamos, qué objetivos tienen y si tienen un impacto positivo.
+-   Toda cifra que se ponga debe ser aproximada.
+-   En el análisis positivo, pesimista y realista de ingresos deben aparecer porcentajes en vez de cifras exactas.
+-   La matriz RACI debe considerar más roles.
+-   Razonar el razonamiento detrás del individual performance.
