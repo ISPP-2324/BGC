@@ -14,3 +14,5 @@ En este documento vamos a encontrar feedback respecto al uso de la IA a lo largo
 ## Semana 5
 + Si se usan IAs nuevas, distintas de las convencionales, quiere que se le mencionen el uso para poder tomarlas como referencias para otros grupos.
 
+## Semana 6
++ En la medida de lo posible, en el documento de gestión de la IA, proveer enlaces al prompt y la respuesta proporcionada.

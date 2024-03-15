@@ -24,3 +24,8 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 
 ## Semana 5
 + Enforcarse en el MVP, y si hay que recortar el alcance se recorta, siempre indicando el por qué, para que no se superen las 10 horas de trabajos.
+
+## Semana 6
++ Los fin de semana y días festivos (semana santa y feria) deben de contar como días no laborables.
++ Si se han excedido las horas de trabajo en un sprint hay que intentar compensar en el próximo Sprint, ya sea recortando el alcance o replanificando para no excedernos en el presupuesto.
++ Hay que realizar un commitment agreement para los usuarios piloto.
