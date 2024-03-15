@@ -109,3 +109,31 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 
 7. **Priorización de esfuerzos:**
    - Es importante centrar los esfuerzos en aquello esencial lo primero. Si centramos el primer sprint solo en asentar bases podemos más tarde quedarnos sin tiempo para implementar estas funcionalidades clave.
+
+
+
+## Semana 5
+
+1. **Claridad en la retrospectiva:**
+   - Es crucial separar claramente qué aspectos se han manejado bien y cuáles han sido problemáticos en la retrospectiva. Mezclar esta información puede generar confusión y dificultar la identificación de áreas de mejora.
+
+2. **Atención durante el elevator pitch:**
+   - Se debe tener en cuenta cualquier posible distracción durante el elevator pitch, como el ruido del ascensor, que podría interferir con el mensaje que se intenta transmitir.
+
+3. **Información sobre costes invertidos:**
+   - Es importante incluir en la presentación cuánto de los costes mencionados se han invertido hasta el momento para proporcionar una imagen clara del estado financiero del proyecto.
+
+4. **Estructura del equipo:**
+   - Se debe proporcionar información sobre la estructura del equipo, especificando quién se encarga de qué en el proyecto para una mejor comprensión de las responsabilidades y roles dentro del equipo.
+
+5. **Profundidad en la gestión de rutinas:**
+   - La sección de gestión de rutinas en el prototipo ha sido percibida como demasiado superficial. Debería haberse abordado de manera más exhaustiva, especialmente considerando que es un aspecto central de la aplicación.
+
+6. **Desglose de horas por persona:**
+   - Se sugiere mencionar un desglose específico de las horas invertidas por persona, separando el rendimiento individual de la cantidad de horas dedicadas. Esto proporcionará una visión más detallada del esfuerzo realizado por cada miembro del equipo.
+
+7. **Planificación para futuros sprints:**
+   - Es necesario enfocarse más en la planificación para los próximos sprints. La información proporcionada en la presentación fue escueta y rápida, lo que dificultó su comprensión. Se debe dedicar más tiempo a este aspecto para una planificación más efectiva.
+
+8. **Estadísticas sobre el uso de tecnologías:**
+   - Se recomienda incluir una diapositiva que muestre estadísticas sobre el uso de tecnologías como GitHub y Discord. Además, se debe enfatizar la importancia de comunicar todas las conversaciones relacionadas con el proyecto a través de las plataformas designadas, como GitHub en este caso.
