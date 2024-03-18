@@ -83,3 +83,11 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   En el análisis positivo, pesimista y realista de ingresos deben aparecer porcentajes en vez de cifras exactas.
 -   La matriz RACI debe considerar más roles.
 -   Razonar el razonamiento detrás del individual performance.
+
+## Semana 6
+
+-   Cuando pongamos solución a un problema debemos añadir una tarea de seguimiento para dicha solución.
+-   No evaluar todos a todos, solo a las personas con las que se trabaja.
+-   Las evaluaciones entre nosotros no deberían ser anónimas.
+-   Empezar a poner la versión del Commitment Agreement en las presentaciones.
+-   Mejorar el tema deadlines. Se podría hacer un seguimiento de tareas durante la semana.
