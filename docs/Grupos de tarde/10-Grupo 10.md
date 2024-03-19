@@ -106,11 +106,54 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Bien nuestra sección de CA
 + Mostrar el nivel de compromiso de la gente (Quién quiere el 10 y quien quiere aprobar)
 #### Landing Page:
-+ Poner el clocki en nuestro Docusaurus personal no en la LP (La semana pasada dijo lo contrario)
++ Poner el clocki en nuestro Docusaurus personal no en la LP
 #### Despliegue:
 + Dicen que van a actualizar el documento de despliegue (A la espera de que lo suban)
 #### Otros:
 + Gestión tareas por GitHub y dejar constancia de todo (dudas en comentarios de issues y eso)
 + Aplicar estrategias de ramificación y código a documentos (Cree un Docusaurus personal para nosotros y lo estoy poniendo listo para empezar a subir nuestros documentos)
+
+## Semana 5
+### Presentación
++ NO cambiar la presentación entregada, ni siquiera el orden de las diapositivas
++ Entregar el vídeo/demos a partir de ahora incluso si ocupa un montón
++ Incluir los vídeos en las diapositivas y salirte de ellas para mostrarlo
+### Análisis de Costes
++ Poner el coste de electricidad y agua está bien
++ Las diapositvas de CAPEX y OPEX está bastante compacto, nos recomiendan separarlas un poc (Decían de ponerlo de forma tabulada)
++ No nos ha pasado a nosotros pero importante tener en cuenta que los CAPEX son las cosas que son de nuestra propiedad/capital tras el gasto, Github por ejemplo no es CAPEX
++ Para los planes de contingencia evaluar si son CAPEX o OPEX porque depende del tipo de plan
+### Usuarios pilotos
++ Nos recomiendan tener un archivo o herramienta de monitoreo (Un excel estaría bien)
+### Gestión de código
++ Tenemos que tener un repositorio muy bonito
++ Usar conventional commits, plantillas de issues, dejar constancia en las issues de las dudas, etc...
++ Buscar que licencia le vamos a dar a la ONG
+### Dashboard
++ El reloj de horas actual no está muy claro visualmente, se recomienda coger el de clockify
++ Añadir número de comentario en issues
+### Otros
++ La diapositiva de status del Github Project les ha gustado mucho, quieren que también enseñemos las etiquetas y decir si hay plantilla
++ Recomiendan que se usen patrones de diseño para aquellos que tienen problemas de interdependencia entre Backend y Frontend
++ En la sección de QR les han recomendado a otros grupos poner en el enlace al Clockify con las horas ponerlas por persona en vez de solo el total
+
+## Semana 6 (Retroespectiva)
++ Aún no esta disponible
+
+## Semana 7
+### Presentación
++ No mencionar el Backlog del 1 (Recomendación mía)
++ Vídeo incluirlo en la presentación sin salir de las diapositiva (feedback pasado)
++ Incluir métricas de rendimiento de equipo y calidad
++ No siguen el orden de la guía de presentación
++ No hay gráfica de comparación de gastos
++ No hay estructura del equipo
++ Darle la vuelta a los porcentajes en el CA
++ Poner versión del CA
++ Poner formulita de cálculo de porcentaje en el CA
++ Reloj del proyecto (Una diapositiva dedicada)
++ Lecciones aprendidas 
++ API al OPEX si la usamos
+
 
 
