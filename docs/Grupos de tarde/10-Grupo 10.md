@@ -137,3 +137,23 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Recomiendan que se usen patrones de diseño para aquellos que tienen problemas de interdependencia entre Backend y Frontend
 + En la sección de QR les han recomendado a otros grupos poner en el enlace al Clockify con las horas ponerlas por persona en vez de solo el total
 
+## Semana 6 (Retroespectiva)
++ Aún no esta disponible
+
+## Semana 7
+### Presentación
++ No mencionar el Backlog del 1 (Recomendación mía)
++ Vídeo incluirlo en la presentación sin salir de las diapositiva (feedback pasado)
++ Incluir métricas de rendimiento de equipo y calidad
++ No siguen el orden de la guía de presentación
++ No hay gráfica de comparación de gastos
++ No hay estructura del equipo
++ Darle la vuelta a los porcentajes en el CA
++ Poner versión del CA
++ Poner formulita de cálculo de porcentaje en el CA
++ Reloj del proyecto (Una diapositiva dedicada)
++ Lecciones aprendidas 
++ API al OPEX si la usamos
+
+
+
