@@ -100,3 +100,11 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Contabilizar el número de issues comentadas. Tenemos que comunicarnos a través de GitHub. Hacer comentarios en las issues para aclarar las tareas y las soluciones que se quieran desarrollar.
 
 + Usar convenciones semánticas para saber si las tareas son sobre documentación, código, etc.
+
+## Semana 7
++ Evaluar opción de reportar para combatir contra el plagio de diseños. Analizar consecuencias legales de problemas de copyright.
++ No utilizar el storyboard como killer opener. Deben coexistir las dos cosas, no pisarse entre ambas.
++ Ya que tenemos un storyboard que presenta una historia, se puede realizar un hilo conductor a lo largo de la presentación.
++ Analizar el hecho de que un diseño se difunda por un comprador, de forma que sea inútil comprar el diseño nuevamente. Debemos evitar esta casuística y fomentar la compraventa en la aplicación.
++ Seguir el orden definido en el discussion guide.
++ Dar libertad a los usuarios pilotos, en algunos casos, para que se enfrenten ellos, sin guía alguna, a la funcionalidad. Esto lo podemos hacer con ciertas funcionalidades, de forma que obtengamos un feedback más realista por parte de ellos.
