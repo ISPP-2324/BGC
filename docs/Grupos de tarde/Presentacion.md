@@ -55,3 +55,7 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 
 - TODO tiene que estar contenido en la presentación, el trabajo puede que lo corrija alguien que no ha visto la presentación.
 - No hacer cambios de la presentación entregada.
+
+## Semana 7
++ No usar el storyboard como killer opener
++ Ya que tenemos un storyboard, utilizar este hilo conductor a lo largo de toda la presentación y por ejemplo cuando estmos haciendo la demo, podemos editar el video y poner referencias al storyboard.
