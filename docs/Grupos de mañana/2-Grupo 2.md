@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://github.com/ispp-2324-ocial/KB/discussions/categories/lessons-improvements *Última actualización 20/02 19.00h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 19/03 19.20h*
 ****
 ## Semana 1
 
@@ -87,6 +87,14 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Tener en github reflejo de los acuerdos tomados.
 - Poner el reloj del proyecto (el de clockify).
 
+
+## Semana 7
+
+- Hacer un StoryBoard tanto para cliente como para usuario.
+- Diapositiva 22, citar fuentes.
+- Demo realistas (tema fotos en los eventos).
+- Con el nuevo competidor, sacar un nuevo riesgo.
+- Muy bien el Opex y Capex.
 
 
 ****
