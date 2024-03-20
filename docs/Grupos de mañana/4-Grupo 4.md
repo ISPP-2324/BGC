@@ -96,3 +96,14 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + Realizar acuerdo con grupo de usuarios piloto para asegurar que ambas partes cumplen el trabajo en el tiempo que se requiere.
 + Mostrar perfiles de github y clockify.
 + Ver puntuaciones proporcionadas y tareas asignadas a cada individuo. 
+
+### Semana 7: 19/03
+
++ Comprobar el volumen antes de la presentación para evitar problemas.
++ No confundir Commitment Agreement con Customer Agreement.
++ Facilitar un enlace para el GDPR Y terminos de uso.
++ Poner datos realistas en la demo.
++ Hacer mayor énfasis en diferencias con los competidores.
++ Indicar estado de los problemas y métricas para medir si se están solucionando.
++ Justificar el recorte en el alcance.
++ Mejorar elevator pitch.
