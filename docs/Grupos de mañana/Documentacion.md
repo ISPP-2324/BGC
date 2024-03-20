@@ -26,4 +26,7 @@ En este documento vamos a encontrar feedback respecto a la documentación de des
 + Los profesores recomiendan desarrollar un docusaurus y desplegarlo, para dar ese enlace en la entrega.
 + Se ha sugerido pasarle a ChatGPT los documentos para que los pase automáticamente a formato markdown.
 
+## Semana 7
++ Reflejar en el Commitment Agreement las formulas usadas para la evaluación de miembros del equipo.
+
 

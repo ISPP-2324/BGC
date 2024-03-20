@@ -31,3 +31,8 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + Para la semana del 19/03/2024 se ha pedido un resumen del TCO (añadiendo el actions), indicar la situación actual respecto actual y añadir las estimaciones realistas, pesimistas y optimistas.
 + Para las estimaciones se ha pedido un porcentaje sobre el total de usuarios, e indicar de dónde salen los numeros estimados y totales.
 + También se ha pedido que cuando insertemos gráficas, no pueden ser lineales, puesto que no siempre vamos a tener la misma cantidad de usuarios.
+
+## Semana 7
++ Hacer costes vs beneficios a 24 meses vista. (TCO a dos años).
++ Para la semana del 02/04 se pide un resumen del TCO con Capex/Opex.
+

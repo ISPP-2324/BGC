@@ -27,3 +27,6 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 
 ## Semana 5
 + Hay que explicar cómo se va a tomar el feedback de los usuarios pilotos, quieren ver que se les hace caso de verdad.
+
+## Semana 7
++ Mostrar que se esté de acuerdo con el customer agreement realizado.

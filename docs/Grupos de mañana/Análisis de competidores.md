@@ -22,3 +22,6 @@ En este documento vamos a encontrar feedback dado respecto a los posibles compet
 ## Semana 5
 + Para la sesión del 19/03/2024 hay que añadir en la presentación un resumen del análisis de competidores, siguiendo la estructura de la semana 4.
 
+## Semana 7
++ Dejar claras las diferencias de nuestro producto con nuestros competidores.
+
