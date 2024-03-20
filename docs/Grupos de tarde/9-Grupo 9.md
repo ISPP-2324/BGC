@@ -1,4 +1,4 @@
-En este documento vamos a encontrar el feedback recibido por el grupo 1
+En este documento vamos a encontrar el feedback dado a todos los grupos, recogido por el grupo 9, y reorganizado en tres secciones que consideramos las más importantes.
 ****
 ## Semana 1
 ### Temas que mejorar en las presentaciones:
@@ -75,3 +75,99 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - Reforzar el compromiso con el commitment agreement y definir la metodología de desarrollo, incluyendo métricas para medir el rendimiento y la calidad.
 - Asegurar el uso efectivo de las herramientas obligatorias, como GitHub, y considerar la integración de herramientas opcionales, como análisis de código.
 - Planificar el despliegue de los entregables en diferentes URLs y continuar aportando reportes sobre el uso de la IA en el proyecto.
+
+
+## Semana 3
+### Temas que mejorar en las presentaciones:
+- Mejorar la capacidad de sintaxis en la presentación.
+- Evitar frases demasiado largas en el análisis DAFO.
+- Asegurarse de que la información sobre los competidores sea visible y clara.
+- Aclarar términos como TCO (Costo Total de Propiedad).
+- Añadir texto explicativo debajo de los filtros con imágenes.
+- Incluir apoyo visual para el Commitment Agreement, como una tabla con indicadores de cumplimiento.
+- Incluir el estado de los usuarios pilotos y del Commitment Agreement.
+- Incorporar la planificación y la metodología utilizada.
+- Agregar gráficas para ilustrar datos relevantes.
+- Practicar la presentación previamente grabándose y viendo que se puede sintetizar.
+
+### Temas que mejorar en el trabajo realizado:
+- Detallar el plan de precios exacto de las herramientas incluidas en el TCO.
+- Documentar los cambios realizados, similar a como se hace en un changelog.
+- Establecer medidas de rendimiento precisas.
+- Cuantificar y definir objetivos para las medidas destinadas a resolver problemas.
+- Monitorear el progreso del proyecto con respecto a las horas y tareas planificadas.
+- Contactar a los usuarios pilotos y establecer un cuadro de mando para su seguimiento.
+- Implementar el feedback recibido de los usuarios pilotos de manera efectiva.
+- Las imágenes que se utilicen deben ser de un repositorio público.
+- Establecer una comunicación más sistemática a través de GitHub para resolver dudas.
+- Mantener coherencia y claridad en los commits para facilitar la automatización del changelog.
+
+### Temas a tratar la siguiente semana:
+- Resumir el proyecto y lo visto en anteriores presentaciones al inicio de la presentación.
+- Mostrar el estado actual del prototipo desarrollado.
+- Realizar una retrospectiva de la primera semana de trabajo, incluyendo medidas de rendimiento, estado de los riesgos y lecciones aprendidas.
+- Revisar la planificación y, si es necesario, replanificar el proyecto.
+- Reasignar responsabilidades según sea necesario.
+- Gestionar adecuadamente la interacción con los usuarios pilotos y la implementación del feedback recibido.
+- Se debe actualizar el reporte de la IA utilizada, ya que es bastante importante.
+- Hay que asegurar que se proporcionen recursos como enlaces al dashboard de Clockify.
+- Discutir la cohesión y acoplamiento del equipo en relación con el rendimiento del proyecto.
+
+
+## Semana 4
+### Temas que mejorar en las presentaciones:
+- Incluir estadísticas relevantes como el número de comentarios en GitHub.
+- Incorporar elementos esenciales como el Elevator Speech, el estado del Commitment Agreement, el prototipo actual y la gestión de usuarios piloto.
+- Proporcionar medidas concretas para evaluar el rendimiento del proyecto.
+- Separar la discusión sobre el Commitment Agreement de la evaluación del rendimiento.
+- Mostrar rendimiento individual de cada miembro del equipo.
+- Evitar hacer referencia a presentaciones anteriores.
+- Profundizar en la asignación de roles y evitar un enfoque jerárquico.
+- Mejorar la eficiencia en la comunicación y presentación de la información.
+
+### Temas que mejorar en el trabajo realizado:
+- Mejorar la planificación del sprint, centrándose también en el siguiente sprint.
+- Profundizar en la gestión de usuarios piloto, incluyendo fechas y metodologías de recopilación de feedback.
+- Documentar detalladamente la resolución de problemas y las medidas implementadas.
+- Implementar medidas para evaluar la efectividad de las estimaciones y la coordinación del equipo.
+- Mejorar la monitorización del proyecto utilizando herramientas como Bluejay.
+- Mejorar el análisis del TCO teniendo en cuenta recursos como los minutos de GitHub Actions necesarios.
+- Diferenciar claramente entre gastos operativos (OPEX) y de capital (CAPEX).
+
+### Temas a tratar la siguiente semana:
+- Establecer un orden de presentación que incluya la introducción del negocio, estado actual del proyecto y retrospectiva del primer sprint.
+- En la introducción resumir secciones importantes como análisis de competidores, análisis del TCO diferenciando entre CAPEX y OPEX, y estimaciones de gastos e ingresos.
+- En la retrospectiva incluir el rendimiento individual de forma anónima, las medidas de calidad del código para ver su evolución, como se han gestionado los riesgos y el análisis de las soluciones, el reporte del clockify…
+- Discutir la planificación detallada del próximo sprint y cualquier replanificación necesaria.
+- Documentar adecuadamente los recursos y procesos clave, haciendo hincapié en el dashboard de Bluejay y el porfolio de documentación.
+- Incluir una transparencia final con QRs para la landing page y dar feedback.
+
+
+## Semana 5
+### Temas que mejorar en las presentaciones:
+- Mantener el orden de presentación establecido para evitar confusiones.
+- Especificar la distinción entre gastos operativos (OPEX) y de capital (CAPEX).
+- Reducir la cantidad de tablas de costes y considerar representar la información con gráficos.
+- Abordar los riesgos surgidos durante el proyecto y su gestión.
+- Hay que asegurar que el Elevator Speech sea conciso y efectivo, evitando la redundancia y abordando los diferentes aspectos del negocio.
+- Proporcionar estadísticas claras, como el número de comentarios en GitHub, y comentar las issues y pull requests.
+- Mejorar la explicación de los planes de precios y validar fórmulas con ejemplos concretos.
+- Incluir una visión completa de lo entregado y evitar la síntesis excesiva que dificulte la comprensión
+
+### Temas que mejorar en el trabajo realizado:
+- Mejorar la documentación como código y gestionar eficientemente los repositorios, utilizando herramientas como Docusaurus.
+- Centrarse en la entrega de resultados tangibles y realizar estimaciones realistas de costos y riesgos.
+- Reestimar la planificación del segundo sprint y establecer objetivos claros para futuras iteraciones.
+- Profundizar en el análisis del TCO y considerar aspectos legales y de privacidad del proyecto.
+- Distinguir claramente entre diferentes tipos de actividades en herramientas como Clockify.
+- Detallar la situación actual de los costos y planes de futuro en términos pesimistas, optimistas y esperados.
+- Separar claramente el rendimiento del proyecto del estado del Commitment Agreement.
+- Considerar herramientas como MockAPI para facilitar el trabajo del frontend sin depender del backend.
+
+### Temas a tratar la siguiente semana:
+- Mantener una estructura de presentación consistente, con énfasis en la retrospectiva del proyecto y la planificación futura.
+- Empezar a abordar aspectos legales y de privacidad del proyecto.
+- Analizar en detalle el rendimiento del proyecto y establecer objetivos claros para futuras iteraciones.
+- Mostrar demo del prototipo desplegado, con el core más las nuevas funcionalidades con datos reales.
+- Realizar una retrospectiva detallada del proyecto, analizando tendencias y resultados.
+

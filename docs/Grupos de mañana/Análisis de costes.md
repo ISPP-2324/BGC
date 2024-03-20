@@ -4,7 +4,7 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + El Presupuesto Temporal consiste en 150 horas de trabajo por cada miembro del grupo.
 + Asegurarse de tener un plan claro y realista en términos de tiempo.
 + Considerar la viabilidad de las metas dentro del plazo establecido.
-+ Coste Total de Operación (TCO): Consiste en cúanto cuesta mantener la aplicación activa al mes. Es super importante.
++ Coste Total de Propiedad (TCO): Consiste en cúanto cuesta mantener la aplicación activa al mes. Es super importante.
 + Es necesario realizar un análisis de coste preeliminar. Esto está contemplado en una pildora teorica.
 
 ## Semana 2
@@ -35,3 +35,4 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 ## Semana 7
 + Hacer costes vs beneficios a 24 meses vista. (TCO a dos años).
 + Para la semana del 02/04 se pide un resumen del TCO con Capex/Opex.
+

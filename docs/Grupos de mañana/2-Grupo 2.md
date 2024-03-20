@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://github.com/ispp-2324-ocial/KB/discussions/categories/lessons-improvements
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 19/03 19.20h*
 ****
 ## Semana 1
 
@@ -38,6 +38,64 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 + Colocar el enlace de la base de conocimiento del grupo en la base general.
 + Hacer énfasis en los feedback de la semana pasada (marcarlo en la diapositiva de alguna manera).
 + El acuerdo de compromiso hay que irlo monitorizándolo. Decir también si este se ha cumplido o no.
+
+## Semana 3
+
+- Recomendaciones de planes mediante puja (aplicar la ley de la oferta y la demanda).
+- Para el futuro analizar costes marketing
+- Opener bueno pero arriesgado, pensar en algo más seguro.
+- Diapositiva del ROI. Especificar de donde salen esos 2 decimales.
+- Quitar las trasparencias en las que aparecen cosa de la asignatura (en la de client != user)
+- Estructura en grupos. En el backend mirar la arquitectura de microservicios (es la que se suele usar).
+- Gestión de la documentación.
+- En los riesgos, resumirlo quedandonos con los más importantes.
+- Indicar el número de horas que pensamos que vamos a usar (github actions).
+- Explicar el agreement, decir el estado. Analizar el rendimiento de cada miembro del grupo e indicarlo con gráficos.
+- Diapositiva 12. Decir que es lo que tenemos ya.
+- Muy buena gestión de usuarios pilotos.
+- Bien que en el Sprint 3 tengamos pocas tareas.
+- Poner fotos uniformes.
+- Cuando se suba la PPT, que nos lo hayan presentado a todo el grupo y den su visto bueno. 
+- Añadir un slide con el grado de acuerdo. Anañizar el rendimiento de cada usuario.
+
+## Semana 4
+
+- Buena presentación.
+- Como vamos a usar la encuesta referente a los problemas encontrados para afrontarlos.
+- Buena gestión de usuarios pilotos.
+- Que nos quedemos con los 3 primeros del analisis de competidores. (Hemos hecho un analisis de 9 pero nos centramos en ...)
+- Estimación de minutos del github actions.
+- Opener no muy efectivo. (Meterle drama)
+- Elevator tiene que estar.
+- Costes de mantenimiento (lo puesto no es mantenimiento, lo puesto es coste de operación).
+- Tener en cuenta el orden de la presentación.
+- En el análisis de competidores indicar cual es la característica killer.
+
+## Semana 5
+
+- Diapositiva de problemas encontrados, no poner tanto tiempo.
+- Se ha seguido el orden dado por los profesores.
+- No se ha entregado una primera versión de la aplicación. Hay que unificar backend y frontend
+- Decir si hemos conseguido solucionar los problemas encontrados (en que estado están).
+- Se ha ido muy rapido en el planning.
+- Elevator tiene que tener un opener brutal, dejar en una frase de 10 sec el reclamo.
+- Prioridad al MVP, dejar el registro para el final.
+- En el TCO, poner una estimación a lo largo del año. Segmenar el beneficio en función del coste.
+- Hay precios que hay que ponerlos por mes (por ejemplo añadir la estimación del TCO en la gráfica).
+- Beneficio en base al coste de las operaciones de perfiles de los usuarios.
+- Todo lo que se habla en discord, pasarlo a por ejemplo comentarios en las issues.
+- Tener en github reflejo de los acuerdos tomados.
+- Poner el reloj del proyecto (el de clockify).
+
+
+## Semana 7
+
+- Hacer un StoryBoard tanto para cliente como para usuario.
+- Diapositiva 22, citar fuentes.
+- Demo realistas (tema fotos en los eventos).
+- Con el nuevo competidor, sacar un nuevo riesgo.
+- Muy bien el Opex y Capex.
+
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

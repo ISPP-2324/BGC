@@ -26,3 +26,4 @@ En este documento vamos a encontrar feedback respecto a los posibles riesgos de 
 
 ## Semana 7
 + Es necesario tener planes de contingencia por si algun miembro tuviera algún problema (En especial si se trata de un presentador que no pueda presentar).
+

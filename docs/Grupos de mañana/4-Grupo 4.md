@@ -34,3 +34,76 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + Disonancia entre algunas imágenes y lo explicado.
 + No separar los costes de producción del TCO, puesto que dichos costes son parte de él.
 + Sintetizar la información del TCO.
+
+
+### Semana 3: 20/02
+
++ Mejorar el inicio efectivo.
++ Hacer uso del micrófono si es necesario.
++ Desglosar el TCO.
++ A la hora de mostrar el pricing, primero mostrar todos los planes y luego detallar cada uno.
++ Falta la Landing Page.
++ Añadir estadísticas sobre IA y desarrollo (cantidad de pull requests, si se ha usado mucho o no la IA).
++ Buscar usuarios piloto como estudiantes que buscan piso.
++ Cambiar los mockups para que contengan imágenes mas realistas.
+
+
+### Semana 4: 27/02
+
++ Resumen monótono en la presentación
++ Para el versionado de documentos se crea una carpeta de documentos y al final de cada semana se saca el pdf con un número de versión actualizado.
++ Falta el elevator pitch.
++ Leer las diapositivas si son largas para mantener la atención del público.
++ Más apoyo visual para el elevator pitch.
++ Especificar qué es la categoría "otros" en los usuarios piloto o eliminarla.
++ Trazar planificación sobre cómo tratar a los usuarios piloto.
++ Hablar de porcentajes cuando se hable de usuarios al mes.
++ Especificar cómo escala el tco y los beneficios con más usuarios.
++ Añadir estadísticas del INE.
++ Para regular el CA, si en una semana no se llega al 80, en la siguiente se hace un 120.
++ El rendimiento debe ser relativo al número de horas que se deben dedicar.
++ Definir a qué nota aspira cada miembro del grupo y especificarlo en el CA.
++ Especificar qué tareas hace cada subgrupo, con un pseudodiagrama de Gantt.
++ Para la retrospectiva, en vez de poner un tablero, poner un resumen.
++ Los problemas deben tener una propuesta de mejora, objetivo de mejora y la medición de cómo de efectiva es.
++ En la última columna de análisis de rendimiento, indicar con unas flechas verdes o rojas si el rendimiento está mejorando o empeorando.
++ Considerar ventajas y desventajas de una demo en directo o grabada.
++ Dividir sprints 2 y 3 en diapositivas aparte para evitar confusión sobre qué se hacce en cada uno.
++ Evitar hablar mal de los competidores y añadir más.
+
+
+### Semana 5: 05/03
+
++ Falta el estado de los usuarios piloto.
++ Poner el número de las diapositivas alto para que se vea mejor desde atrás.
++ Orden de "Uso de las IAs" y "Usuarios piloto" incorrectos.
++ Poner fotos de apoyo en el killer opener.
++ Grabar presentación está bien, pero hacer más zoom.
++ No perder tiempo rellenando formularios, precargarlos.
++ No usar la misma fórmula de rendimiento para todos los roles.
++ Las tareas de coordinación no se miden como puntos de historia.
++ Añadir login social.
++ La matriz RACI debe corresponder con el github.
++ Ver como medir las acciones de mejora para los problemas.
+
+### Semana 6: 12/03 (Retrospectiva)
+
++ Ajustar la linea ideal a lo real, no aplicarnos fines de semana/fiesta y usar nuestro calendario de horas
++ Usar una épica/milestone que reuna las issues de refactorización
++ Separar la nota de desarrollo y coordinación y medir el grado de satisfacción del grupo con respecto al GM. (Para que el bajo rendimiento de un miembro del grupo no le afecte).
++ Usar gráfica de control chart para ver la diferencia entre tareas que se entregan antes y más tarde, buscar que el control chart llegue lo más cercano a la media para mostrar la equidad entre las tareas.
++ Poner issues de control de calidad para saber si la planificación está bien definida
++ Realizar acuerdo con grupo de usuarios piloto para asegurar que ambas partes cumplen el trabajo en el tiempo que se requiere.
++ Mostrar perfiles de github y clockify.
++ Ver puntuaciones proporcionadas y tareas asignadas a cada individuo. 
+
+### Semana 7: 19/03
+
++ Comprobar el volumen antes de la presentación para evitar problemas.
++ No confundir Commitment Agreement con Customer Agreement.
++ Facilitar un enlace para el GDPR Y terminos de uso.
++ Poner datos realistas en la demo.
++ Hacer mayor énfasis en diferencias con los competidores.
++ Indicar estado de los problemas y métricas para medir si se están solucionando.
++ Justificar el recorte en el alcance.
++ Mejorar elevator pitch.
