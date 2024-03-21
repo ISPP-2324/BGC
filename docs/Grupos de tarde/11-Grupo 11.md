@@ -107,3 +107,30 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - No tenemos que demostrar que hemos hecho las cosas mal, hay que mirar las soluciones.
 - No hacer referencias a otras presentaciones que hemos hecho.
 - Ha faltado: elevator speech, mvp, casos de uso y explicar de donde viene las formulas.
+
+## Semana 5
+
+### Aplicación
+
+- Para el tamaño del parking poner algún tipo de medida. Por ejemplo algún coche como medida.
+
+### Costes
+
+- Ir actualizando los costes con las horas que llevamos.
+- Calcular los beneficios y gastos optimistas, pesimistas y esperados.
+- No juntar TCO y Mantenimiento.
+
+### Presentación
+
+- Presentar la situcación altual de los costes, cuanto llevamos gastado.
+- Dejar muy claro en la presentación el rendimiento del equipo y el estado del comitmment agreement. Deben estar separados.
+- Presentar el objetivo de los 3 sprint.
+- Presentar tablas más claras que indique que es cada columna/fila.
+
+### Riesgos
+
+- Muy buena manera de presentar los riesgos.
+
+### Herramientas
+
+- Descargarse el pluging de Clockify, muy util para contavilizar el tiemo en el github.

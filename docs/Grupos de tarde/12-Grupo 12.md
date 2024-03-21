@@ -76,3 +76,35 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Diferenciar entre CapEx y OpEx.
 
 + Identificar roles de una forma más concreta.
+
+## Semana 5
+
++ Buena presentación.
+
++ No se ha seguido el orden que se mencionó en el discussion guide.
+
++ No ha quedado el análisis de los costes. Los salarios de los desarrolladores no es
++ OpEx. CapEx es gastos en capital y OpEx gastos en operación. Los sueldos es el
++ capital humano de la empresa. Habría que hablar de subcontratación en nuestro caso y no hablar de la organización. Nosotros no subcontratamos a nadie, el equipo de proyecto pertenece a la organización. Los gastos de capital de la propia empresa es CapEx. Si subcontratamos, estamos contratando un servicio, eso sería OpEx. El trabajador de la empresa puede trabajar en cualquier parte de la empresa, es un gasto de esta. En la actualidad, casi todos los gastos empiezan a ser de operación (OpEx), pues se subcontratan muchos servicios.
+
++ Poner gráfica de los costes, comparando la predicción pesimista, optimista y objetiva.
+
++ El estado de los riesgos no ha quedado claro, tampoco cómo se van a tratar los mismos.
+
++ Identificar conceptos y separarlos en las diapositivas. De esta forma, en una diapositiva, un concepto, y en otra, otro.
+
++ El elevator pitch ha sido muy largo.
+
++ Trabajar mejor el análisis de coste y hacer una predicción realista del número de suscriptores por plan. No poner el mismo número de suscriptores en todos los planes.
+
++ Contabilizar el número de issues comentadas. Tenemos que comunicarnos a través de GitHub. Hacer comentarios en las issues para aclarar las tareas y las soluciones que se quieran desarrollar.
+
++ Usar convenciones semánticas para saber si las tareas son sobre documentación, código, etc.
+
+## Semana 7
++ Evaluar opción de reportar para combatir contra el plagio de diseños. Analizar consecuencias legales de problemas de copyright.
++ No utilizar el storyboard como killer opener. Deben coexistir las dos cosas, no pisarse entre ambas.
++ Ya que tenemos un storyboard que presenta una historia, se puede realizar un hilo conductor a lo largo de la presentación.
++ Analizar el hecho de que un diseño se difunda por un comprador, de forma que sea inútil comprar el diseño nuevamente. Debemos evitar esta casuística y fomentar la compraventa en la aplicación.
++ Seguir el orden definido en el discussion guide.
++ Dar libertad a los usuarios pilotos, en algunos casos, para que se enfrenten ellos, sin guía alguna, a la funcionalidad. Esto lo podemos hacer con ciertas funcionalidades, de forma que obtengamos un feedback más realista por parte de ellos.

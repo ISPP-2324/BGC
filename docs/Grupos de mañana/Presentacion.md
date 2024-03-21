@@ -74,3 +74,19 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Planificación, reestimación del sprint2 y sprint3. Meter algo de pago para el sprint2.
 + Report de IAs, y qr de la landing al final de la presentación.
 
+## Semana 6
++ Los diagramas UML no deben llamarse de esa forma, un nombre mas correcto sería "Diagrama de diseño" o "Análisis de clases"
++ En los análisis de calidad, las líneas no deben ser rectas, debe existir altibajos dado que lo fin de semana no se trabaja.
++ La presentación debe de empezar a trabajarse desde el primer día. Es metodología agil.
++ Los miembros que no contribuyen al proyecto debe de referirse a ellos como "miembros con falta de proactividad", y esto debe estar incluido en la métrica de rendimiento.
+
+## Semana 7
++ En la demo se deben poner tanto datos como imagenes reales
++ Ver como otras empresas enfocan el elevator pitch para aplicarlo en el nuestro.
++ Hacer zoom en la demo para que se aprecie mejor.
++ Resaltar información y cosas que aporten valor, no lo estético.
++ Resaltar en el storyboard lo que nos diferencia de los competidores.
++ Citar las fuentes usadas.
++ Mostrar el impacto legal del proyecto (GDPR, licencias, aspectos legales, customer agreement).
++ Realizar Storyboard para un rol distinto.
+

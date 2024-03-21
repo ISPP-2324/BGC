@@ -141,3 +141,33 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Discutir la planificación detallada del próximo sprint y cualquier replanificación necesaria.
 - Documentar adecuadamente los recursos y procesos clave, haciendo hincapié en el dashboard de Bluejay y el porfolio de documentación.
 - Incluir una transparencia final con QRs para la landing page y dar feedback.
+
+
+## Semana 5
+### Temas que mejorar en las presentaciones:
+- Mantener el orden de presentación establecido para evitar confusiones.
+- Especificar la distinción entre gastos operativos (OPEX) y de capital (CAPEX).
+- Reducir la cantidad de tablas de costes y considerar representar la información con gráficos.
+- Abordar los riesgos surgidos durante el proyecto y su gestión.
+- Hay que asegurar que el Elevator Speech sea conciso y efectivo, evitando la redundancia y abordando los diferentes aspectos del negocio.
+- Proporcionar estadísticas claras, como el número de comentarios en GitHub, y comentar las issues y pull requests.
+- Mejorar la explicación de los planes de precios y validar fórmulas con ejemplos concretos.
+- Incluir una visión completa de lo entregado y evitar la síntesis excesiva que dificulte la comprensión
+
+### Temas que mejorar en el trabajo realizado:
+- Mejorar la documentación como código y gestionar eficientemente los repositorios, utilizando herramientas como Docusaurus.
+- Centrarse en la entrega de resultados tangibles y realizar estimaciones realistas de costos y riesgos.
+- Reestimar la planificación del segundo sprint y establecer objetivos claros para futuras iteraciones.
+- Profundizar en el análisis del TCO y considerar aspectos legales y de privacidad del proyecto.
+- Distinguir claramente entre diferentes tipos de actividades en herramientas como Clockify.
+- Detallar la situación actual de los costos y planes de futuro en términos pesimistas, optimistas y esperados.
+- Separar claramente el rendimiento del proyecto del estado del Commitment Agreement.
+- Considerar herramientas como MockAPI para facilitar el trabajo del frontend sin depender del backend.
+
+### Temas a tratar la siguiente semana:
+- Mantener una estructura de presentación consistente, con énfasis en la retrospectiva del proyecto y la planificación futura.
+- Empezar a abordar aspectos legales y de privacidad del proyecto.
+- Analizar en detalle el rendimiento del proyecto y establecer objetivos claros para futuras iteraciones.
+- Mostrar demo del prototipo desplegado, con el core más las nuevas funcionalidades con datos reales.
+- Realizar una retrospectiva detallada del proyecto, analizando tendencias y resultados.
+

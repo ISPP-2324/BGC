@@ -13,3 +13,6 @@ En este documento vamos a encontrar feedback respecto a los roles en el proyecto
 
 ## Semana 5
 + Si se va a rotar el rol de "encargado", ver si verdaderamente con ese cambio se va a solucionar el problema o no.
+
+## Semana 7
++ Sería buena idea rotar los presentadores. Para que todos los miembros tengan la experiencia de presentar.
