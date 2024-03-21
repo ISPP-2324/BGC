@@ -88,6 +88,22 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + Realizar un pseudo gantt en la retrospectiva del sprint con las tareas que se han realizado en este.
 + Incluir documentación en el repositorio o en un docusaurus.
 
+## Semana 7
++ Evitar uso de fuentes oscuras sobre fondos oscuros.
++ En la DEMO hay letras muy pequeñas, por lo que es necesario hacer uso de zoom en el video.
++ Pensar en usar colores más claros para la DEMO únicamente, manteniendo los colores en la aplicación original.
++ Storyboards en blanco y negro poniendo en color lo que queramos destacar.
++ Los presupuestos expuestos están demasiado centrados en el desarrollo.
++ La grafica del Budget sobra con la otra grafica de costes y beneficios.
++ Revisitar el tema de las métricas que se está usando para medir el rendimiento. Separar el número de horas en el rendimiento, no confundir con el esfuerzo.
++ Revisar los usuarios pilotos que no responden y acotar los que sean menos probables.
++ El elevator pitch debe estar más presente. No solamente como una frase introductoria. (como musclemate, qué ofrecemos nosotros que otros no)
++ En el storyboard del empresario buscar destacar la característica que nos diferencia (le hagan falta 5 personas para YA con unas especificaciones CONCRETAS).
++ Dar coherencia a la presentación de manera que si mostramos a unos actores en el storyboard, usarlo como recurso a lo largo de la presentación, en por ejemplo en la demo…
++ Validar los correos electrónicos mediante alguna API y añadir los costes de esta al Opex (No estoy seguro de que correos se refería, si a los de las empresas o a los usuarios de la aplicación en general).
++ Hacer gráfica de puntos de historia vs tiempo consumido.
++ Para medir la eficiencia de los tests, contar en base a los fallos que saltan con estos. También es buena practica poner los fallos a posta para que estos salten.
++ Capex, costes de desarrollo, mostrar multiplicador por cada rol (sobre la hora de servicio mínima) (Para este parto sobre los comentarios de Müller de Ocial, destacó especialmente esta diapositiva).
 
 
 
