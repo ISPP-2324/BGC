@@ -29,3 +29,9 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 + Los fin de semana y días festivos (semana santa y feria) deben de contar como días no laborables.
 + Si se han excedido las horas de trabajo en un sprint hay que intentar compensar en el próximo Sprint, ya sea recortando el alcance o replanificando para no excedernos en el presupuesto.
 + Hay que realizar un commitment agreement para los usuarios piloto.
+
+# Semana 7
++ La base de datos debe contener datos realistas
++  Hay que implementar una API que valide si los correos usados para registrarse son reales.
++ Hay que asociar el Costumer Agreement al desarrollo del servicio, con los contratos de uso y alquiler de servicios en la nube.
++ Hay que tener en cuenta el impacto legal del proyecto (aceptar terminos legales de uso, políticas de protección de datos, etc)

@@ -79,3 +79,8 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + En los análisis de calidad, las líneas no deben ser rectas, debe existir altibajos dado que lo fin de semana no se trabaja.
 + La presentación debe de empezar a trabajarse desde el primer día. Es metodología agil.
 + Los miembros que no contribuyen al proyecto debe de referirse a ellos como "miembros con falta de proactividad", y esto debe estar incluido en la métrica de rendimiento.
+
+# Semana 7
++ El report de IA debe situarse en la penúltima diapositiva, siendo la ultima la diapositiva con la URL de la Landing Page.
++ La presentación de la demo debe ser coherente con lo que se represente en los Storyboards.
+- Hay que realizar zoom en las demos en los momentos donde veamos que se ve pequeño.
