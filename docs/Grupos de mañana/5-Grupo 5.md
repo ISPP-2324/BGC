@@ -91,3 +91,17 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Las evaluaciones entre nosotros no deberían ser anónimas.
 -   Empezar a poner la versión del Commitment Agreement en las presentaciones.
 -   Mejorar el tema deadlines. Se podría hacer un seguimiento de tareas durante la semana.
+
+## Semana 7
+
+-   La demo ha sido demasiado rápida. Estudiar la posibilidad de añadir subtítulos.
+-   Los números de página son difíciles de ver.
+-   Quitar lineas rojas de las tablas.
+-   Customer agreement debe ser un contrato entre el cliente y los desarrolladores sobre la aplicación desplegada, no sobre el desarrollo.
+-   Distinguir entre contrato de desarrollo y el customer agreement real.
+-   Propiedad intelectual tiene sentido en los documentos, pero hay cosas que no.
+-   Añadir gastos e ingresos a corto y medio plazo.
+-   Añadir la licencia de Office en OPEX, o explicarlo bien y dejarlo en CAPEX.
+-   Enseñar avances. Como mínimo mencionar los avances en una diapositiva.
+-   cambiar el nombre lessons a lectures en las horas asistidas a clase.
+-   Sugerencia: poner si la IA usada ha fallado o no.
