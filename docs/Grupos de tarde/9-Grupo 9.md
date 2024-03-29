@@ -171,3 +171,30 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Mostrar demo del prototipo desplegado, con el core más las nuevas funcionalidades con datos reales.
 - Realizar una retrospectiva detallada del proyecto, analizando tendencias y resultados.
 
+
+## Semana 7
+### Temas que mejorar en las presentaciones:
+- Utilizar gráficos del sprint en lugar de gráficos para cada semana.
+- Asegurar que la demostración sea visible desde lejos y utilizar herramientas para mejorar la visibilidad, como hacer zoom.
+- Explicar con más detalle el análisis de riesgos y evitar la distinción confusa entre rendimiento y esfuerzo en la fórmula de rendimiento.
+- Elaborar un killer opener más impactante y conectar la demo con él para captar la atención del público.
+- Proporcionar más información sobre el objetivo de la solución y cómo se medirá la resolución para una comunicación más efectiva.
+- Seguir el orden establecido por el profesor.
+- Planificar la presentación del sprint 2 con datos reales, incrementos en la funcionalidad y retrospectiva del equipo.
+- Establecer un plan de gestión para los usuarios pilotos, incluyendo su situación actual, feedback y acciones a realizar en el siguiente sprint.
+
+### Temas que mejorar en el trabajo realizado:
+- Detallar el análisis del TCO a dos años, diferenciando entre la situación actual y esperada.
+- Justificar y comentar la reducción del alcance del proyecto, indicando cuántas horas se han reducido y por qué.
+- Crear un commit agreement con los clientes.
+- Incluir estimaciones de gastos e ingresos a largo plazo basados en el número de clientes para una planificación más precisa.
+- Revisar y actualizar los documentos relacionados con el proyecto, como el customer agreement y el análisis de riesgos.
+- Realizar una estimación de riesgo detallada, identificando problemas potenciales, soluciones y criterios de éxito para una gestión efectiva.
+- Mejorar la calidad del software mediante un análisis continuo y un changelog automatizado para registrar las nuevas funcionalidades y correcciones.
+
+### Temas a tratar la siguiente semana:
+- Continuar siguiendo el orden establecido y planificar detalladamente cada sección de la presentación para una ejecución más efectiva.
+- Establecer objetivos claros para el siguiente sprint, incluyendo la pasarela de pago realista y la integración de APIs opex.
+- Monitorear el progreso del proyecto utilizando un reloj de avance y un plan de gestión para los usuarios pilotos.
+- Informar sobre el uso de IA y analizar cómo ha mejorado su uso para proporcionar una visión más completa de su impacto en el proyecto.
+- Implementar herramientas de agendamiento y reducción de alcance según sea necesario para mejorar la eficiencia del equipo.
