@@ -108,3 +108,9 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Analizar el hecho de que un diseño se difunda por un comprador, de forma que sea inútil comprar el diseño nuevamente. Debemos evitar esta casuística y fomentar la compraventa en la aplicación.
 + Seguir el orden definido en el discussion guide.
 + Dar libertad a los usuarios pilotos, en algunos casos, para que se enfrenten ellos, sin guía alguna, a la funcionalidad. Esto lo podemos hacer con ciertas funcionalidades, de forma que obtengamos un feedback más realista por parte de ellos.
+
+## Semana 8
++ Mostrar la próxima semana el feedback más importante y una priorización de dichas tareas.
++ Mostrar los iconos constantemente en la demo para saber concretamente quién usa la aplicación.
++ Se podría enlazar el killer opener con lo que se muestra luego en la demo.
++ Monitorizar consumo de créditos del despliegue.
