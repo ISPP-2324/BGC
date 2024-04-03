@@ -97,5 +97,15 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Muy bien el Opex y Capex.
 
 
+## Semana 8
+
+- Estimación de costes (36). Explicar porque curva avanza ligeramente en el coste.
+- Leyenda más grande en las gráficas.
+- Killer Opener mejorable. Hacer teatrillo.
+- Hacer una matriz con el rendimiento de todo el equipo.
+- Muy bien el resto de la presentación.
+- Un poco rápido en general.
+- Poner fórmula de calculo de la nota.
+
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*
