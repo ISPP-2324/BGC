@@ -59,4 +59,7 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 ## Semana 7
 
 - No usar el storyboard como killer opener
-- Como tenemos el storyboard que cuenta una historia, seguir ese hilo argumental a lo largo de toda la exposición y hacer referencia a dicho storyboard
+- Como tenemos el storyboard que cuenta una historia, seguir ese hilo argumental a lo largo de toda la exposición y hacer referencia a dicho storyboard.
+- Usar zoom para mostra los detalles de la aplicación en la demo.
+- Presentar aspectos legalres.
+- Antes de poner la demo explicar que se va a ver así se puede obviar la voz en off.

@@ -134,3 +134,24 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 ### Herramientas
 
 - Descargarse el pluging de Clockify, muy util para contavilizar el tiemo en el github.
+
+## Semana 7
+
+### Presentación
+
+- Importante mostra el customer agreement.
+- La situcacióm actual frente al total debe ir con los costes.
+- Hay que poner un video en la demo, se está vendienfo humo.
+
+### Costes/Beneficios
+
+- Indicar en la presentacion el número de clientes estimado y de donde han salio.
+
+### Burn down
+
+- El burn down se debe hacer por sprint, no por semana.
+- Debe representar el estado en que se encuentra el sprint en el momento de la presentación.
+
+### Project management
+
+- Se han hecho previsiones poco realistas de acuerdo con el ritmo que llevamos.
