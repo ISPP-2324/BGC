@@ -155,5 +155,25 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Lecciones aprendidas 
 + API al OPEX si la usamos
 
+## Semana 8
+### Presentación
++ El killer opener era muy parecido al business statement, haber pasado las diapositivas antes y acabar el KO y BS a la vez
++ De Storyboard nos recomienda un rol diferente -> Profesional o el Alcalde apuñalado
++ Cambiar mantenimiento por despliegue en OPEX
++ Lecciones aprendidas despúes de hablar de los problemas, no del planning, para quede reflajado de donde vienen
++ Las lecciones aprendidas que tenemos son en verdad los problemas, decir como gestionamos este problema en concretitud (Riesgos)
++ Cambiar tabla por algo de ticks porque quitan la atención del que habla al texto
++ El color en donde la tabla de colores y las xs cambiarlo, los porcentajes están al revés
++ Actualizar las tablas en la diapo del github project
+### Demo
++ La demo se ve muy pequeña, poner lupa y menos resolución para aprovechar el espacio
+### Rendimiento
++ Tener en cuenta las responsabilidades de cada persona para el rendimiento
+### Costes
++ Añadir coste de API al Opex en el sprint 3
+### Usuarios pilotos
++ Decir como gestionamos el feedback, si hemos recibido el feedback y que acciones tomamos en consecuencia
+
+
 
 
