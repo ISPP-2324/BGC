@@ -137,3 +137,65 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 
 8. **Estadísticas sobre el uso de tecnologías:**
    - Se recomienda incluir una diapositiva que muestre estadísticas sobre el uso de tecnologías como GitHub y Discord. Además, se debe enfatizar la importancia de comunicar todas las conversaciones relacionadas con el proyecto a través de las plataformas designadas, como GitHub en este caso.
+
+
+## Semana 7
+
+1. **Guía en la presentación de la demo:**
+    - Durante la demo, hubiera sido recomendable algo de guíanza por parte de el presentador, debido a que el público se ha visto forzado a leer no han sido capaces de fijarse en todas las capacidades de nuestro producto.
+
+2. **Diferenciar colores en diapositivas de preguntas y respuestas:**
+    - En algunas diapositivas con preguntas y respuestas el color de la pregunta fue muy similar al de las respuestas, dificultando el seguimiento de estas.
+
+3. **Medir tiempo de la presentación:**
+    - Se ha notado como íbamos acelerando a lo largo de la presentación mientras el tiempo iba acabando. Sería recomendable manejar el tempo de la presentación para que sea uniforme a lo largo de esta.
+
+4. **Diferencia con la competencia:**
+    - Sería ideal destacar lo que nos diferencia de la competencia en la comparación con los competidores. Podríamos destacar las diferencias en vez de las similitudes.
+
+5. **Perfeccionar el storyboard:**
+    - Deberíamos destacar en el storyboard cómo el cliente de el gimnasio puede interactuar con la aplicación para dar feedback o (si queremos destacarlo) apuntar y seguir sus rutinas.
+
+6. **Medición, análisis y solución de problemas:**
+    - Sería buena idea medir y analizar cómo tratamos de solucionar los problemas más graves que encontremos durante el desarrollo.
+
+7. **Distancia entre temas relacionados:**
+     - Ha habido algunas partes de la presentación relacionadas entre sí pero muy separadas entre sí, en concreto, los problemas encontrados y los riesgos. Estos elementos deberían ir cerca unos de otros si no en la misma diapositiva.
+
+8. **Equivocaciones de la IA:**
+    - Añadir diapositiva de equivocaciones de la IA.
+
+9. **Análisis del TCO:**
+    - Analisis del TCO 24 meses.
+
+10. **Priorización de tareas:**
+    - Matriz de Eisenhower para priorizar las tareas.
+
+
+## Semana 8
+
+1. **Mostrar mejor la fórmula de rendimiento:**
+    - Debido a la velocidad de la presentación, no ha quedado tan clara la fórmula utilizada para el cálculo de el rendimiento individual.
+    Hubiera sido mejor si hubieramos puesto ejemplos prácticos de la fórmula en la presentación, así quedando más claro como se utiliza en la práctica.
+
+2. **Mejorar el elevator Pitch:**
+    -  No ha quedado claro del todo el elevator pitch de la presentación. Debería ser más conciso y vender el producto en menos tiempo.
+
+3. **Mejorar calidad de las demostraciones:**
+    - Hacer uso de zoom en las demostraciones es ideal, facilitando que los miembros de atrás vean mejor los elementos de el proyecto.
+
+4. **Hacer más profesional el inicio de la app:**
+    - Respecto a el producto, en vez de un listado de botones aburrido es mejor hacer uso de una página de inicio más profesional, relegando las distintas funcionalidades a un submenú o header.
+
+5. **Confusión a la hora de afrontar la retrospectiva:**
+    - Hemos mezclado la retrospectiva grupal y las soluciones propuestas en esta con las soluciones de el análisis posterior de dichos problemas y las soluciones propuestas de este.   
+
+6. **Proporcionar menos texto y destacar lo importante:**
+    - Recomendable incluir menos texto en las diapositivas de problemas/soluciones, debiendo quedar más clara la eficiencia de las soluciones propuestas.
+
+7. **Destacar la mejoría del producto:**
+    - Es importante destacar el incremento de funcionalidades respecto a semanas anteriores, mostrando la mejoría de el producto.
+
+
+
+ 
