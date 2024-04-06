@@ -1,5 +1,15 @@
 En este documento vamos a encontrar feedback respecto a los usuarios pilotos de nuestra aplicación.
-****
+
+---
+
 ## Semana 1
-+ Esto es un ejemplo
-+ Esto es otro ejemplo
+
+- Especificar con mayor claridad quiénes serán los usuarios pilotos y cómo se gestionarán.
+
+## Semana 4
+
+- Usar iTop para tener el feedback de los usuarios pilotos es una buena idea.
+
+## Semana 7
+
+- Hay que hacer un balance entre una guía que lleve de la mano al usuario pilotti y dejarlo por libre. Se deberá decir al usuaro que testear pero tamoco explicarlo 100% como funciona para que explore y explique como de intuitivo/fácuil es hacer esa función.
