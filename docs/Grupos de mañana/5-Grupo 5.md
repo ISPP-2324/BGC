@@ -105,3 +105,13 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Enseñar avances. Como mínimo mencionar los avances en una diapositiva.
 -   cambiar el nombre lessons a lectures en las horas asistidas a clase.
 -   Sugerencia: poner si la IA usada ha fallado o no.
+
+## Semana 8
+
+-   Evaluación: Indicar en el rendimiento global la fórmula usada. Además, no se ve que la fórmula actual sea efectiva.
+-   Problemas: Poner el seguimiento de las soluciones. Considerar unificar problemas con retrospectiva.
+-   ALM: Leyenda de Codacy no se ve bien.
+-   Revisiones: Aclarar las acciones tomadas para mejorar las revisiones.
+-   Tener la demo en local y ordenador de repuesto.
+-   Presentación: Falta diapositiva de las horas de cada persona.
+-   Mencionar como solucionar los problemas con los usuarios pilotos
