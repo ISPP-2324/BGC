@@ -88,6 +88,42 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + Realizar un pseudo gantt en la retrospectiva del sprint con las tareas que se han realizado en este.
 + Incluir documentación en el repositorio o en un docusaurus.
 
+## Semana 7
++ Evitar uso de fuentes oscuras sobre fondos oscuros.
++ En la DEMO hay letras muy pequeñas, por lo que es necesario hacer uso de zoom en el video.
++ Pensar en usar colores más claros para la DEMO únicamente, manteniendo los colores en la aplicación original.
++ Storyboards en blanco y negro poniendo en color lo que queramos destacar.
++ Los presupuestos expuestos están demasiado centrados en el desarrollo.
++ La grafica del Budget sobra con la otra grafica de costes y beneficios.
++ Revisitar el tema de las métricas que se está usando para medir el rendimiento. Separar el número de horas en el rendimiento, no confundir con el esfuerzo.
++ Revisar los usuarios pilotos que no responden y acotar los que sean menos probables.
++ El elevator pitch debe estar más presente. No solamente como una frase introductoria. (como musclemate, qué ofrecemos nosotros que otros no)
++ En el storyboard del empresario buscar destacar la característica que nos diferencia (le hagan falta 5 personas para YA con unas especificaciones CONCRETAS).
++ Dar coherencia a la presentación de manera que si mostramos a unos actores en el storyboard, usarlo como recurso a lo largo de la presentación, en por ejemplo en la demo…
++ Validar los correos electrónicos mediante alguna API y añadir los costes de esta al Opex (No estoy seguro de que correos se refería, si a los de las empresas o a los usuarios de la aplicación en general).
++ Hacer gráfica de puntos de historia vs tiempo consumido.
++ Para medir la eficiencia de los tests, contar en base a los fallos que saltan con estos. También es buena practica poner los fallos a posta para que estos salten.
++ Capex, costes de desarrollo, mostrar multiplicador por cada rol (sobre la hora de servicio mínima) (Para este parto sobre los comentarios de Müller de Ocial, destacó especialmente esta diapositiva).
+
+## Semana 8
++ En diapositivas que contenga gráficas se debe parar un mínimo para explicarlas.
++ Uso de datos y descripciones realistas en las demos.
++ Cuidar formatos en las diapositivas que hagan las letras más pequeñas, pueden hacerlas ilegibles.
++ Siempre hacer algún comentario o explicar brevemente los análisis del ALN.
++ Si se da un problema siempre se debe especificar el estado del mismo.
++ Evitar empezar la retrospectiva de un sprint con los problemas que ha habido durante este.
++ Si falla algo en un sprint, al final del siguiente hacer especial interés en que se ha tenido en cuenta y se ha realizado alguna medida con métricas.
++ Añadir el numero de refinamientos en las IAs.
++ No usar encabezados de “BIENVENIDO A…” con una descripción de los servicios en la aplicación, eso sería contenido de la Landing Page.
++ Evitar moverse demasiado a la hora de realizar la presentación, hay que buscar un punto medio entre energía y serenidad, también en ritmos de presentación.
++ Mostrar los análisis del código en vivo es una buena práctica.
++ A mayor número de clientes los costes de mantenimiento deben subir.
++ Añadir una matriz con el esfuerzo en horas y el rendimiento con nuestra fórmulas y los integrantes en ella.
++ Se debe tener cuidado de no fomentar trabajar menos con la gamificación en el desarrollo.
++ Las funciones listadas con botones queda poco profesional se debe buscar meter gráficas y otras disposiciones.
++ Siempre se deben exponer los problemas que ha habido y se han solucionado, los que están por solucionar y las soluciones propuestas.
++ Si se muestran gráficas se debe como mínimo hacer alguna conclusión de esta.
++ La recepción del feedback de los usuarios pilotos debe ser lo antes posible para poder ejercer los cambios necesarios antes del entregable.
 
 
 

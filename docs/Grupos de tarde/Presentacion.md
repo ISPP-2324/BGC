@@ -55,3 +55,15 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 
 - TODO tiene que estar contenido en la presentación, el trabajo puede que lo corrija alguien que no ha visto la presentación.
 - No hacer cambios de la presentación entregada.
+
+## Semana 7
+
+- No usar el storyboard como killer opener
+- Como tenemos el storyboard que cuenta una historia, seguir ese hilo argumental a lo largo de toda la exposición y hacer referencia a dicho storyboard.
+- Usar zoom para mostra los detalles de la aplicación en la demo.
+- Presentar aspectos legales.
+- Antes de poner la demo explicar que se va a ver así se puede quitar la voz en off.
+
+## Semana 8
+
+- No usar colores con tonos similares para exponer distintas cosas en una misma gráfica/tabla.

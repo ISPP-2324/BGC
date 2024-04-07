@@ -70,3 +70,55 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + Considerar ventajas y desventajas de una demo en directo o grabada.
 + Dividir sprints 2 y 3 en diapositivas aparte para evitar confusión sobre qué se hacce en cada uno.
 + Evitar hablar mal de los competidores y añadir más.
+
+
+### Semana 5: 05/03
+
++ Falta el estado de los usuarios piloto.
++ Poner el número de las diapositivas alto para que se vea mejor desde atrás.
++ Orden de "Uso de las IAs" y "Usuarios piloto" incorrectos.
++ Poner fotos de apoyo en el killer opener.
++ Grabar presentación está bien, pero hacer más zoom.
++ No perder tiempo rellenando formularios, precargarlos.
++ No usar la misma fórmula de rendimiento para todos los roles.
++ Las tareas de coordinación no se miden como puntos de historia.
++ Añadir login social.
++ La matriz RACI debe corresponder con el github.
++ Ver como medir las acciones de mejora para los problemas.
+
+### Semana 6: 12/03 (Retrospectiva)
+
++ Ajustar la linea ideal a lo real, no aplicarnos fines de semana/fiesta y usar nuestro calendario de horas
++ Usar una épica/milestone que reuna las issues de refactorización
++ Separar la nota de desarrollo y coordinación y medir el grado de satisfacción del grupo con respecto al GM. (Para que el bajo rendimiento de un miembro del grupo no le afecte).
++ Usar gráfica de control chart para ver la diferencia entre tareas que se entregan antes y más tarde, buscar que el control chart llegue lo más cercano a la media para mostrar la equidad entre las tareas.
++ Poner issues de control de calidad para saber si la planificación está bien definida
++ Realizar acuerdo con grupo de usuarios piloto para asegurar que ambas partes cumplen el trabajo en el tiempo que se requiere.
++ Mostrar perfiles de github y clockify.
++ Ver puntuaciones proporcionadas y tareas asignadas a cada individuo. 
+
+### Semana 7: 19/03
+
++ Comprobar el volumen antes de la presentación para evitar problemas.
++ No confundir Commitment Agreement con Customer Agreement.
++ Facilitar un enlace para el GDPR Y terminos de uso.
++ Poner datos realistas en la demo.
++ Hacer mayor énfasis en diferencias con los competidores.
++ Indicar estado de los problemas y métricas para medir si se están solucionando.
++ Justificar el recorte en el alcance.
++ Mejorar elevator pitch.
+
+## Semana 8: 02/04
+
++ Incluir datos reales reales en demos.
++ No confundir terminos (Beneficios =! ingresos).
++ Añadir alucinaciones al uso de la IA.
++ Hacer zoom en las partes que se vea poco.
++ Seguir el orden que indiquen los profesores.
++ Bajar el ritmo de la presentación en partes como los diagramas.
++ Cambiar colores y escala de gráfica coste vs beneficio para que se vea mejor.
++ Poner reloj del equipo en la retrospectiva.
++ Añadir mediciones a las soluciones en la tabla de problemas.
+
+
+

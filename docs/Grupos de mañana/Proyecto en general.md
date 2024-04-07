@@ -30,11 +30,16 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 + Si se han excedido las horas de trabajo en un sprint hay que intentar compensar en el próximo Sprint, ya sea recortando el alcance o replanificando para no excedernos en el presupuesto.
 + Hay que realizar un commitment agreement para los usuarios piloto.
 
-# Semana 7
+## Semana 7
++ Se debe realizar una justificación si se quiere recortar el alcance.
++ Se debería usar una API para comprobar que los correos sean válidos.
++ Utilizar un calendario compartido.
++ Hacer mejor uso de los conventional commits (Por ejemplo con changelogs automáticos)
 + La base de datos debe contener datos realistas
-+  Hay que implementar una API que valide si los correos usados para registrarse son reales.
 + Hay que asociar el Costumer Agreement al desarrollo del servicio, con los contratos de uso y alquiler de servicios en la nube.
 + Hay que tener en cuenta el impacto legal del proyecto (aceptar terminos legales de uso, políticas de protección de datos, etc)
+
+
 
 # Semana 8
 + El proyecto debe cumplir las regulaciones GPR y seguridad (https)

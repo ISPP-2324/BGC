@@ -171,3 +171,54 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Mostrar demo del prototipo desplegado, con el core más las nuevas funcionalidades con datos reales.
 - Realizar una retrospectiva detallada del proyecto, analizando tendencias y resultados.
 
+
+## Semana 7
+### Temas que mejorar en las presentaciones:
+- Utilizar gráficos del sprint en lugar de gráficos para cada semana.
+- Asegurar que la demostración sea visible desde lejos y utilizar herramientas para mejorar la visibilidad, como hacer zoom.
+- Explicar con más detalle el análisis de riesgos y evitar la distinción confusa entre rendimiento y esfuerzo en la fórmula de rendimiento.
+- Elaborar un killer opener más impactante y conectar la demo con él para captar la atención del público.
+- Proporcionar más información sobre el objetivo de la solución y cómo se medirá la resolución para una comunicación más efectiva.
+- Seguir el orden establecido por el profesor.
+- Planificar la presentación del sprint 2 con datos reales, incrementos en la funcionalidad y retrospectiva del equipo.
+- Establecer un plan de gestión para los usuarios pilotos, incluyendo su situación actual, feedback y acciones a realizar en el siguiente sprint.
+
+### Temas que mejorar en el trabajo realizado:
+- Detallar el análisis del TCO a dos años, diferenciando entre la situación actual y esperada.
+- Justificar y comentar la reducción del alcance del proyecto, indicando cuántas horas se han reducido y por qué.
+- Crear un commit agreement con los clientes.
+- Incluir estimaciones de gastos e ingresos a largo plazo basados en el número de clientes para una planificación más precisa.
+- Revisar y actualizar los documentos relacionados con el proyecto, como el customer agreement y el análisis de riesgos.
+- Realizar una estimación de riesgo detallada, identificando problemas potenciales, soluciones y criterios de éxito para una gestión efectiva.
+- Mejorar la calidad del software mediante un análisis continuo y un changelog automatizado para registrar las nuevas funcionalidades y correcciones.
+
+### Temas a tratar la siguiente semana:
+- Continuar siguiendo el orden establecido y planificar detalladamente cada sección de la presentación para una ejecución más efectiva.
+- Establecer objetivos claros para el siguiente sprint, incluyendo la pasarela de pago realista y la integración de APIs opex.
+- Monitorear el progreso del proyecto utilizando un reloj de avance y un plan de gestión para los usuarios pilotos.
+- Informar sobre el uso de IA y analizar cómo ha mejorado su uso para proporcionar una visión más completa de su impacto en el proyecto.
+- Implementar herramientas de agendamiento y reducción de alcance según sea necesario para mejorar la eficiencia del equipo.
+
+
+## Semana 8
+### Temas que mejorar en las presentaciones:
+- Utilizar herramientas como lupa para mejorar la visibilidad durante la presentación de la demo.
+- Destacar los incrementos del sprint durante la demo para resaltar el progreso.
+- Utilizar diagramas con colores contrastantes y un diseño claro para facilitar la comprensión de la información incluso a distancia.
+- Comentar antes los costos optimistas que los pesimistas para mejorar la fluidez de la presentación.
+- Utilizar diferentes puntos de vista en el storyboard según el tipo de usuario.
+- Incluir changelog en la demo para mayor comprensión.
+
+### Temas que mejorar en el trabajo realizado:
+- Verificar la veracidad y viabilidad de los problemas resueltos presentados y asegurarse de que sean relevantes para el proyecto.
+- Destacar cualquier mejora significativa en el Dashboard Bluejay y su impacto en la gestión interna del proyecto.
+- Profundizar en las cláusulas y aspectos relevantes del customer agreement y su relación con el TCO y la planificación del equipo.
+- Elaborar un plan detallado para gestionar problemas y riesgos, incluyendo soluciones específicas, objetivos medibles y un seguimiento del progreso.
+- Incluir conclusiones sobre el uso de la IA en el reporte para proporcionar una visión completa.
+
+### Temas a tratar la siguiente semana:
+- Continuar con la práctica de utilizar un killer opener, elevator speech y storyboard para mantener el interés del público.
+- Mejorar la experiencia del usuario, utilizando datos realistas y viendo primeros conceptos sobre UX.
+- Revisar y planificar los objetivos para la demo del siguiente sprint, considerando aspectos como el marketing y correcciones de código.
+- Presentar informes detallados sobre el uso de la IA, destacando tanto los beneficios como los posibles desafíos o limitaciones.
+- Comenzar con la organización de un plan de pruebas tras ver su respectiva píldora.
