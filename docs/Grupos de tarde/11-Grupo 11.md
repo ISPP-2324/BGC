@@ -160,9 +160,23 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 
 ### Presentación
 
+### Presentación
+
 - Relacionar el inicio efectivo con la demo.
 - Mucho tiempo dedicado a la parte inicial. Se tiene que dedicar el mayor tiempo a la parte técnica y planificación del proyecto que a vender el producto.
 - Explicar en la presentación como se va a gestionar el feedback de los usuarios pilotos.
+
+### Demo
+
+- Usar una lupa en la demo para hacer zoom en las partes claves.
+
+### Documentación
+
+- Poner las _condiciones de fallo_ en la parte del Sprint 2, no en Planificación del proyecto.
+
+### Desarrollo
+
+- Se valora positivamente implementar un social login (google, facebook, ...)
 
 ### Demo
 
