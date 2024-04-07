@@ -134,3 +134,58 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 ### Herramientas
 
 - Descargarse el pluging de Clockify, muy util para contavilizar el tiemo en el github.
+
+## Semana 7
+
+### Presentación
+
+- Importante mostra el customer agreement.
+- La situcacióm actual frente al total debe ir con los costes.
+- Hay que poner un video en la demo, se está vendienfo humo.
+
+### Costes/Beneficios
+
+- Indicar en la presentacion el número de clientes estimado y de donde han salio.
+
+### Burn down
+
+- El burn down se debe hacer por sprint, no por semana.
+- Debe representar el estado en que se encuentra el sprint en el momento de la presentación.
+
+### Project management
+
+- Se han hecho previsiones poco realistas de acuerdo con el ritmo que llevamos.
+
+## Semana 8
+
+### Presentación
+
+### Presentación
+
+- Relacionar el inicio efectivo con la demo.
+- Mucho tiempo dedicado a la parte inicial. Se tiene que dedicar el mayor tiempo a la parte técnica y planificación del proyecto que a vender el producto.
+- Explicar en la presentación como se va a gestionar el feedback de los usuarios pilotos.
+
+### Demo
+
+- Usar una lupa en la demo para hacer zoom en las partes claves.
+
+### Documentación
+
+- Poner las _condiciones de fallo_ en la parte del Sprint 2, no en Planificación del proyecto.
+
+### Desarrollo
+
+- Se valora positivamente implementar un social login (google, facebook, ...)
+
+### Demo
+
+- Usar una lupa en la demo para hacer zoom en las partes claves.
+
+### Documentación
+
+- Poner las _condiciones de fallo_ en la parte del Sprint 2, no en Planificacion del proyecto.
+
+### Desarrollo
+
+- Se valora positivamente implementar un social loging (google, facebook, ...)

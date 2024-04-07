@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://github.com/ispp-2324-ocial/KB/discussions/categories/lessons-improvements *Última actualización 20/02 19.00h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 19/03 19.20h*
 ****
 ## Semana 1
 
@@ -88,6 +88,24 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Poner el reloj del proyecto (el de clockify).
 
 
+## Semana 7
+
+- Hacer un StoryBoard tanto para cliente como para usuario.
+- Diapositiva 22, citar fuentes.
+- Demo realistas (tema fotos en los eventos).
+- Con el nuevo competidor, sacar un nuevo riesgo.
+- Muy bien el Opex y Capex.
+
+
+## Semana 8
+
+- Estimación de costes (36). Explicar porque curva avanza ligeramente en el coste.
+- Leyenda más grande en las gráficas.
+- Killer Opener mejorable. Hacer teatrillo.
+- Hacer una matriz con el rendimiento de todo el equipo.
+- Muy bien el resto de la presentación.
+- Un poco rápido en general.
+- Poner fórmula de calculo de la nota.
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

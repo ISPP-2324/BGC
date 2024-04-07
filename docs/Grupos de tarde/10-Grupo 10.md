@@ -1,6 +1,6 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 12
 ****
-## Semana 1
+## Semana 2
 #### Presentación
 + Incluir un opener para atraer la atención del público al comienzo de la presentación
 + Mejorar la entonación para no aburrir al público y demostrar comienza y seguridad
@@ -15,7 +15,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 #### Tecnologías
 + Los canales de comunicación no son muy profesionales y nos recomiendan usar Slack
 
-## Semana 2
+## Semana 3
 #### Presentación
 + Hacer uso de expresiones más profesionales (Ej: "Económicamente sostenible" en vez de "Que no les cuest mucho dinero")
 + Evitar disonancia entre lo que se está contando y lo que muestran las diapositivas
@@ -42,7 +42,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Añadir más funcionalidad (Ej: Puntos calientes, Grado de accesibilidad de un edificio, Municipios sin el plan aceptado, etc)
 + Proponer expansiones de funcionalidad a la ONG
 
-## Semana 3 (Test 1)
+## Semana 4 (Test 1)
 #### Presentación
 + Tener cuidado con las imágenes de personas que usamos en la presentación
 + Evitar texto pequeño en las diapositivas
@@ -67,7 +67,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 #### Landing Page
 + Poner enlace al Clockify
 
-## Semana 4
+## Semana 5
 #### Presentación:
 + Fluidez en la presentación
 #### Usuarios piloto:
@@ -106,11 +106,74 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Bien nuestra sección de CA
 + Mostrar el nivel de compromiso de la gente (Quién quiere el 10 y quien quiere aprobar)
 #### Landing Page:
-+ Poner el clocki en nuestro Docusaurus personal no en la LP (La semana pasada dijo lo contrario)
++ Poner el clocki en nuestro Docusaurus personal no en la LP
 #### Despliegue:
 + Dicen que van a actualizar el documento de despliegue (A la espera de que lo suban)
 #### Otros:
 + Gestión tareas por GitHub y dejar constancia de todo (dudas en comentarios de issues y eso)
 + Aplicar estrategias de ramificación y código a documentos (Cree un Docusaurus personal para nosotros y lo estoy poniendo listo para empezar a subir nuestros documentos)
+
+## Semana 6
+### Presentación
++ NO cambiar la presentación entregada, ni siquiera el orden de las diapositivas
++ Entregar el vídeo/demos a partir de ahora incluso si ocupa un montón
++ Incluir los vídeos en las diapositivas y salirte de ellas para mostrarlo
+### Análisis de Costes
++ Poner el coste de electricidad y agua está bien
++ Las diapositvas de CAPEX y OPEX está bastante compacto, nos recomiendan separarlas un poc (Decían de ponerlo de forma tabulada)
++ No nos ha pasado a nosotros pero importante tener en cuenta que los CAPEX son las cosas que son de nuestra propiedad/capital tras el gasto, Github por ejemplo no es CAPEX
++ Para los planes de contingencia evaluar si son CAPEX o OPEX porque depende del tipo de plan
+### Usuarios pilotos
++ Nos recomiendan tener un archivo o herramienta de monitoreo (Un excel estaría bien)
+### Gestión de código
++ Tenemos que tener un repositorio muy bonito
++ Usar conventional commits, plantillas de issues, dejar constancia en las issues de las dudas, etc...
++ Buscar que licencia le vamos a dar a la ONG
+### Dashboard
++ El reloj de horas actual no está muy claro visualmente, se recomienda coger el de clockify
++ Añadir número de comentario en issues
+### Otros
++ La diapositiva de status del Github Project les ha gustado mucho, quieren que también enseñemos las etiquetas y decir si hay plantilla
++ Recomiendan que se usen patrones de diseño para aquellos que tienen problemas de interdependencia entre Backend y Frontend
++ En la sección de QR les han recomendado a otros grupos poner en el enlace al Clockify con las horas ponerlas por persona en vez de solo el total
+
+## Semana 7 (Retroespectiva)
++ Aún no esta disponible
+
+## Semana 8
+### Presentación
++ No mencionar el Backlog del 1 (Recomendación mía)
++ Vídeo incluirlo en la presentación sin salir de las diapositiva (feedback pasado)
++ Incluir métricas de rendimiento de equipo y calidad
++ No siguen el orden de la guía de presentación
++ No hay gráfica de comparación de gastos
++ No hay estructura del equipo
++ Darle la vuelta a los porcentajes en el CA
++ Poner versión del CA
++ Poner formulita de cálculo de porcentaje en el CA
++ Reloj del proyecto (Una diapositiva dedicada)
++ Lecciones aprendidas 
++ API al OPEX si la usamos
+
+## Semana 9
+### Presentación
++ El killer opener era muy parecido al business statement, haber pasado las diapositivas antes y acabar el KO y BS a la vez
++ De Storyboard nos recomienda un rol diferente -> Profesional o el Alcalde apuñalado
++ Cambiar mantenimiento por despliegue en OPEX
++ Lecciones aprendidas despúes de hablar de los problemas, no del planning, para quede reflajado de donde vienen
++ Las lecciones aprendidas que tenemos son en verdad los problemas, decir como gestionamos este problema en concretitud (Riesgos)
++ Cambiar tabla por algo de ticks porque quitan la atención del que habla al texto
++ El color en donde la tabla de colores y las xs cambiarlo, los porcentajes están al revés
++ Actualizar las tablas en la diapo del github project
+### Demo
++ La demo se ve muy pequeña, poner lupa y menos resolución para aprovechar el espacio
+### Rendimiento
++ Tener en cuenta las responsabilidades de cada persona para el rendimiento
+### Costes
++ Añadir coste de API al Opex en el sprint 3
+### Usuarios pilotos
++ Decir como gestionamos el feedback, si hemos recibido el feedback y que acciones tomamos en consecuencia
+
+
 
 

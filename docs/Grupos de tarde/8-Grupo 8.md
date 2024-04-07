@@ -58,3 +58,33 @@ Definir quién paga.
 + Muy buena gestión de los usuarios pilotos, vision temporal en 2 semanas
 + Customer agreement muy bueno.
 + Killer opener, innovar una posible idea es decir de donde eres, para que empaticen(compartir algo personal para que la gente empatice contigo es una buena técnica)
+
+## Semana 5
+### Feedback profesores
++ Incluir situación actual,incluyendo casos pesimistas,optimistas y neutras
++ Estado del commitment agreement,poner cuánto se ha cumplido 
++ Funcionalidades escasas de la aplicación,incluir algunas más de valor
++ Poner el número de usuarios pilotos de los que disponemos
++ Buscar más usuarios pilotos
++ Especificar que  partes de funcionalidad vamos a implementar en cada sprint en la aplicación
++ Poner precio/mes en vez de precio/año
++ Pensar en los que van a corregir a la hora de hacer la presentación
+
+
+
+## Semana 7
+### Feedback profesores
++ Los costes nunca pueden alcanzar cero,ya que hay que tener en cuenta las licencias y otros costes de operación
++ Especificar de donde sale el número de clientes que se ha tenido en cuenta para hacer la estimación de costes y beneficios(intentar fijarse en el flujo de otros + competidores si queremos partir de datos realistas)
++ Acercar la visión en la DEMO, tiene que verse bien al fondo (usar algún tipo de lupa o similar)
++ Incluir más detalles de los riesgos,en que estados están y lecciones aprendidas
++ Plantear fechas más tempranas para que los usuarios pilotos puedan probar las funcionalidades antes de las entregas
++ Métricas de rendimiento.
++ Hacer como un dashboard del rendimiento frente al esfuerzo incluyendo la información de cada miembro del grupo(de forma anónima)( Usando google charts dinámicos) teniendo 4 cuadrantes siendo el mejor el superior derecho 
++ Plantear plan de contingencia en caso de que los usuarios piloto quieran probar la aplicación
++ Ha habido negociación con los usuarios pilotos? tenerlo en cuenta
++ Probar darle a chatGPT el agreement de forma que no haya cláusulas abusivas
++ Se podría plantear como se puede reutilizar la planificación entre sprints?
++ Cómo vamos a abordar la issues mas grandes?intentar incluir milestones(ya lo tenemos)
++ Incluir caras en el perfil de github
++ A la hora de incluir la huella de carbono,pensar en el tamaño de la conversación también
