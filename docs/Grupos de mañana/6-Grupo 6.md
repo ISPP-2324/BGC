@@ -215,7 +215,7 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Hay que proponer soluciones a los posibles problemas.
 
 
-## Feedback - 05 de marzo
+## Feedback Semana 5 - 05 de marzo
 
 **Grupo 6 CiaoLavoro**
 
@@ -315,7 +315,7 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Para las presentaciones, usan un proceso que nos vendría bien a nosotros: primero miran el feedback, luego preparan un guión y después hacen la presentación.
 - Deberíamos añadir nosotros el uso de Codacy, SLint, y demás para el análisis de calidad del código.
 
-## FEEDBACK RETROSPECTIVA 12 / 03 / 2024
+## FEEDBACK Semana 6 RETROSPECTIVA 12 / 03 / 2024
 
 ### DIAPOSITIVAS
 
@@ -359,3 +359,72 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Tener en cuenta el numero de tareas que tiene cada uno para las métricas. 
 
 - Averiguar la huella de carbono que estamos usando. 
+
+## FEEDBACK Semana 7 19 / 03 / 2024
+
+### DIAPOSITIVAS
+
+- Mejorar la ortografía en diapositivas.
+- Añadir antes del ROI y TCO los planes de precio (suscripciones y contratos).
+- Hacer zoom a las gráficas para que se vean mejor (Análisis de Calidad, Diapositiva 31), señalar en un color más llamativo (rojo) las partes relevantes. El objetivo no es que se vea la leyenda, sino que se entienda la línea. 
+- Considerar reducir el número de diapositivas.
+- Muy buen Storyboard, gracioso y llamativo, seguir así.
+- El nombre de la diapositiva de Elevator Pitch debe ser Elevator Pitch (No se debe traducir).
+- Mejorar nuestro elevator pitch de forma que incentive a invertir en nuestro producto.
+- Se debe representar los costes de github actions y codacy. Hay que mencionarlos.
+- Al hablar sobre el presupuesto , este se ejecuta, no se gasta (decir esto último es incorrecto). Lo que se gasta es el dinero. 
+- El markdown del análisis de calidad no se ve bien. Hay que poner un zoom en la parte más relevante de la gráfica.
+- Hay que representar de forma clara las mejoras respecto a la semana anterior.
+- El TCO se debe usar y representar a 2 años.
+- Hacer el calendario Niko-Niko más visible.
+- Ilustrar mejor la furgoneta de Competencias en la diapositiva 2.
+- Hacer un segundo storyboard que represente un segundo caso de uso.
+- El report de la IA debe ir al final de las diapositivas, y después de esa la diapositiva con la URL de la Landing Page.
+
+### PRESENTACIÓN
+
+- Hay que dar coherencia a la presentación de la demo respecto a los Storyboards. Esto consiste en usar la demo para mostrar a los usuarios de la storyboard interactuando. En nuestro caso, sería ver la interacción entre Perico y Bufandasio.
+- Mejorar la vocalización.
+- Hacer Zoom en la demo.
+- Somos un equipo, si algún miembro está cansado y no puede presentar, debemos tener miembros preparados para presentar también.
+
+### APLICACIÓN
+
+- Poner datos realistas en la base de datos.
+- Cambiar los  títulos de las vistas (Mis Contratos). 
+- Valorar la posibilidad de filtrar por Idioma en los servicios.
+- Mejorar la página de home, situando un listado de “trabajos destacados” en la página de inicio.
+
+### PROYECTO
+
+- Comprobar si hay alguna forma de verificar que se cumpla la gestión de la configuración
+- Asociar el Costumer Agreement al desarrollo del servicio. Contrato de uso o alquiler de servicios como los servicios en la nube.
+- Tener en cuenta el impacto legal del proyecto (el usuario al registrarse debe aceptar los términos legales de uso y la política de protección de datos, las cuales debemos elaborar evitando políticas abusivas).
+- Acuerdo de compromiso interno entre los miembros del equipo.
+- Acuerdo de usuarios piloto.
+- Implementar una API que valide que los correos usados para registrarse sean reales.
+
+
+## Feedback Semana 8 - 5 de abril
+
+### Sobre la presentación:
+- Es mejor reducir el ritmo de presentación para que se entienda todo mejor
+- Mejorar la visibilidad de la demo
+- Encontrar un punto intermedio entre presentar de forma estática y la sobreactividad durante la presentación.
+- Hay que evolucionar y enlazar el killer opener con la aplicación.
+- Transmitir energía y seguridad
+
+### Sobre las diapositivas:
+- La diapositiva de los beneficios en la sección de costes se puede unir en una única diapositiva, esto también es aplicable a la gráfica de horas del equipo.
+- Mostrar los protocolos de codacy en capturas en vivo es muy buena idea, seguir con ello.
+- Añadir más información en la diapositiva sobre el uso de la IA
+- Muy buen Storyboard, seguir con los storyboards originales cuando se requieran
+- Realizar menos transparencias de cada punto: intentar unificar diapositivas
+- Para representar los problemas usar una tabla en lugar de imágenes
+
+### Sobre el proyecto:
+- Se recomienda realizar una matriz de esfuerzo y horas del equipo para  saber el rendimiento obtenido
+- Una vez iniciada sesión en la aplicación, que no se vea la descripción de la aplicación sino los usuarios destacados.
+- Hay que intentar ser menos optimista en la gráfica de la estimación optimista de beneficios.
+- Analizar Webel, potencial nuevo competidor
+

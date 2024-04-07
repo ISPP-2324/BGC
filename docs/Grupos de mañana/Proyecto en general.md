@@ -35,3 +35,7 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 + Se debería usar una API para comprobar que los correos sean válidos.
 + Utilizar un calendario compartido.
 + Hacer mejor uso de los conventional commits (Por ejemplo con changelogs automáticos)
++ La base de datos debe contener datos realistas
++ Hay que asociar el Costumer Agreement al desarrollo del servicio, con los contratos de uso y alquiler de servicios en la nube.
++ Hay que tener en cuenta el impacto legal del proyecto (aceptar terminos legales de uso, políticas de protección de datos, etc)
+
