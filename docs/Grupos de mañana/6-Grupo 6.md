@@ -215,7 +215,7 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Hay que proponer soluciones a los posibles problemas.
 
 
-## Feedback - 05 de marzo
+## Feedback Semana 5 - 05 de marzo
 
 **Grupo 6 CiaoLavoro**
 
@@ -315,7 +315,7 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Para las presentaciones, usan un proceso que nos vendría bien a nosotros: primero miran el feedback, luego preparan un guión y después hacen la presentación.
 - Deberíamos añadir nosotros el uso de Codacy, SLint, y demás para el análisis de calidad del código.
 
-## FEEDBACK RETROSPECTIVA 12 / 03 / 2024
+## FEEDBACK Semana 6 RETROSPECTIVA 12 / 03 / 2024
 
 ### DIAPOSITIVAS
 
@@ -360,7 +360,7 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 
 - Averiguar la huella de carbono que estamos usando. 
 
-## FEEDBACK  19 / 03 / 2024
+## FEEDBACK Semana 7 19 / 03 / 2024
 
 ### DIAPOSITIVAS
 
@@ -403,4 +403,28 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Acuerdo de compromiso interno entre los miembros del equipo.
 - Acuerdo de usuarios piloto.
 - Implementar una API que valide que los correos usados para registrarse sean reales.
+
+
+## Feedback Semana 8 - 5 de abril
+
+### Sobre la presentación:
+- Es mejor reducir el ritmo de presentación para que se entienda todo mejor
+- Mejorar la visibilidad de la demo
+- Encontrar un punto intermedio entre presentar de forma estática y la sobreactividad durante la presentación.
+- Hay que evolucionar y enlazar el killer opener con la aplicación.
+- Transmitir energía y seguridad
+
+### Sobre las diapositivas:
+- La diapositiva de los beneficios en la sección de costes se puede unir en una única diapositiva, esto también es aplicable a la gráfica de horas del equipo.
+- Mostrar los protocolos de codacy en capturas en vivo es muy buena idea, seguir con ello.
+- Añadir más información en la diapositiva sobre el uso de la IA
+- Muy buen Storyboard, seguir con los storyboards originales cuando se requieran
+- Realizar menos transparencias de cada punto: intentar unificar diapositivas
+- Para representar los problemas usar una tabla en lugar de imágenes
+
+### Sobre el proyecto:
+- Se recomienda realizar una matriz de esfuerzo y horas del equipo para  saber el rendimiento obtenido
+- Una vez iniciada sesión en la aplicación, que no se vea la descripción de la aplicación sino los usuarios destacados.
+- Hay que intentar ser menos optimista en la gráfica de la estimación optimista de beneficios.
+- Analizar Webel, potencial nuevo competidor
 
