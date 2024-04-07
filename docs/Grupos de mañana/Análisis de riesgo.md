@@ -23,3 +23,6 @@ En este documento vamos a encontrar feedback respecto a los posibles riesgos de 
 ## Semana 5
 + Para la semana del 19/03/2024 se ha pedido hablar de los riesgos, y además de los problemas que se han generado. 
 + Se tiene que indicar cómo se van a reaccionar, qué medidas se van a tomar y si ya se está actuando en ello o cuándo se va a actuar.
+
+## Semana 8
++ Hay que analizar e indicar si las incidencias afectan a la planificación.

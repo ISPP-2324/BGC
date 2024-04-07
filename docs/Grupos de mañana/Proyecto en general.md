@@ -35,3 +35,6 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 +  Hay que implementar una API que valide si los correos usados para registrarse son reales.
 + Hay que asociar el Costumer Agreement al desarrollo del servicio, con los contratos de uso y alquiler de servicios en la nube.
 + Hay que tener en cuenta el impacto legal del proyecto (aceptar terminos legales de uso, políticas de protección de datos, etc)
+
+# Semana 8
++ El proyecto debe cumplir las regulaciones GPR y seguridad (https)

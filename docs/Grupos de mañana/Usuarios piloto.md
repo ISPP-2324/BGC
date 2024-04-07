@@ -27,3 +27,7 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 
 ## Semana 5
 + Hay que explicar cómo se va a tomar el feedback de los usuarios pilotos, quieren ver que se les hace caso de verdad.
+
+## Semana 8
++ Es obligatorio como grupo ser usuario piloto de otro grupo a partir del sprint 3.
++ Hay que dar tiempo de sobra a los usuarios piloto para que puedan probar la aplicación.
