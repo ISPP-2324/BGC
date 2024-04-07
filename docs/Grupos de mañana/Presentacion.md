@@ -94,3 +94,10 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + La presentación de la demo debe ser coherente con lo que se represente en los Storyboards.
 + Hay que realizar zoom en las demos en los momentos donde veamos que se ve pequeño.
 
+
+
+# Semana 8
++ En la presentación hay que mostrar el incremento de la aplicación en la demo
++ Puede ser buena idea el jugar a hacer cosas curiosas con la demo, como el ejemplo del muñeco que hablaba expuesto por los profesores.
++ Realizar una matriz gráfica 2D de rendimiento del esfuerzo en horas y rendimiento. Siendo una columna rendimiento y la otra horas.
++ A partir de esta semana se debe de tener un anuncio en la presentación
