@@ -198,3 +198,27 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Monitorear el progreso del proyecto utilizando un reloj de avance y un plan de gestión para los usuarios pilotos.
 - Informar sobre el uso de IA y analizar cómo ha mejorado su uso para proporcionar una visión más completa de su impacto en el proyecto.
 - Implementar herramientas de agendamiento y reducción de alcance según sea necesario para mejorar la eficiencia del equipo.
+
+
+## Semana 8
+### Temas que mejorar en las presentaciones:
+- Utilizar herramientas como lupa para mejorar la visibilidad durante la presentación de la demo.
+- Destacar los incrementos del sprint durante la demo para resaltar el progreso.
+- Utilizar diagramas con colores contrastantes y un diseño claro para facilitar la comprensión de la información incluso a distancia.
+- Comentar antes los costos optimistas que los pesimistas para mejorar la fluidez de la presentación.
+- Utilizar diferentes puntos de vista en el storyboard según el tipo de usuario.
+- Incluir changelog en la demo para mayor comprensión.
+
+### Temas que mejorar en el trabajo realizado:
+- Verificar la veracidad y viabilidad de los problemas resueltos presentados y asegurarse de que sean relevantes para el proyecto.
+- Destacar cualquier mejora significativa en el Dashboard Bluejay y su impacto en la gestión interna del proyecto.
+- Profundizar en las cláusulas y aspectos relevantes del customer agreement y su relación con el TCO y la planificación del equipo.
+- Elaborar un plan detallado para gestionar problemas y riesgos, incluyendo soluciones específicas, objetivos medibles y un seguimiento del progreso.
+- Incluir conclusiones sobre el uso de la IA en el reporte para proporcionar una visión completa.
+
+### Temas a tratar la siguiente semana:
+- Continuar con la práctica de utilizar un killer opener, elevator speech y storyboard para mantener el interés del público.
+- Mejorar la experiencia del usuario, utilizando datos realistas y viendo primeros conceptos sobre UX.
+- Revisar y planificar los objetivos para la demo del siguiente sprint, considerando aspectos como el marketing y correcciones de código.
+- Presentar informes detallados sobre el uso de la IA, destacando tanto los beneficios como los posibles desafíos o limitaciones.
+- Comenzar con la organización de un plan de pruebas tras ver su respectiva píldora.
