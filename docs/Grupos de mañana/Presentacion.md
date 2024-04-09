@@ -80,6 +80,7 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + La presentación debe de empezar a trabajarse desde el primer día. Es metodología agil.
 + Los miembros que no contribuyen al proyecto debe de referirse a ellos como "miembros con falta de proactividad", y esto debe estar incluido en la métrica de rendimiento.
 
+
 ## Semana 7
 + En la demo se deben poner tanto datos como imagenes reales
 + Ver como otras empresas enfocan el elevator pitch para aplicarlo en el nuestro.
@@ -89,4 +90,14 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Citar las fuentes usadas.
 + Mostrar el impacto legal del proyecto (GDPR, licencias, aspectos legales, customer agreement).
 + Realizar Storyboard para un rol distinto.
++  El report de IA debe situarse en la penúltima diapositiva, siendo la ultima la diapositiva con la URL de la Landing Page.
++ La presentación de la demo debe ser coherente con lo que se represente en los Storyboards.
++ Hay que realizar zoom en las demos en los momentos donde veamos que se ve pequeño.
 
+
+
+# Semana 8
++ En la presentación hay que mostrar el incremento de la aplicación en la demo
++ Puede ser buena idea el jugar a hacer cosas curiosas con la demo, como el ejemplo del muñeco que hablaba expuesto por los profesores.
++ Realizar una matriz gráfica 2D de rendimiento del esfuerzo en horas y rendimiento. Siendo una columna rendimiento y la otra horas.
++ A partir de esta semana se debe de tener un anuncio en la presentación

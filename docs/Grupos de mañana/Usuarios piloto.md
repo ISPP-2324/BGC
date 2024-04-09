@@ -30,3 +30,7 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 
 ## Semana 7
 + Mostrar que se esté de acuerdo con el customer agreement realizado.
+
+## Semana 8
++ Es obligatorio como grupo ser usuario piloto de otro grupo a partir del sprint 3.
++ Hay que dar tiempo de sobra a los usuarios piloto para que puedan probar la aplicación.

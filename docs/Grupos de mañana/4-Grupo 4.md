@@ -107,3 +107,18 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + Indicar estado de los problemas y métricas para medir si se están solucionando.
 + Justificar el recorte en el alcance.
 + Mejorar elevator pitch.
+
+## Semana 8: 02/04
+
++ Incluir datos reales reales en demos.
++ No confundir terminos (Beneficios =! ingresos).
++ Añadir alucinaciones al uso de la IA.
++ Hacer zoom en las partes que se vea poco.
++ Seguir el orden que indiquen los profesores.
++ Bajar el ritmo de la presentación en partes como los diagramas.
++ Cambiar colores y escala de gráfica coste vs beneficio para que se vea mejor.
++ Poner reloj del equipo en la retrospectiva.
++ Añadir mediciones a las soluciones en la tabla de problemas.
+
+
+
