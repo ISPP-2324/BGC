@@ -125,5 +125,27 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + Si se muestran gráficas se debe como mínimo hacer alguna conclusión de esta.
 + La recepción del feedback de los usuarios pilotos debe ser lo antes posible para poder ejercer los cambios necesarios antes del entregable.
 
+## Semana 9
++ Cuidar la iluminación del anuncio así como la vocalización y velocidad del diálogo.
++ ¿SON LOS CORRECTOS USUARIOS POTENCIALES? Hay que cambiar el enfoque, la búsqueda de trabajo es constante
++ Añadir diapositivas de apoyo para el Customer Agreement (Diapositiva: SLA + TOS).
++ Especificar los datos de la diapositiva Capex vs Opex. Y añadir datos de usuarios empleados que se registrarían en la aplicación.
++ Pararse brevemente a explicar qué es cada cláusulas del Commitment Agreement.
++ En la DEMO pararse en las funcionalidades core y no mencionar la edición/eliminación de perfiles.
++ Al subir el ritmo del diálogo se deja de seguir el ritmo de la presentación y se pierden conceptos.
++ Para cada gráfico (a partir de la 37) o dato que se enseñe, prepararse una frase que resuma el gráfico (p.ej: ha habido un aumento del rendimiento del 4%) o plasmarlo en la misma diapositiva.
++ La gráfica de rendimiento individual no refleja bien la diferencia con respecto de una semana a otra, si se quiere plasmar eso habría que cambiar la forma de enseñarlo.
++ La DEMO debe estar más orientada al  anuncio, que Javi salga en el anuncio como jefe y luego salga igual en la foto de perfil de la DEMO.
++ Se debe plasmar si los tests están siendo efectivos o no (inventarse fallos o realizar test que se sabe que van a fallar).
++ Añadir el numero de refinamientos necesarios en el report de las IAs.
++ Meter acciones de consolidación en la Base de Conocimientos
++ Tener un apartado de la DEMO en el Docusaurio (link a Youtube…).
++ Añadir apoyo para los SLA y ToS (Customer Agreement)
++ Incluir los ToS en el registro.
++ Añadir el feedback específico nos han dado los Usuarios Pilotos. A cada feedback que se mencione que han aportado los usuarios piloto añadir la prioridad que se le ha asignado.
++ A Muller le gustó que: Para cada problema: OPEN, NOT SOLVED, IN PROGRESS, SOLVED
++ Muller mencionó que es buena practica realizar pruebas de carga que muestren cuantás peticiones son necesarias para agotar los créditos de Google.
++ A Muller le gustó: Segmentación de mercado de cara al proyect launch (píldora teórica).
+
 
 
