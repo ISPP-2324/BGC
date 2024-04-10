@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 19/03 19.20h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 09/04 18.45h*
 ****
 ## Semana 1
 
@@ -106,6 +106,24 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Muy bien el resto de la presentación.
 - Un poco rápido en general.
 - Poner fórmula de calculo de la nota.
+
+## Semana 9
+
+- Mucha velocidad en la exposición, con muchos datos. Se pierde información de la exposición.
+- Se desaprovecha espacio en la pantalla de la presentación.
+- Más cosas referentes a la retrospectiva.
+- Poner indicadores de los problemas. Enfoque sistemático.
+- Que se vea la DEMO mejor. Funcionalidades Core en la DEMO.
+- Hablar más lento.
+- Conexión anuncio.
+- Mejorar visibilidad de proyección.
+- En las graficas no se ven las leyendas, el analisis de sonar tampono se ve bien (adaptarse al aula).
+- Decir quien está logeado (que aparezca en la app - Iconos).
+- Que la DEMO tenga una historia por detrás.
+- Orden, el calculo de rendimiento es este y esto es lo que se ha obtenido.
+- Se habla de plan de prueba pero no se dicen cuantas de cada una.
+- Resumir información refente al coste. 
+- Centrarnos unicamente en el problema que vaya peor.
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*
