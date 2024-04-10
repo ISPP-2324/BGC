@@ -101,3 +101,10 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Puede ser buena idea el jugar a hacer cosas curiosas con la demo, como el ejemplo del muñeco que hablaba expuesto por los profesores.
 + Realizar una matriz gráfica 2D de rendimiento del esfuerzo en horas y rendimiento. Siendo una columna rendimiento y la otra horas.
 + A partir de esta semana se debe de tener un anuncio en la presentación
+
+
+# Semana 9
++ Pequeños detalles creativos y graciosos en la presentación pueden quedar muy bien y hacer más amena la misma. Además permite tener a todos los espectadores más atentos.
++ Antes de presentar la demo, se debe indicar que parte de la aplicación vamos a tratar.
++ Si los números en las diapositivas son demasiado largos, escalarlos con el método Monopoly (usar K para cifras de 1000 o más, y M para cifras de 1 millón o más)
++ Las diapositivas de los powerpoint si evitamos usar efectos de movimiento al pasarlas mejor: esos efectos pueden causar mareos.

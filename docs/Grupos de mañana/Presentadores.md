@@ -33,3 +33,6 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 ## Semana 5
 + Estar pendiente del tiempo para que no le sobre tiempo al final y pueda centrarse en lo importante.
 
+## Semana 9
++ Al presentar más relajado el presentador, todo queda mucho mas claro.
+

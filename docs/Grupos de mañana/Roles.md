@@ -16,3 +16,8 @@ En este documento vamos a encontrar feedback respecto a los roles en el proyecto
 
 ## Semana 7
 + Sería buena idea rotar los presentadores. Para que todos los miembros tengan la experiencia de presentar.
+
+## Semana 9
++ Aparecen dos nuevos roles: community manager y GDPR Officer
++ Community Manager: se encarga de ser el responsable sobre las tareas relacionadas con el marketing.
++ GDPR Officer: su responsabilidad es supervisar, controlar y coordinar el cumplimiento de la GDPR (General data protection, es decir, la protección de datos)
