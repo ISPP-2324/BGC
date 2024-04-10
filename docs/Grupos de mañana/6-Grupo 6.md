@@ -428,3 +428,61 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - Hay que intentar ser menos optimista en la gráfica de la estimación optimista de beneficios.
 - Analizar Webel, potencial nuevo competidor
 
+## Feedback Semana 9 - 9 de abril
+
+### Pensamientos del grupo
+- Muy buen ritmo
+- Deberiamos añadir más profesiones a la aplicación para mostrar que tenemos servicios polifacéticos
+- El cartel de "Promoción" debe de ser mejorado
+
+### Sobre la forma de presentar
+- Al presentar más relajado queda todo muchísimo mas claro.
+- Evitar muletillas que pueden entenderse como algo negativo, como "no quita que". Buscar otra frase para hacer de nexo entre trasparencias.
+- Eliminar el efecto de movimiento al pasar las diapositivas, puede causar mareos.
+
+### Sobre la presentación
+- Buen uso de los memes en las diapositivas, ha quedado como un pequeño detalle gracioso en la presentación y bastante creativo.
+- No usar IA para las fotos de los usuarios en la demo, usar datos más realistas.
+- Antes de presentar la demo hay que contar que parte de la demo vamos a tratar.
+- En la demo hacer una historia donde Perico la usa.
+- Mejorar la diapositiva del apartado de pruebas, menos texto y más visual.
+- La parte de problemas, usuarios piloto y plan se han quedado cortas y se ha destinado demasiado tiempo a la retrospectiva. Mejorar haciendo más corta la retrospectiva para dedicar más tiempo a los apartados que se han quedado cortos.
+- La gráfica de la diapositiva 12 no se ve bien, son números demasiado largos. Escalarlos al estilo monopoly (usando K y M)
+- La gráfica de la diapositiva 24 debe ser acumulativa, que se vea el To Do, In Progress, In review y Done.
+
+### Sobre el Killer Opener
+- Está genial usar a Perico en el Killer Opener, pero la próxima vez en lugar de ponerlo tomándose unas vacaciones, es mejor ponerlo en algún trabajo nuevo (por ejemplo, si se acerca el verano, ponerlo de socorrista, o si se acerca la feria, ponerlo trabajando ahí)
+
+
+### Sobre el anuncio
+- Abarcar más trabajos para mostrar que son servicios polifacéticos.
+
+### Sobre la publicidad
+- Revisar los servicios más demandados y usarlos para la publicidad. También deben de ser añadidos a la aplicación.
+
+### Sobre la resolución de problemas
+- Problema-Solución. ¿Cómo se mide? ¿Estamos llegando al objetivo?, debemos tener en cuenta esas preguntas a la hora de desarrollarlo.
+
+
+### Elementos a tener en la presentación para la próxima semana
+- introducción, modelo de negocio
+- killer opener
+- elevator pitch
+- resumen analisis competidores
+- anuncio nuevo
+- customer agreement (terminos servicios, claudette, explicar qué hacemos para arreglarlo)
+- pricing customer agreement
+- SLA
+- tareas de marketing preliminar (nada muy desarrollado, qué acciones podemos hacer para ganar tracción, conseguir clientes, quizás segmentar el mercado, redes sociales, anuncios…) ROL DE COMMUNITY MANAGER
+- resumen TCO (tener en cuenta una persona que sea el GDPR Officer y el Community Manager)
+- refinar la distribución del equipo con lo anterior
+- Commitment agreement (estado)
+- Demo Sprint 3 completo siguiendo una historieta realista  (poner a Perico, poner el usuario que esta usando la aplicacion)
+- destacar mejoras en UX en la demo
+- http y derecho al olvido (un formulario para que el usuario diga que quiera borrar sus datos)
+- términos y condiciones
+- retrospectiva
+- gestión usuarios piloto
+- planificacion PPL
+- uso de IA
+- diapositiva Final. 
