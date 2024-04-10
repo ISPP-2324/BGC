@@ -67,3 +67,9 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 ## Semana 8
 
 - No usar colores con tonos similares para exponer distintas cosas en una misma gráfica/tabla.
+
+## Semana 9
+
+- Hay que redimensionar las presentaciones para que se adapten al proyector.
+
+- Hay que mantener la uniformidad en los elemntos de las presentaciones como las gráficas.

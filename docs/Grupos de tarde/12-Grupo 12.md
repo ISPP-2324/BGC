@@ -114,3 +114,12 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Mostrar los iconos constantemente en la demo para saber concretamente quién usa la aplicación.
 + Se podría enlazar el killer opener con lo que se muestra luego en la demo.
 + Monitorizar consumo de créditos del despliegue.
+
+## Semana 9
++ Se podría implementar una IA que detecte palabras de spam.
++ En la tabla de análisis de coste, buscar alguna forma para diferenciar claramente los costes durante el desarrollo y durante la operación.
++ Buscar desarrollar una historia a la hora de mostrar la demo.
++ Uniformidad en las gráficas que se usan en la presentación.
++ Reescalar la presentación al tamaño de la pantalla.
++ Hilar el killer opener con el anuncio y con la demo. Debe ser todo muy claro.
++ Evaluar alternativas para que el audio se escuche correctamente.
