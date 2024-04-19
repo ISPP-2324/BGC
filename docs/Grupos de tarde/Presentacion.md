@@ -72,4 +72,12 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 
 - Hay que redimensionar las presentaciones para que se adapten al proyector.
 
-- Hay que mantener la uniformidad en los elemntos de las presentaciones como las gráficas.
+- Hay que mantener la uniformidad en los elementos de las presentaciones como las gráficas.
+
+- Mantener la misma tipografía y paleta de colores en todas las diapositivas.
+
+- Conectar la demo con el anuncio y el inicio ejectivo.
+
+- No añadir información excesiva en las presentaciones, que permita a los oyentes digerir la información.
+
+- Para la información extra añadirlas a diapositivas finales después de todo por si preguntan por esa información.

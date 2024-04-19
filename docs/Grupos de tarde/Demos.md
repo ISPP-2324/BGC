@@ -13,3 +13,5 @@ En este documento vamos a encontrar feedback respecto a las demos de las present
 - Además de enlazar el killer opener con la demo, debemos intentar enlazar el anuncio.
 
 - Buscar desarrollar una historia a al hora de mostrar la demo.
+
+- Incluir datos realistas en las demostraciones.
