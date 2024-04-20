@@ -1,6 +1,6 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 12
 ****
-## Semana 2
+## Semana 1
 #### Presentación
 + Incluir un opener para atraer la atención del público al comienzo de la presentación
 + Mejorar la entonación para no aburrir al público y demostrar comienza y seguridad
@@ -15,7 +15,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 #### Tecnologías
 + Los canales de comunicación no son muy profesionales y nos recomiendan usar Slack
 
-## Semana 3
+## Semana 2
 #### Presentación
 + Hacer uso de expresiones más profesionales (Ej: "Económicamente sostenible" en vez de "Que no les cuest mucho dinero")
 + Evitar disonancia entre lo que se está contando y lo que muestran las diapositivas
@@ -42,7 +42,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Añadir más funcionalidad (Ej: Puntos calientes, Grado de accesibilidad de un edificio, Municipios sin el plan aceptado, etc)
 + Proponer expansiones de funcionalidad a la ONG
 
-## Semana 4 (Test 1)
+## Semana 3 (Test 1)
 #### Presentación
 + Tener cuidado con las imágenes de personas que usamos en la presentación
 + Evitar texto pequeño en las diapositivas
@@ -67,7 +67,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 #### Landing Page
 + Poner enlace al Clockify
 
-## Semana 5
+## Semana 4
 #### Presentación:
 + Fluidez en la presentación
 #### Usuarios piloto:
@@ -113,7 +113,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Gestión tareas por GitHub y dejar constancia de todo (dudas en comentarios de issues y eso)
 + Aplicar estrategias de ramificación y código a documentos (Cree un Docusaurus personal para nosotros y lo estoy poniendo listo para empezar a subir nuestros documentos)
 
-## Semana 6
+## Semana 5
 ### Presentación
 + NO cambiar la presentación entregada, ni siquiera el orden de las diapositivas
 + Entregar el vídeo/demos a partir de ahora incluso si ocupa un montón
@@ -137,10 +137,10 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Recomiendan que se usen patrones de diseño para aquellos que tienen problemas de interdependencia entre Backend y Frontend
 + En la sección de QR les han recomendado a otros grupos poner en el enlace al Clockify con las horas ponerlas por persona en vez de solo el total
 
-## Semana 7 (Retroespectiva)
+## Semana 6 (Retroespectiva)
 + Aún no esta disponible
 
-## Semana 8
+## Semana 7
 ### Presentación
 + No mencionar el Backlog del 1 (Recomendación mía)
 + Vídeo incluirlo en la presentación sin salir de las diapositiva (feedback pasado)
@@ -155,7 +155,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 + Lecciones aprendidas 
 + API al OPEX si la usamos
 
-## Semana 9
+## Semana 8
 ### Presentación
 + El killer opener era muy parecido al business statement, haber pasado las diapositivas antes y acabar el KO y BS a la vez
 + De Storyboard nos recomienda un rol diferente -> Profesional o el Alcalde apuñalado
@@ -174,7 +174,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 ### Usuarios pilotos
 + Decir como gestionamos el feedback, si hemos recibido el feedback y que acciones tomamos en consecuencia
 
-## Semana 10
+## Semana 9
 ### Presentación
 + Falta Storyboard en forma de anuncio y en vídeo
 + Inconsistencia en la historia del Storyboard
