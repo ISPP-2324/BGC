@@ -174,6 +174,35 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 ### Usuarios pilotos
 + Decir como gestionamos el feedback, si hemos recibido el feedback y que acciones tomamos en consecuencia
 
+## Semana 10
+### Presentación
++ Falta Storyboard en forma de anuncio y en vídeo
++ Inconsistencia en la historia del Storyboard
++ Diapositiva reloj de horas y gestión de problemas hay que explicarla y no pasar por encima
++ Gráficas: Los ejes y colores no se ven bien, uniformidad forma y estilos en la medida de lo posible
++ Vocalización y que se nos entienda mejor, más ensayos para que salga de manera natural el cambio de diapositiva
++ El texto largo roba la atención, lo suyo sería evitar tenerlos
+
+### Demo
++ Muy rápida
++ Explicar términos y condiciones
++ En la demo algunos colores de letra no se ve bien (Público)
++ No les gusta el diseño de tener los formularios centrados
++ Hacer zoom en algunas partes
++ Descripción de que se va hacer al principio
++ Quien está logeado (No hace falta decirlo, puede aparecer en el vídeo)
++ Enseñar principalmente lo nuevo lo demás muy por encima
+
+### Costes
++ Cambiar forma de explicar los costes
++ Lo que mostramos son más los Ingresos que Beneficios cambiarlo
++ Decir que los costes seguridad social no están incluidos en el cálculo
+
+### Usuarios pilotos
++ Mostrar priorización del feedback
+
+
+
 
 
 
