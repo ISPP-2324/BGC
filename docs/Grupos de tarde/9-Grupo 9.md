@@ -38,6 +38,11 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Crear un informe más detallado del uso de la IA en el proyecto, destacando sus beneficios y áreas de mejora, y dando ejemplos. Puede ser una sección de la Wiki.
 - Identificar y evaluar los posibles riesgos a lo largo del proyecto, utilizando herramientas y técnicas apropiadas vistas en las píldoras.
 
+### Acciones de consolidación
+Tras este feedback, respecto a la presentación, lo más destacable que tuvimos en cuenta para la siguiente exposición fue el llevar un orden coherente en esta, ya que por ejemplo, empezar a hablar sobre los competidores antes que de lo que va nuestra propia aplicación no tiene mucho sentido y puede hacer que el espectador se pierda.
+
+Por otro lado, otros temas de importancia que pudimos mejorar gracias al feedback fueron: el TCO, ya que nos dimos cuenta que habíamos dejado muchos costes fuera de este; y el análisis DAFO, porque estábamos comentando debilidades relacionadas con nosotros en vez de con la aplicación.
+
 
 ## Semana 2
 ### Temas que mejorar en las presentaciones:
@@ -76,6 +81,11 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Asegurar el uso efectivo de las herramientas obligatorias, como GitHub, y considerar la integración de herramientas opcionales, como análisis de código.
 - Planificar el despliegue de los entregables en diferentes URLs y continuar aportando reportes sobre el uso de la IA en el proyecto.
 
+### Acciones de consolidación
+Como se tuvo en cuenta el feedback anterior y consejos dados en las píldoras, la presentación esta semana fue bastante mejor. Sin embargo, tras recoger la información anterior, nos ha quedado claro que nuestro principal punto de mejora es la optimización del espacio, cosa que tendremos en cuenta para la siguiente exposición.
+
+Por otro lado, otros temas destacables que vamos mejorar gracias a lo comentado en el feedback son: el commitment agreement, ya que no le estamos dando la importancia que verdaderamente tiene ni le estamos haciendo un correcto seguimiento; y también que los requisitos funcionales deben estar relacionados con los casos CORE, al igual que las reglas de negocio con los planes de precio, ya que se debe mantener una coherencia.
+
 
 ## Semana 3
 ### Temas que mejorar en las presentaciones:
@@ -113,6 +123,9 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Hay que asegurar que se proporcionen recursos como enlaces al dashboard de Clockify.
 - Discutir la cohesión y acoplamiento del equipo en relación con el rendimiento del proyecto.
 
+### Acciones de consolidación
+Tras lo anotado esta semana, lo más importante que hemos llevado a cabo gracias a este feedback ha sido: ser más precisos en la planificación, tanto del sprint actual, como de los siguientes (estos no se habían tenido en cuenta); empezar a contactar con los usuarios pilotos y establecer su correspondiente cuadro de mando para su seguimiento; y utilizar los comentarios en el GitHub para la comunicación del equipo.
+
 
 ## Semana 4
 ### Temas que mejorar en las presentaciones:
@@ -141,6 +154,9 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Discutir la planificación detallada del próximo sprint y cualquier replanificación necesaria.
 - Documentar adecuadamente los recursos y procesos clave, haciendo hincapié en el dashboard de Bluejay y el porfolio de documentación.
 - Incluir una transparencia final con QRs para la landing page y dar feedback.
+
+### Acciones de consolidación
+Teniendo en cuenta el feedback recibido esta semana, podemos destacar los siguientes temas, en los que profundizaremos para llevar a cabo la mejora de todo lo anotado: en la gestión de usuarios pilotos se deben especificar fechas, ya que se debe realizar una correcta planificación; en el TCO cuando se habla sobre las herramientas, hay que comentar los planes exactos y justificar su uso, ya sea porque por ejemplo has calculado que te hará falta X capacidad; y también relacionado con los costes, hay que hacer una clara diferencia entre los gastos operacionales y los gastos operativos.
 
 
 ## Semana 5
@@ -171,6 +187,9 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Mostrar demo del prototipo desplegado, con el core más las nuevas funcionalidades con datos reales.
 - Realizar una retrospectiva detallada del proyecto, analizando tendencias y resultados.
 
+### Acciones de consolidación
+Tras analizar el feedback anterior, el mayor cambio que hemos hecho gracias a este ha sido la migración de toda nuestra wiki personal y documentos a Docusaurus, por lo que a partir de ahora toda nuestra documentación se encontrará ahí. También se han tenido en cuenta aspectos importantes como la correcta organización del workspace de clockify.
+
 
 ## Semana 7
 ### Temas que mejorar en las presentaciones:
@@ -199,6 +218,9 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Informar sobre el uso de IA y analizar cómo ha mejorado su uso para proporcionar una visión más completa de su impacto en el proyecto.
 - Implementar herramientas de agendamiento y reducción de alcance según sea necesario para mejorar la eficiencia del equipo.
 
+### Acciones de consolidación
+Según lo recogido en el feedback, podemos destacar aspectos que hemos aprendido como que debemos tener un commitment agreement con los clientes, ya que tenerlo apalabrado no sirve de nada si no se tiene un acuerdo firmado que te pueda quitar de problemas en un futuro. También es necesario recalcar la importancia que tiene la revisión de documentos como el de análisis de riesgos o los commitment agreements, ya que es algo que se suele olvidar hacer tras finalizarlos.
+
 
 ## Semana 8
 ### Temas que mejorar en las presentaciones:
@@ -222,3 +244,28 @@ En este documento vamos a encontrar el feedback dado a todos los grupos, recogid
 - Revisar y planificar los objetivos para la demo del siguiente sprint, considerando aspectos como el marketing y correcciones de código.
 - Presentar informes detallados sobre el uso de la IA, destacando tanto los beneficios como los posibles desafíos o limitaciones.
 - Comenzar con la organización de un plan de pruebas tras ver su respectiva píldora.
+
+
+## Semana 9
+### Temas que mejorar en las presentaciones:
+- Crear un anuncio grabado basado en los storyboards para mejorar la presentación.
+- Mejorar la interfaz y la narrativa durante la demostración para hacerla más comprensible y fluida.
+- Reubicar la planificación para mejorar su visibilidad y comprensión, y mejorar el inicio efectivo para hacerlo más fluido y natural.
+- Reducir el tiempo dedicado a la primera parte de la presentación y centrarse en aspectos relevantes como las cláusulas abusivas.
+- Mejorar la visibilidad y claridad durante la demostración, evitando fondos oscuros y letras pequeñas.
+- Garantizar que la presentación se centre en aspectos particulares del proyecto y evite redundancias.
+- Aprovechar la demostración para resaltar incrementos y datos realistas
+
+### Temas que mejorar en el trabajo realizado:
+- Establecer un plan de pruebas detallado para gestionar las pruebas de software de manera efectiva.
+- Implementar un enfoque sistemático para resolver problemas, identificando objetivos claros y acciones específicas.
+- Diferenciar entre riesgo y problema para una mejor gestión de los mismos.
+- Evitar incluir credenciales públicas en docusaurus para garantizar la seguridad de los datos.
+- Reforzar la uniformidad en las gráficas y documentos para una experiencia más cohesiva.
+
+### Temas a tratar la siguiente semana:
+- Incluir retroalimentación sobre los problemas encontrados y lecciones aprendidas en la retrospectiva.
+- Establecer un plan detallado para gestionar usuarios pilotos y abordar sus necesidades y comentarios de manera efectiva.
+- Identificar correctamente los documentos y su orden por carpetas por sprints para facilitar las correcciones.
+- Asegurar una descripción clara en el entregable para evitar confusiones sobre lo que se debe entregar.
+- Mejorar la organización y completitud de la BGCC entre todos los grupos, asegurando que todas las secciones estén cubiertas.
