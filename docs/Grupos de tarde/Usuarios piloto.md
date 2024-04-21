@@ -9,3 +9,8 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 ## Semana 4
 
 - Usar iTop para tener el feedback de los usuarios pilotos es una buena idea.
+
+
+
+## Semana 8
+- Redactar commitment agreement con los usuarios piloto incluyendo penalizaciones y recompensas
