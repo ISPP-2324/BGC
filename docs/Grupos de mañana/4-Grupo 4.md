@@ -120,5 +120,12 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + Poner reloj del equipo en la retrospectiva.
 + Añadir mediciones a las soluciones en la tabla de problemas.
 
+## Semana 9: 09/04
+
++ Se ha ido muy rápido en la parte de los riesgos aunque estaban bien estructurados y presentados visualmente.
++ Poner desglose de horas por miembro de todo el mundo en una misma diapositiva.
++ Usuarios piloto bien: identificación de usuarios piloto bien y cantidad, fechas de inicio-fin de prueba (falta cuándo se analiza y aplica el feedback), calificación (falta prioridad del feedback).
++ En planificación ha faltado cómo vamos a gestionar el final del S3 - WPL (Tareas faltantes, replanificar si hiciera falta).
+
 
 
