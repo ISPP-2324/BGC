@@ -245,6 +245,9 @@ Según lo recogido en el feedback, podemos destacar aspectos que hemos aprendido
 - Presentar informes detallados sobre el uso de la IA, destacando tanto los beneficios como los posibles desafíos o limitaciones.
 - Comenzar con la organización de un plan de pruebas tras ver su respectiva píldora.
 
+### Acciones de consolidación
+En cuanto a la demo, se destaca la necesidad de mejorar la visibilidad, utilizando herramientas como la lupa. Por ello, haremos uso de esta a partir de ahora en los casos que sea necesario. Por otro lado, se enfatiza la importancia de verificar la veracidad y viabilidad de los problemas resueltos presentados, incluyendo soluciones específicas, objetivos medibles y un seguimiento del progreso. Esto es algo de lo que teníamos una base pero quizás tengamos que profundizar más.
+
 
 ## Semana 9
 ### Temas que mejorar en las presentaciones:
@@ -269,3 +272,6 @@ Según lo recogido en el feedback, podemos destacar aspectos que hemos aprendido
 - Identificar correctamente los documentos y su orden por carpetas por sprints para facilitar las correcciones.
 - Asegurar una descripción clara en el entregable para evitar confusiones sobre lo que se debe entregar.
 - Mejorar la organización y completitud de la BGCC entre todos los grupos, asegurando que todas las secciones estén cubiertas.
+
+### Acciones de consolidación
+Respecto a las presentaciones, parece que la mayoría de grupos no entendió que se pedía crear un anuncio grabado basado en los storyboards, así que nos tendremos que poner manos a la obra. También se nos sugiere reubicar la planificación para mejorar su comprensión, y reducir el tiempo dedicado a la primera parte de la presentación para centrarnos en los aspectos relevantes de este sprint. Además, se enfatiza la importancia de establecer un plan de pruebas detallado para gestionar las pruebas de software de manera efectiva, algo en lo que aún tenemos que trabajar y mejorar.
