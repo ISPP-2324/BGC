@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://github.com/ispp-2324-ocial/KB/discussions/categories/lessons-improvements *Última actualización 20/02 19.00h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 09/04 18.45h*
 ****
 ## Semana 1
 
@@ -70,6 +70,60 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Costes de mantenimiento (lo puesto no es mantenimiento, lo puesto es coste de operación).
 - Tener en cuenta el orden de la presentación.
 - En el análisis de competidores indicar cual es la característica killer.
+
+## Semana 5
+
+- Diapositiva de problemas encontrados, no poner tanto tiempo.
+- Se ha seguido el orden dado por los profesores.
+- No se ha entregado una primera versión de la aplicación. Hay que unificar backend y frontend
+- Decir si hemos conseguido solucionar los problemas encontrados (en que estado están).
+- Se ha ido muy rapido en el planning.
+- Elevator tiene que tener un opener brutal, dejar en una frase de 10 sec el reclamo.
+- Prioridad al MVP, dejar el registro para el final.
+- En el TCO, poner una estimación a lo largo del año. Segmenar el beneficio en función del coste.
+- Hay precios que hay que ponerlos por mes (por ejemplo añadir la estimación del TCO en la gráfica).
+- Beneficio en base al coste de las operaciones de perfiles de los usuarios.
+- Todo lo que se habla en discord, pasarlo a por ejemplo comentarios en las issues.
+- Tener en github reflejo de los acuerdos tomados.
+- Poner el reloj del proyecto (el de clockify).
+
+
+## Semana 7
+
+- Hacer un StoryBoard tanto para cliente como para usuario.
+- Diapositiva 22, citar fuentes.
+- Demo realistas (tema fotos en los eventos).
+- Con el nuevo competidor, sacar un nuevo riesgo.
+- Muy bien el Opex y Capex.
+
+
+## Semana 8
+
+- Estimación de costes (36). Explicar porque curva avanza ligeramente en el coste.
+- Leyenda más grande en las gráficas.
+- Killer Opener mejorable. Hacer teatrillo.
+- Hacer una matriz con el rendimiento de todo el equipo.
+- Muy bien el resto de la presentación.
+- Un poco rápido en general.
+- Poner fórmula de calculo de la nota.
+
+## Semana 9
+
+- Mucha velocidad en la exposición, con muchos datos. Se pierde información de la exposición.
+- Se desaprovecha espacio en la pantalla de la presentación.
+- Más cosas referentes a la retrospectiva.
+- Poner indicadores de los problemas. Enfoque sistemático.
+- Que se vea la DEMO mejor. Funcionalidades Core en la DEMO.
+- Hablar más lento.
+- Conexión anuncio.
+- Mejorar visibilidad de proyección.
+- En las graficas no se ven las leyendas, el analisis de sonar tampono se ve bien (adaptarse al aula).
+- Decir quien está logeado (que aparezca en la app - Iconos).
+- Que la DEMO tenga una historia por detrás.
+- Orden, el calculo de rendimiento es este y esto es lo que se ha obtenido.
+- Se habla de plan de prueba pero no se dicen cuantas de cada una.
+- Resumir información refente al coste. 
+- Centrarnos unicamente en el problema que vaya peor.
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

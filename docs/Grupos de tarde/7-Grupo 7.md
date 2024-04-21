@@ -178,3 +178,208 @@ En este documento vamos a encontrar el feedback recibido por el grupo 7
 - Gestión de usuarios pilotos: Tener muy encuenta el feedback que dan las ONG. Tener toda la información para ellos definida, como accedre a la aplicación, donde esta el formulario... Evaluar que partes del feedback av a ser incorporada y justificar si algo no se mejora.
 - Report de uso de inteligencia artificial: Es muy importante.
 - Tener medidas de cohesión y acoplamiento, toda medida es revertible. No buscar machar con la medicion del rendimiento.
+
+## Semana 4
+
+### Feedback a nuestro equipo
+
+- Bluejay configuration
+- Poner los criterios de aceptación de los requisitos en el docusaurus y en la descripción de la issue hacer referencia al caso de uso ahí.
+- Vídeo de la demo.
+- Nombrar cómo se va a planificar en posteriores sprints.
+- Cuando queremos que nos den feedback.
+- Rendimiento del equipo. Separar el CA del rendimiento del equipo
+- Intentar ser convincente con el elevator pitch
+- Estrategia de ramificación no hay
+- Referenciar en las issues la BGC
+- TCO en lugar de seguimiento de costes
+- Formulario de iTop (TTR - Tiempo medio de respuesta). Tener en cuenta el tiempo máximo de respuesta.
+- TCO - Evolución del TCO (Por ej: 200€/mes cada 1000 usuarios, si se duplica el nº de usuarios, ¿qué pasa con los costes de operación?)
+- Nota a la que cada uno aspira (Aunque no lo usemos)
+- Versión 3.0 del CA
+- Responsable de cada tarea en un doc de responsables
+- Meter una recopilación del seguimiento del trabajo de doc y código desde el CA.
+- Ver el límite gratuito de actions en un repo público
+- **HACER LA DOCUMENTACIÓN EN DOCUSAURUS** - meter en el docusaurus que se haga una tabla de responsabilidades y una sección de CA. Después pasar el markdown a pdf introduciendo portada, e índice. Mirar el tema del changelog de docusaurus, migrar doc a project. Seguimiento de tareas, etc. [https://medium.com/@stheodorejohn/google-docs-integration-in-react-352a15c0b23e](https://medium.com/@stheodorejohn/google-docs-integration-in-react-352a15c0b23e "https://medium.com/@stheodorejohn/google-docs-integration-in-react-352a15c0b23e") **Para usar el seguimiento del trabajo desde el docusaurus**
+
+### Feedback general
+
+- MVP - Qué puede hacer a la ONG que se quede con este sistema y que les haga querer pagar el coste operacional.
+- Evolución del coste en función del número de usuarios
+- Cálculo de TCO según githubs
+- Estimación de horas de workflows
+- CA, indicar la gente que no desea sacar buena nota.
+- En el CA, anexo de responsables(Enlace a las issues de github) - Evitar 120 docs
+- Rendimiento -> Evolución respecto a la semana anterior
+- Elevator pitch currado
+- Doc de información sobre el dashboard de bluejay
+- Doc avanzado del despliegue (React+sprinboot)
+
+### Semana que viene
+
+- 15 min de duración
+- Asistencia obligatoria
+- Hoja de firmas
+- Timer controlado por ellos
+- Orden aleatorio
+- Minitest de las theory pills
+
+### Apartados de la PPTX
+
+- Grandes bloques:
+  - Introducción del negocio (Resumen del modelo de negocio) 20%
+    - Killer opener
+    - Elevator pitch
+    - Resumen del análisis de competidores
+    - Resumen del TCO (Separar CapEX - Horas de desarrollo, infraestructura propia que se va a amortizar en distintos proyectos, personal, licencias de software como producto, amortización de equipos y OpEX desde el punto de vista de **Harmony** - Coste de proveer el servicio a los clientes, licencias de software como servicio, hosting, cloud, mantenimiento, mejora, customer support, marketing. El coste suele ir al OpEx). Situación actual respecto al esperado
+    - Análisis de gastos e ingresos estimados (Estimación por tres valores) en años. Si vendemos nuestra app a otras ONGs, cuantos usuarios u ONGs deberían ser clientes para que tuviesemos beneficios.
+    - CA y estado de cumplimiento.
+  - Prototipo al final del Spint 15%
+  - Retrospectiva del Sprint 1 40%
+    - Rendimiento del equipo
+    - Des-Anonimizar al que más ha hecho y el que más ha evolucionado respecto a la semana anterior.
+    - Automatización de análisis de la calidad del código
+    - Problemas> Solución > Objetivo > Análisis de la solución
+    - Reloj del avance del proyecto (Semanal y global) Tiene que haber un enlace al clockify pero no en la Landing page.
+  - Gestión de usuarios pilotos
+    - Mostrar gráficamente la ventana de disponibilidad, ventana de feedback de usuarios, etc.
+
+## Semana 5
+
+### Aspectos importantes para la presentación
+
+- El elevator pitch debe ser conciso, idealmente alrededor de un minuto de duración.
+- Se recomienda seguir un orden coherente en la presentación.
+- Es esencial trabajar la entonación y el lenguaje para transmitir seguridad y profesionalismo.
+- Se debe evitar asignar el mismo número de usuarios para todos los planes de precios, ya que cada plan podría tener un número diferente.
+- Considerar la inclusión de una gráfica con estimaciones de gastos e ingresos para diferentes escenarios (pesimista, realista y optimista).
+- Sería beneficioso mencionar el estado de los riesgos, así como los planes de contingencia para abordarlos.
+- Se sugiere dejar espacio para demostrar las métricas de rendimiento y estadísticas relevantes.
+
+### TCO/Costes
+
+- Es importante diferenciar entre OpEx (Gastos Operativos) y CapEx (Gastos de Capital) correctamente, especialmente en lo que respecta a los sueldos de los desarrolladores.
+- Se debe tener en cuenta una estimación realista de los costos, considerando tanto los gastos fijos como los variables.
+- Incluir los costos asociados con el mantenimiento, operación y personal, así como los relacionados con herramientas y servicios utilizados en el desarrollo del proyecto.
+
+### Riesgos
+
+- Planificar planes de contingencia para abordar los riesgos identificados durante el proyecto.
+- Proporcionar una visión clara del estado actual de los riesgos y cómo se están gestionando.
+
+### Business Statement
+
+- Elaborar un discurso empresarial claro y conciso que presente el proyecto de manera profesional y segura.
+- Asegurarse de que los elementos visuales utilizados estén alineados con el mensaje y la identidad del proyecto.
+
+### Core use cases
+
+- Mejorar la visualización de los casos de uso principales del proyecto, posiblemente mediante el uso de mockups o ejemplos concretos.
+
+### SWOT
+
+- Revisar y mejorar el análisis SWOT, asegurándose de que los iconos utilizados sean representativos y claros.
+
+### Análisis de herramientas
+
+- Detallar las alternativas consideradas y explicar por qué se eligió una sobre las demás.
+- Proporcionar información sobre las herramientas seleccionadas y sus características clave.
+
+### Commitment agreement
+
+- Mantener el documento del compromiso actualizado y revisar su cumplimiento regularmente.
+- Incluir métricas para evaluar el cumplimiento del compromiso y proporcionar un historial de versiones para un seguimiento claro del progreso.
+
+## Semana 6
+
+- Tener en cuenta los que se han propuesto voluntarios para participar en frontend
+- Si todas las celdas de una tabla están con el mismo valor, mejor colores
+- Más adelante nos pedirán un changelog de las tareas
+- En el agreement incorporar una versión 4.0 en la que mencionamos que nos comprometemos a ajustarnos a las team practices. (No tener un solo revisor)
+- **Se puede reducir el alcance para mejorar la calidad**
+- Mejorar el bluejay (Hablar con Lolo)
+
+## Semana 7
+
+### Aspectos importantes para la presentación
+
+- Es crucial seguir la estructura proporcionada por los profesores para garantizar coherencia y claridad en la presentación.
+- Se debe prestar atención al tiempo asignado a cada sección para asegurar que se cumpla con el límite establecido.
+- Las gráficas por sprint son esenciales para mostrar el progreso del proyecto de manera visual y comprensible.
+- Es fundamental incluir las lecciones aprendidas de cara a la presentación final para demostrar el crecimiento y la mejora del equipo a lo largo del proyecto.
+
+### TCO/Costes
+
+- Se debe distinguir entre OpEx (Gastos Operativos) y CapEx (Gastos de Capital) correctamente para una gestión financiera precisa.
+- Es importante estimar los costos a largo plazo y considerar posibles fluctuaciones económicas, como la inflación.
+- Incluir una medición para el análisis posterior de la solución del problema garantiza una evaluación completa de la efectividad de las acciones tomadas.
+
+### Riesgos
+
+- Realizar un análisis detallado de la calidad de las soluciones a los problemas identificados para asegurar la efectividad de las medidas tomadas.
+- El feedback de los usuarios piloto es crucial para mejorar continuamente el proyecto y garantizar su adecuación a las necesidades del usuario final.
+- Es recomendable incluir un calendario que muestre cuándo se envió, recibió, analizó y utilizó el feedback de los usuarios piloto, así como un calendario para el siguiente sprint.
+
+### Business Statement
+
+- La presentación del business model debe incluir un elevator pitch claro y conciso, un análisis de los competidores que destaque las ventajas competitivas de la aplicación y una descripción detallada del acuerdo con el cliente.
+- Mejorar el storyboard en base al feedback recibido garantiza una presentación atractiva y efectiva del proceso de llegada a la solución.
+- La inclusión de aspectos legales del proyecto, como el Customer Agreement y cláusulas abusivas, es esencial para garantizar la transparencia y el cumplimiento normativo.
+
+### Core use cases
+
+- Mejorar la visualización de los casos de uso principales del proyecto para una comprensión clara y rápida de su funcionalidad.
+- Es fundamental demostrar cómo la solución propuesta aborda de manera efectiva los problemas identificados y mejora la experiencia del usuario.
+
+### SWOT
+
+- Revisar y mejorar el análisis SWOT para identificar claramente las fortalezas, debilidades, oportunidades y amenazas del proyecto.
+- Garantizar que los iconos utilizados en el análisis SWOT sean representativos y claros para una comprensión rápida y efectiva.
+
+### Analisis de herramientas
+
+- Detallar las herramientas utilizadas en el proyecto y explicar por qué se eligió una sobre las demás.
+- Proporcionar información sobre las características clave de las herramientas seleccionadas y cómo contribuyen al éxito del proyecto.
+
+### Commitment agreement
+
+- Mantener el documento de compromiso actualizado y revisar regularmente su cumplimiento para garantizar el éxito del proyecto.
+- Incluir métricas para evaluar el cumplimiento del compromiso y proporcionar un historial de versiones para un seguimiento claro del progreso del proyecto.
+
+Es importante mantener la estructura proporcionada y asegurarse de cubrir todos los aspectos relevantes durante la presentación.
+
+## Semana 8
+
+### Aspectos importantes para la presentación:
+
+- Descripción clara antes de la demostración Es esencial proporcionar una explicación precisa de lo que se mostrará durante la demo.
+
+- Usabilidad de la demo Se recomienda evitar un exceso de marketing al inicio y utilizar el zoom de manera moderada para no marear al espectador.
+
+- Feedback recibido y gestión del mismo\*\*: Se debe incluir una sección que detalle el feedback recibido y cómo se está gestionando, así como una lista priorizada por relevancia.
+
+- Inclusión de usuarios piloto y planificación Falta mostrar la parte de usuarios piloto en la presentación, así como la planificación del proyecto.
+
+- Storytelling en el storyboard Se sugiere que el storyboard cuente una historia coherente para mejorar la comprensión del producto.
+
+- Icono representativo del usuario en la demo Agregar un icono sobre el vídeo de la demo que simbolice al usuario que está utilizando el sistema puede mejorar la identificación.
+
+### TCO/Costes:
+
+- Diferenciación entre costes de mantenimiento y despliegue Es importante no confundir los costes de mantenimiento con los costes de despliegue durante la presentación.
+
+### Riesgos:
+
+- No cumplimiento de Commitment Agreements Se recomienda incluir cláusulas que indiquen las consecuencias en caso de no cumplir con los compromisos acordados.
+
+### Business Statement:
+
+- Impacto positivo/negativo de la IA: Se debe incluir en la presentación si la IA ha afectado positiva o negativamente al uso del producto.
+
+### Análisis de herramientas:
+
+- Uso de colores distinguibles en gráficas: Es importante utilizar colores que sean fáciles de distinguir en las gráficas, especialmente para que sean visibles desde el fondo de la clase.
+
+### Compromiso de acuerdo:
+
+- Inclusión de cláusulas en Commitment Agreement: Se sugiere incluir cláusulas que especifiquen las acciones a tomar en caso de incumplimiento de los compromisos acordados.

@@ -107,3 +107,107 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - No tenemos que demostrar que hemos hecho las cosas mal, hay que mirar las soluciones.
 - No hacer referencias a otras presentaciones que hemos hecho.
 - Ha faltado: elevator speech, mvp, casos de uso y explicar de donde viene las formulas.
+
+## Semana 5
+
+### Aplicación
+
+- Para el tamaño del parking poner algún tipo de medida. Por ejemplo algún coche como medida.
+
+### Costes
+
+- Ir actualizando los costes con las horas que llevamos.
+- Calcular los beneficios y gastos optimistas, pesimistas y esperados.
+- No juntar TCO y Mantenimiento.
+
+### Presentación
+
+- Presentar la situcación altual de los costes, cuanto llevamos gastado.
+- Dejar muy claro en la presentación el rendimiento del equipo y el estado del comitmment agreement. Deben estar separados.
+- Presentar el objetivo de los 3 sprint.
+- Presentar tablas más claras que indique que es cada columna/fila.
+
+### Riesgos
+
+- Muy buena manera de presentar los riesgos.
+
+### Herramientas
+
+- Descargarse el pluging de Clockify, muy util para contavilizar el tiemo en el github.
+
+## Semana 7
+
+### Presentación
+
+- Importante mostra el customer agreement.
+- La situcacióm actual frente al total debe ir con los costes.
+- Hay que poner un video en la demo, se está vendienfo humo.
+
+### Costes/Beneficios
+
+- Indicar en la presentacion el número de clientes estimado y de donde han salio.
+
+### Burn down
+
+- El burn down se debe hacer por sprint, no por semana.
+- Debe representar el estado en que se encuentra el sprint en el momento de la presentación.
+
+### Project management
+
+- Se han hecho previsiones poco realistas de acuerdo con el ritmo que llevamos.
+
+## Semana 8
+
+### Presentación
+
+### Presentación
+
+- Relacionar el inicio efectivo con la demo.
+- Mucho tiempo dedicado a la parte inicial. Se tiene que dedicar el mayor tiempo a la parte técnica y planificación del proyecto que a vender el producto.
+- Explicar en la presentación como se va a gestionar el feedback de los usuarios pilotos.
+
+### Demo
+
+- Usar una lupa en la demo para hacer zoom en las partes claves.
+
+### Documentación
+
+- Poner las _condiciones de fallo_ en la parte del Sprint 2, no en Planificación del proyecto.
+
+### Desarrollo
+
+- Se valora positivamente implementar un social login (google, facebook, ...)
+
+### Demo
+
+- Usar una lupa en la demo para hacer zoom en las partes claves.
+
+### Documentación
+
+- Poner las _condiciones de fallo_ en la parte del Sprint 2, no en Planificacion del proyecto.
+
+### Desarrollo
+
+- Se valora positivamente implementar un social loging (google, facebook, ...)
+
+## Semana 9
+
+### Demo
+
+- Enlazar la demo con el anuncio, usar simbolos para indicar que tipo de usuario usa la funcionalidad.
+- Hacer la demo con la aplicación en claro (blanco).
+- Eliminar las partes que no forman parte del core de la aplicacion, como el login.
+
+### Presentación
+
+- La parte del planning de la siguiente semana va después de la demo.
+- Poner menos datos en las diapositivas porque no da tiempo a digerir la información.
+- Ajustar el tamaño de las diapositivas a la pantalla donde se proyecta.
+- Cuidar la presentación y unificar los estilos. Hay que ser profesionales y consistentes.
+- La parte del costumer agreement se puede reducir a una diapositiva.
+- Elaborar un elevator pitch que hable sobre nuestra funcionalidad de forma resumida.
+
+### Presentadores
+
+- Vocalizar más en el inicio.
+- Explicar mejor de que va nuestra aplicación para que sea clara para los oyentes.

@@ -76,3 +76,50 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Diferenciar entre CapEx y OpEx.
 
 + Identificar roles de una forma más concreta.
+
+## Semana 5
+
++ Buena presentación.
+
++ No se ha seguido el orden que se mencionó en el discussion guide.
+
++ No ha quedado el análisis de los costes. Los salarios de los desarrolladores no es
++ OpEx. CapEx es gastos en capital y OpEx gastos en operación. Los sueldos es el
++ capital humano de la empresa. Habría que hablar de subcontratación en nuestro caso y no hablar de la organización. Nosotros no subcontratamos a nadie, el equipo de proyecto pertenece a la organización. Los gastos de capital de la propia empresa es CapEx. Si subcontratamos, estamos contratando un servicio, eso sería OpEx. El trabajador de la empresa puede trabajar en cualquier parte de la empresa, es un gasto de esta. En la actualidad, casi todos los gastos empiezan a ser de operación (OpEx), pues se subcontratan muchos servicios.
+
++ Poner gráfica de los costes, comparando la predicción pesimista, optimista y objetiva.
+
++ El estado de los riesgos no ha quedado claro, tampoco cómo se van a tratar los mismos.
+
++ Identificar conceptos y separarlos en las diapositivas. De esta forma, en una diapositiva, un concepto, y en otra, otro.
+
++ El elevator pitch ha sido muy largo.
+
++ Trabajar mejor el análisis de coste y hacer una predicción realista del número de suscriptores por plan. No poner el mismo número de suscriptores en todos los planes.
+
++ Contabilizar el número de issues comentadas. Tenemos que comunicarnos a través de GitHub. Hacer comentarios en las issues para aclarar las tareas y las soluciones que se quieran desarrollar.
+
++ Usar convenciones semánticas para saber si las tareas son sobre documentación, código, etc.
+
+## Semana 7
++ Evaluar opción de reportar para combatir contra el plagio de diseños. Analizar consecuencias legales de problemas de copyright.
++ No utilizar el storyboard como killer opener. Deben coexistir las dos cosas, no pisarse entre ambas.
++ Ya que tenemos un storyboard que presenta una historia, se puede realizar un hilo conductor a lo largo de la presentación.
++ Analizar el hecho de que un diseño se difunda por un comprador, de forma que sea inútil comprar el diseño nuevamente. Debemos evitar esta casuística y fomentar la compraventa en la aplicación.
++ Seguir el orden definido en el discussion guide.
++ Dar libertad a los usuarios pilotos, en algunos casos, para que se enfrenten ellos, sin guía alguna, a la funcionalidad. Esto lo podemos hacer con ciertas funcionalidades, de forma que obtengamos un feedback más realista por parte de ellos.
+
+## Semana 8
++ Mostrar la próxima semana el feedback más importante y una priorización de dichas tareas.
++ Mostrar los iconos constantemente en la demo para saber concretamente quién usa la aplicación.
++ Se podría enlazar el killer opener con lo que se muestra luego en la demo.
++ Monitorizar consumo de créditos del despliegue.
+
+## Semana 9
++ Se podría implementar una IA que detecte palabras de spam.
++ En la tabla de análisis de coste, buscar alguna forma para diferenciar claramente los costes durante el desarrollo y durante la operación.
++ Buscar desarrollar una historia a la hora de mostrar la demo.
++ Uniformidad en las gráficas que se usan en la presentación.
++ Reescalar la presentación al tamaño de la pantalla.
++ Hilar el killer opener con el anuncio y con la demo. Debe ser todo muy claro.
++ Evaluar alternativas para que el audio se escuche correctamente.

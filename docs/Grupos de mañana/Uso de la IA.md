@@ -11,3 +11,12 @@ En este documento vamos a encontrar feedback respecto al uso de la IA a lo largo
 ## Semana 3 
 + Quieren ver mas el uso de la IA que le estamos dando.
 
+## Semana 5
++ Si se usan IAs nuevas, distintas de las convencionales, quiere que se le mencionen el uso para poder tomarlas como referencias para otros grupos.
+
+## Semana 6
++ En la medida de lo posible, en el documento de gestión de la IA, proveer enlaces al prompt y la respuesta proporcionada.
+
+## Semana 7
++ Mostrar las lecciones aprendidas con la IA o algo interesante relacionado con estas.
++ Importancia en las alucinaciones (Cuantos prompt se hacen hasta obtener la respuesta que buscamos).

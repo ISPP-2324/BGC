@@ -30,3 +30,9 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 + No suspirar a lo largo de la presentación, da sensación de agotamiento de lo que se está contando.
 + Siempre cuidar y tener claro el hilo de la presentación. Debe de haber coherencia entre los puntos y no dejar conceptos sueltos.
 
+## Semana 5
++ Estar pendiente del tiempo para que no le sobre tiempo al final y pueda centrarse en lo importante.
+
+## Semana 9
++ Al presentar más relajado el presentador, todo queda mucho mas claro.
+

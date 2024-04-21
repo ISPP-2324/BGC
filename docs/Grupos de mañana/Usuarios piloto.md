@@ -25,4 +25,12 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 + No usar usuarios piloto ficticios, como famosos o personajes ilustres, otorga falta de seriedad.
 + No registrar como riesgo falta de usuarios piloto, representa inseguridad.
 
+## Semana 5
++ Hay que explicar cómo se va a tomar el feedback de los usuarios pilotos, quieren ver que se les hace caso de verdad.
 
+## Semana 7
++ Mostrar que se esté de acuerdo con el customer agreement realizado.
+
+## Semana 8
++ Es obligatorio como grupo ser usuario piloto de otro grupo a partir del sprint 3.
++ Hay que dar tiempo de sobra a los usuarios piloto para que puedan probar la aplicación.

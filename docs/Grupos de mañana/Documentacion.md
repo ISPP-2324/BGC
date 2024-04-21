@@ -20,4 +20,13 @@ En este documento vamos a encontrar feedback respecto a la documentación de des
 ## Semana 4
 + Reflejar en el Commitment Agreement cuando personas tiene penalizaciones o “ya no van a por el 10”.
 
+## Semana 5
++ Se ha pedido pasar toda la documentación a git. A partir de ahora en los entregables no se van a entregar documentos físicos, se va a entregar una URL.
++ Se debe crear una carpeta "docs" donde está todos los documentos, tanto actas como documentos de las entregas.
++ Los profesores recomiendan desarrollar un docusaurus y desplegarlo, para dar ese enlace en la entrega.
++ Se ha sugerido pasarle a ChatGPT los documentos para que los pase automáticamente a formato markdown.
+
+## Semana 7
++ Reflejar en el Commitment Agreement las formulas usadas para la evaluación de miembros del equipo.
+
 

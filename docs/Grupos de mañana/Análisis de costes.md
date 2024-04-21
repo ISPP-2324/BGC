@@ -26,3 +26,13 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + Para el TCO es pertinente definir un marco de tiempo (time frame) y una capacidad de demanda nominal para comprender mejor cómo se comportará el sistema en diferentes condiciones de uso, en resumen, cómo escalará. No solo se trata de cuántos usuarios pueden usarlo al mismo tiempo, sino también de cuándo y con qué nivel de demanda.
 + Hablar de porcentajes del número de usuarios que tienen que usar nuestra aplicación (TCO) con respecto al número de usuarios potenciales.
 + El número de usuarios que necesitamos para mantener la aplicación debe tener porcentajes con respecto al número de personas en el sector en Sevilla por ejemplo.
+
+## Semana 5
++ Para la semana del 19/03/2024 se ha pedido un resumen del TCO (añadiendo el actions), indicar la situación actual respecto actual y añadir las estimaciones realistas, pesimistas y optimistas.
++ Para las estimaciones se ha pedido un porcentaje sobre el total de usuarios, e indicar de dónde salen los numeros estimados y totales.
++ También se ha pedido que cuando insertemos gráficas, no pueden ser lineales, puesto que no siempre vamos a tener la misma cantidad de usuarios.
+
+## Semana 7
++ Hacer costes vs beneficios a 24 meses vista. (TCO a dos años).
++ Para la semana del 02/04 se pide un resumen del TCO con Capex/Opex.
+

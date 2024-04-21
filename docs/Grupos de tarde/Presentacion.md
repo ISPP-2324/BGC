@@ -50,3 +50,34 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 - Mostar el MVP, su utilidad es ver aquello que en general le da valor al negocio y va a hacer que el producto tenga éxito.
 - Hablar del costumer agreement.
 - Mostrar enlace a clockify
+
+## Semana 5
+
+- TODO tiene que estar contenido en la presentación, el trabajo puede que lo corrija alguien que no ha visto la presentación.
+- No hacer cambios de la presentación entregada.
+
+## Semana 7
+
+- No usar el storyboard como killer opener
+- Como tenemos el storyboard que cuenta una historia, seguir ese hilo argumental a lo largo de toda la exposición y hacer referencia a dicho storyboard.
+- Usar zoom para mostra los detalles de la aplicación en la demo.
+- Presentar aspectos legales.
+- Antes de poner la demo explicar que se va a ver así se puede quitar la voz en off.
+
+## Semana 8
+
+- No usar colores con tonos similares para exponer distintas cosas en una misma gráfica/tabla.
+
+## Semana 9
+
+- Hay que redimensionar las presentaciones para que se adapten al proyector.
+
+- Hay que mantener la uniformidad en los elementos de las presentaciones como las gráficas.
+
+- Mantener la misma tipografía y paleta de colores en todas las diapositivas.
+
+- Conectar la demo con el anuncio y el inicio ejectivo.
+
+- No añadir información excesiva en las presentaciones, que permita a los oyentes digerir la información.
+
+- Para la información extra añadirlas a diapositivas finales después de todo por si preguntan por esa información.

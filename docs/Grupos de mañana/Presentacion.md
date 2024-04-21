@@ -61,3 +61,50 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Se busca una mejora de la síntesis cada semana, no se deben eliminar conceptos de una a otra.
 + Mantener siempre una diapositiva con la Landing Page con QR aunque sea en la última diapositiva.
 + Siempre incluir los estados de la comunicación en la gestión de usuarios pilotos.
+
+## Semana 5
++ Para la semana del 12/03/2024 se tiene que presentar (15 minutos) una retrospectiva genérica que incluya el tiempo invertido, tareas hechas, rendimiento del equipo, problemas, commitment agreement, etc...
++ También se debe hablar del procedimiento de evaluación de los miembros del grupo.
++ Para la semana del 19/03 tiene que tener una estrutura similar a la semana 4: killer opener, elevator, modelo de negocio, resumen de analisis de competidores, empezar a pensar en un story board (anuncio orientado a alguno de nuestros clientes), impacto legal del proyecto (licencia y otros aspectos legales), customer agreement.
++ Resumen analisis TCO (añadir actions), situación actual respecto al total, estimaciones realistas, optimistas, DEMO de la mitad del sprint2 (comparar demo sprint1 con la del 2), datos realistas (en la demo), retrospectiva de la mitad del sprint2.
++ ALM (todo lo que está en la píldora), hablar de como ha evolucionado la calidad del código.
++ Gestión de riesgos que se han convertido en problemas y problemas que no vengan de riesgos. Como vamos a reaccionar y como hemos reaccionado.
++ Reloj de avance del proyecto. (semanal y global)
++ Gestión de usuarios pilotos (como estamos gestionando ese feedback)
++ Planificación, reestimación del sprint2 y sprint3. Meter algo de pago para el sprint2.
++ Report de IAs, y qr de la landing al final de la presentación.
+
+## Semana 6
++ Los diagramas UML no deben llamarse de esa forma, un nombre mas correcto sería "Diagrama de diseño" o "Análisis de clases"
++ En los análisis de calidad, las líneas no deben ser rectas, debe existir altibajos dado que lo fin de semana no se trabaja.
++ La presentación debe de empezar a trabajarse desde el primer día. Es metodología agil.
++ Los miembros que no contribuyen al proyecto debe de referirse a ellos como "miembros con falta de proactividad", y esto debe estar incluido en la métrica de rendimiento.
+
+
+## Semana 7
++ En la demo se deben poner tanto datos como imagenes reales
++ Ver como otras empresas enfocan el elevator pitch para aplicarlo en el nuestro.
++ Hacer zoom en la demo para que se aprecie mejor.
++ Resaltar información y cosas que aporten valor, no lo estético.
++ Resaltar en el storyboard lo que nos diferencia de los competidores.
++ Citar las fuentes usadas.
++ Mostrar el impacto legal del proyecto (GDPR, licencias, aspectos legales, customer agreement).
++ Realizar Storyboard para un rol distinto.
++  El report de IA debe situarse en la penúltima diapositiva, siendo la ultima la diapositiva con la URL de la Landing Page.
++ La presentación de la demo debe ser coherente con lo que se represente en los Storyboards.
++ Hay que realizar zoom en las demos en los momentos donde veamos que se ve pequeño.
+
+
+
+# Semana 8
++ En la presentación hay que mostrar el incremento de la aplicación en la demo
++ Puede ser buena idea el jugar a hacer cosas curiosas con la demo, como el ejemplo del muñeco que hablaba expuesto por los profesores.
++ Realizar una matriz gráfica 2D de rendimiento del esfuerzo en horas y rendimiento. Siendo una columna rendimiento y la otra horas.
++ A partir de esta semana se debe de tener un anuncio en la presentación
+
+
+# Semana 9
++ Pequeños detalles creativos y graciosos en la presentación pueden quedar muy bien y hacer más amena la misma. Además permite tener a todos los espectadores más atentos.
++ Antes de presentar la demo, se debe indicar que parte de la aplicación vamos a tratar.
++ Si los números en las diapositivas son demasiado largos, escalarlos con el método Monopoly (usar K para cifras de 1000 o más, y M para cifras de 1 millón o más)
++ Las diapositivas de los powerpoint si evitamos usar efectos de movimiento al pasarlas mejor: esos efectos pueden causar mareos.
