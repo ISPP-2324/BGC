@@ -115,3 +115,13 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Tener la demo en local y ordenador de repuesto.
 -   Presentación: Falta diapositiva de las horas de cada persona.
 -   Mencionar como solucionar los problemas con los usuarios pilotos
+
+## Semana 9
+
+-   Resolucion de los problemas: ¿Cómo medimos la efectividad de una solución a un problema? Dar mas informacion de las que no estan en verde
+-   Falta información de los usuarios pilotos: Poner el feedback recibido. Hablar de qué se va a abordar y qué no.
+-   Cómo prepararnos para el PPL: Hacer que la ong promocione nuestra pagina en sus redes.
+-   Segundo anuncio: usar otro rol como la gente que necesita la herramienta.
+-   No hace falta la matriz RACI.
+-   Más preparación para la demo: Establecer primero unos problemas, y partir de eso, se enseñan los usos.
+-   Hablar de tipos de test que vamos a hacer.
