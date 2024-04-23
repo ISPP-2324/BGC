@@ -31,3 +31,6 @@ En este documento vamos a encontrar feedback respecto a los posibles riesgos de 
 
 ## Semana 8
 + Hay que analizar e indicar si las incidencias afectan a la planificación.
+
+##
++ Problema-Solución. ¿Cómo se mide? ¿Estamos llegando al objetivo?, debemos tener en cuenta esas preguntas a la hora de desarrollarlo.

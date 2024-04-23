@@ -88,3 +88,37 @@ Definir quién paga.
 + Cómo vamos a abordar la issues mas grandes?intentar incluir milestones(ya lo tenemos)
 + Incluir caras en el perfil de github
 + A la hora de incluir la huella de carbono,pensar en el tamaño de la conversación también
+
+
+## Semana 8
++ Colores muy similares en la gráfica de costes(se sugirió aumentar el grosor y distinguirlos un poco más)
++ Mejorar la interfaz de usuario de la aplicación
++ Incrementos sobre la versión previa(changelog debería ponerse antes de la demo)
++ Aumentar tamaño letra en algunas diapositivas (Real Status(pag47), etc..)
++ Buena evaluación de la IA
++ Intentar usar más copilot
++ Killer opener debería impactar, empezar con algo de más de chispa
++ Hablar solamente capex y opex en la parte de TCO
++ Hacer descripción al principio de la demo de lo que se va a enseñar
++ Poner un icono de la persona que está logueada en la demo,para saber quien la está usando
++ Hacer zoom en momentos puntuales,puede marear a la audiencia y podría ocultar zonas relevantes
++ No incluir diapositivas si no se  habla de ellas
++ Que pasa cuando no se cumple el acuerdo con los usuarios piloto.
+
+## Semana 9
++ Gastos de formación pertenece a capex,pero hay costes repercutidos para opex
++ Aumentar tamaño de letra para leyenda (gráfica de costes)
++ Opex no debería ser el mismo en los tres casos,ya que hay que tener en cuenta más infraestructura para mantener ese número de usuarios(va variando) (parte de coste pesimista / optimista / real)
++ Mejorar los términos del testing procedure(model test son test de integración con base de datos),recomendación:meter pruebas de rendimiento con gatling,ver cuántos créditos se pueden consumir si atacan por ejemplo 5 personas
++ La creación de platos no debería crearse directamente desde el perfil de usuario
++ Concatenar el inicio efectivo con la historia de la DEMO
++ Poner foto en la demo de quien es el usuario que está usando la aplicación
++ Mejorar el ranking de gestión de feedback de usuarios (se pasó en la presentación comentar lo puesto en el guión)
++ En la gráfica de rendimiento vs esfuerzo,rendimiento no debería ser puntos de historia
+ltx studio→para convertir storyboards en anuncios
++ Reportar si los tests están siendo útiles,cuántos bugs se han detectado con estos
++ Incluir objetivos que se pretenden alcanzar con las mediciones de los riesgos
++ Apuntar en los costes, la api de correo.
++ Traer altavoz para la próxima 
+
+
