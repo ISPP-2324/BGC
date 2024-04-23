@@ -27,10 +27,16 @@ En este documento vamos a encontrar feedback respecto a los posibles riesgos de 
 ## Semana 7
 + Es necesario tener planes de contingencia por si algun miembro tuviera algún problema (En especial si se trata de un presentador que no pueda presentar).
 
-
-
 ## Semana 8
 + Hay que analizar e indicar si las incidencias afectan a la planificación.
 
-##
+## Semana 9
 + Problema-Solución. ¿Cómo se mide? ¿Estamos llegando al objetivo?, debemos tener en cuenta esas preguntas a la hora de desarrollarlo.
+
+## Semana 10
++ Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
++ Incluir cómo se van a medir y qué horizontes se van a poner a las métricas para resolver los problemas.
++ Especificar los bugs que se han detectado y de qué manera se han solucionado.
++ Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica - Estado 
++ Se debería de prever con anterioridad a padecer el problema el pasarse de las horas estipuladas en la asignatura. Si ya ha pasado no se ha tratado de manera correcta.
++ Si no se pueden realizar los test de carga sobre el AppEngine es conveniente buscar alternativas, aunque sea probarlo el local y extrapolar al despliegue real.
