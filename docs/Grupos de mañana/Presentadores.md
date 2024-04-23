@@ -36,3 +36,8 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 ## Semana 9
 + Al presentar más relajado el presentador, todo queda mucho mas claro.
 
+## Semana 10
++ Si como presentador tenemos problemas de hablar rápido es buena práctica realizar ejercicios de vocalización previos a la presentación.
++ Se debe cuidar el uso de conectores durante la presentación sobre todo si no tiene sentido coherente entre ambas frases.
+
+
