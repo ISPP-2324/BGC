@@ -108,3 +108,10 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + Antes de presentar la demo, se debe indicar que parte de la aplicación vamos a tratar.
 + Si los números en las diapositivas son demasiado largos, escalarlos con el método Monopoly (usar K para cifras de 1000 o más, y M para cifras de 1 millón o más)
 + Las diapositivas de los powerpoint si evitamos usar efectos de movimiento al pasarlas mejor: esos efectos pueden causar mareos.
+
+# Semana 10
++ La DEMO debería tener algo parecido a una historia, no debe verse como una lista de funcionalidades. Es buen práctica que el anuncio se vea reflejado en la DEMO.
++ Las presentaciones deben servir de apoyo a la audiencia, no deben parecer apuntes para el orador. Se deben buscar más iconografías e imágenes.
++ No confundir los términos "beneficios" e "ingresos", sobre todo al reflejarlos en la presentación.
++ No usar canciones demasiado conocidas para los anuncios. Plantearse usar herramientas de IA con el nombre de nuestra aplicación para estos.
++ En los anuncios evitar anuncios de dinámica “¿Conoces la app ...?” Es mejor llegar de una manera más orgánica, en la que uno presente las necesidades que puede satisfacer la aplicación y entonces se le ocurra usar la nuestra.
