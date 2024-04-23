@@ -34,3 +34,8 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 ## Semana 8
 + Es obligatorio como grupo ser usuario piloto de otro grupo a partir del sprint 3.
 + Hay que dar tiempo de sobra a los usuarios piloto para que puedan probar la aplicación.
+
+## Semana 10
++ Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
++ Al recoger el feedback de los usuarios piloto sobre los precios, nos da más información preguntar primero cuánto estaría dispuesto a pagar antes de mostrarle cuánto cuesta.
+
