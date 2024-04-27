@@ -486,3 +486,58 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - planificacion PPL
 - uso de IA
 - diapositiva Final. 
+
+
+
+## Feedback Semana 10 - 23 de abril
+
+### Pensamientos del grupo
+
+- Buen Killer Opener.
+
+### Feedback de los compañeros
+
+**Positivo**
+- Nuestro Anuncio ha sido claro y corto
+- Bien implementada la gamificación
+- La presentación perfecta
+- Issues (se ha hecho muy bien el tema de darles prioridad a las issues)
+- Plantillas (las plantillas están muy bien, bastante completas)
+- Está muy bien el caso de uso de la demo.
+
+**Recomendaciones**
+ - Poner en la Demo algo para que ayude a seguir el hilo. 
+
+### Feedback de los profesores
+
+#### Riesgos y resolución de conflictos
+- Tener métricas y umbrales para medir si solucionamos los problemas y tener fechas.  ES IMPORTANTE. IMPLICA SUSPENSO. 
+
+#### Sobre la presentación
+- Presentación clara y con buena dinámica.
+- Visualmente clara
+- Buena dinamica a la hora de presentar
+- **Recomendación**: Hacer **ejercicios de vocalización** antes de presentar.
+Charla de Treasure “Cómo hablar para que la gente te quiera escuchar”. Ayuda para mejorar la vocalización https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
+- Faltó perico.
+
+#### Costes
+- **ingreso y beneficio no es lo mismo**. Ingreso es el dinero que se ingresa y beneficio cuando el dinero supera a los costes.
+- Indicar el salario bruto por hora.
+
+#### Problema de la clausula abusiva
+- Reestructurar esa cláusula poniendo el caso de clicar sobre él y si no lo clicamos. 
+
+### Lecciones aprendidas del feedback a otros grupos:
+- Buenisima idea mostrar en la demo el feedback recibido por la responsable de manos abiertas con norte. Aporta valor a la aplicación y muestra que estan en contacto con el cliente. (NextONG)
+- Interesante abordamiento el marketing mix de 1 producto 2 precio 3 distribución 4 comunicación (Musclemate)
+- La tabla de problemas está muy bien porque incluye el cómo lo miden, cosa que aún no ha hecho ningún grupo que ha presentado hasta ahora. (Musclemate)
+- El anuncio está muy bien, sobretodo porque han tenido el feedback en cuenta de los profesores y han hecho referencia a nosotros (Musclemate)
+![image](https://github.com/ciaolavoro/ciao-lavoro/assets/72520174/bcfccd04-8c57-4d35-bcb7-ec1a7886d686)
+- Diapositivas muy limpias y fáciles de entender (OCIAL)
+- No repasar la GPDR completa, solo indicar las acciones concretas que hayan tomado (ITalent)
+- En los riesgos ha faltado acciones, umbrales y formas de medida para los problemas que se encuentran. (ITalent)
+- Poner un término sancionador si el otro equipo no cumple el CA y no hace de usuario piloto. (ITalent)
+- No subir a youtube los anuncios o demos, puede dar muchos problemas. (Cohabify)
+- Mucho texto en las presentaciones. Recortar. La presentación es un apoyo visual a lo que se presenta. No son notas para prácticamente leer.  (Cohabify)
+- Tener métricas y umbrales para medir si solucionamos los problemas y tener fechas.  ES IMPORTANTE. IMPLICA SUSPENSO. 
