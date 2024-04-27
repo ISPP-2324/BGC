@@ -147,5 +147,17 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + Muller mencionó que es buena practica realizar pruebas de carga que muestren cuantás peticiones son necesarias para agotar los créditos de Google.
 + A Muller le gustó: Segmentación de mercado de cara al proyect launch (píldora teórica).
 
-
+## Semana 10
++ Evitar hablar de cosas como el GDPR que son generales e iguales para todos y entrar en conceptos de grupo.
++ Justificar mejor por qué se darían datos optimistas o pesimistas.
++ La DEMO debería tener algo parecido a una historia, no debe verse como una lista de funcionalidades. Es buen práctica que el anuncio se vea reflejado en la DEMO.
++ Quitar decimales de los años de experiencia (son pequeños detalles pero no pueden llegar a la presentación siendo 15 miembros de equipo).
++ Incluir cómo se van a medir y qué horizontes se van a poner a las métricas para resolver los problemas.
++ Un fondo oscuro es poco práctico, debe como mínimo existir la opción de poner un modo claro. Es difícil leer cosas como la leyenda de los gráficos.
++ Dejar claro que la búsqueda de nuevos usuarios pilotos sigue activa.
++ Al ser una herramienta que se usaría de forma puntual y de manera no extendida no tiene sentido el fondo oscuro.
++ Especificar los bugs que se han detectado y de qué manera se han solucionado.
++ Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
++ Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
++ Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica – Estado 
 

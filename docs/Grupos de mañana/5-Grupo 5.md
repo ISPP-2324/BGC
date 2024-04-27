@@ -115,3 +115,23 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Tener la demo en local y ordenador de repuesto.
 -   Presentación: Falta diapositiva de las horas de cada persona.
 -   Mencionar como solucionar los problemas con los usuarios pilotos
+
+## Semana 9
+
+-   Resolucion de los problemas: ¿Cómo medimos la efectividad de una solución a un problema? Dar mas informacion de las que no estan en verde
+-   Falta información de los usuarios pilotos: Poner el feedback recibido. Hablar de qué se va a abordar y qué no.
+-   Cómo prepararnos para el PPL: Hacer que la ong promocione nuestra pagina en sus redes.
+-   Segundo anuncio: usar otro rol como la gente que necesita la herramienta.
+-   No hace falta la matriz RACI.
+-   Más preparación para la demo: Establecer primero unos problemas, y partir de eso, se enseñan los usos.
+-   Hablar de tipos de test que vamos a hacer.
+
+## Semana 10
+
+-   Considerar recortar el alcance para evitar consumir las horas de contingencia. En su alternativa reconocer las horas extra como voluntariado.
+-   Probar el despliegue del grupo 11 durante el PPL.
+-   Introducir la aplicación en el segundo anuncio de alguna manera.
+-   Hacer fotos más formales.
+-   Crear mapa de calor en el rendimiento individual para ver el progreso durante los sprints.
+-   Explicar con mayor transparencia la función usada para las notas individuales.
+-   Sobre los riesgos: crear métricas, umbrales y plazos sobre las acciones a tomar en respuesta a problemas o mejoras a hacer. Es decir, formalizar las acciones concretas a tomar (escribir correo, hablar con alguien), crear una medida que permita observar si funciona y un umbral objectivo que represente cuándo pretendemos tener soluciones.

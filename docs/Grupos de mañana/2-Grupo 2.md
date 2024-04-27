@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 09/04 18.45h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 24/04 13.00h*
 ****
 ## Semana 1
 
@@ -124,6 +124,19 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Se habla de plan de prueba pero no se dicen cuantas de cada una.
 - Resumir información refente al coste. 
 - Centrarnos unicamente en el problema que vaya peor.
+
+## Semana 10
+
+- Hay que tener ya muchos eventos para que se pueda poner los anuncios con QRs.
+- Mejorar el anuncio. No decir del tirón ocial, sino, decirle, has pensado...
+- Perfecto usuarios pilotos
+- Buena DEMO.
+- Buen seguimiento de los problemas.
+- Realizar mas testing.
+- Comprobar las diferencias con eventbrite.
+- Justificar si el mapa es un valor diferencial.
+- A los usuarios pilotos preguntar entorno al precio de las suscripciones.
+- Dejar claro, que ocial esta enfocado a una aplicación móvil, con tu ubicación actual.
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

@@ -36,3 +36,8 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + Hacer costes vs beneficios a 24 meses vista. (TCO a dos años).
 + Para la semana del 02/04 se pide un resumen del TCO con Capex/Opex.
 
+## Semana 10
++ Justificar siempre por qué se darían datos optimistas o pesimistas.
++ Los números realistas deben ser lo suficientemente optimistas como para que sea rentable como para que un equipo pueda mantenerla. Luego estos números se podrán justificar en la campaña de lanzamiento durante los próximos sprints.
+
+

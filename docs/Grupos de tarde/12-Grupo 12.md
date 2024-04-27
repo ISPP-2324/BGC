@@ -114,3 +114,20 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Mostrar los iconos constantemente en la demo para saber concretamente quién usa la aplicación.
 + Se podría enlazar el killer opener con lo que se muestra luego en la demo.
 + Monitorizar consumo de créditos del despliegue.
+
+## Semana 9
++ Se podría implementar una IA que detecte palabras de spam.
++ En la tabla de análisis de coste, buscar alguna forma para diferenciar claramente los costes durante el desarrollo y durante la operación.
++ Buscar desarrollar una historia a la hora de mostrar la demo.
++ Uniformidad en las gráficas que se usan en la presentación.
++ Reescalar la presentación al tamaño de la pantalla.
++ Hilar el killer opener con el anuncio y con la demo. Debe ser todo muy claro.
++ Evaluar alternativas para que el audio se escuche correctamente.
+
+## Semana 10
++ En la demo se ha intentado unir con el inicio, pero no ha resultado efectivo. Se podría haber hilado mejor con la historia del anuncio.
++ Se podría haber profundizado más en el marketing que se va a realizar.
++ Mejorar el audio de cara a próximas presentaciones.
++ El killer opener ha sido mejor que los anteriores, pero se puede seguir mejorando.
++ Los usuarios impresores son los fundamentales para hacer que funcione la aplicación. El marketing debe estar enfocado en una primera instancia a los impresores.
++ Para las pruebas de interfaz, incluir el id en los elementos que se van a probar luego. Así no se van a producir fallos en los tests al modificar la interfaz.    

@@ -189,3 +189,25 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 ### Desarrollo
 
 - Se valora positivamente implementar un social loging (google, facebook, ...)
+
+## Semana 9
+
+### Demo
+
+- Enlazar la demo con el anuncio, usar simbolos para indicar que tipo de usuario usa la funcionalidad.
+- Hacer la demo con la aplicación en claro (blanco).
+- Eliminar las partes que no forman parte del core de la aplicacion, como el login.
+
+### Presentación
+
+- La parte del planning de la siguiente semana va después de la demo.
+- Poner menos datos en las diapositivas porque no da tiempo a digerir la información.
+- Ajustar el tamaño de las diapositivas a la pantalla donde se proyecta.
+- Cuidar la presentación y unificar los estilos. Hay que ser profesionales y consistentes.
+- La parte del costumer agreement se puede reducir a una diapositiva.
+- Elaborar un elevator pitch que hable sobre nuestra funcionalidad de forma resumida.
+
+### Presentadores
+
+- Vocalizar más en el inicio.
+- Explicar mejor de que va nuestra aplicación para que sea clara para los oyentes.
