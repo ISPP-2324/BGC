@@ -201,8 +201,26 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 ### Usuarios pilotos
 + Mostrar priorización del feedback
 
+## Semana 10 (Revisión Sprint 3)
+### Presentación
+- Sincronización lo que se dice con lo que hay escrito
+- Texto grandes decirlo en su idioma o no ponerlos
 
+### Demo
+-  Enlace argumental Demo-Strotyboard para mantener una cohesión sería lo ideal.
 
+### Anuncio/Storyboard
+- Se tiene que sentir más cercano
+- No tocar temas controversiales
+
+### Costes
+-  Se recomienda el cálculo y adición de los costes sociales al documento de Análisis de Costes.
+
+### Usuarios pilotos
+- Decir que se va implementar a futuro en relación al feedback de los usuarios piloto
+
+### Marketing
+- Se pedían ideas preliminares de la campaña de marketing
 
 
 
