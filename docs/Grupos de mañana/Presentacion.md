@@ -115,3 +115,7 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + No confundir los términos "beneficios" e "ingresos", sobre todo al reflejarlos en la presentación.
 + No usar canciones demasiado conocidas para los anuncios. Plantearse usar herramientas de IA con el nombre de nuestra aplicación para estos.
 + En los anuncios evitar anuncios de dinámica “¿Conoces la app ...?” Es mejor llegar de una manera más orgánica, en la que uno presente las necesidades que puede satisfacer la aplicación y entonces se le ocurra usar la nuestra.
++ Recomendación: Hacer ejercicios de vocalización antes de presentar. Charla de Treasure “Cómo hablar para que la gente te quiera escuchar”. Ayuda para mejorar la vocalización https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
++ Buenisima idea mostrar en la demo el feedback recibido por los usuarios piloto. Aporta valor a la aplicación y muestra que estan en contacto con el cliente. 
++ No repasar la GPDR completa, solo indicar las acciones concretas que hayan tomado
++ No subir a youtube los anuncios o demos, puede dar muchos problemas.
