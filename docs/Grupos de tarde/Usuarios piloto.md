@@ -10,11 +10,14 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 
 - Usar iTop para tener el feedback de los usuarios pilotos es una buena idea.
 
-
 ## Semana 7
 
 - Hay que hacer un balance entre una guía que lleve de la mano al usuario piloto y dejarlo por libre. Se deberá decir al usuaro que testear pero tamoco explicarlo 100% como funciona para que explore y explique como de intuitivo/fácil es hacer esa función.
 
 ## Semana 8
+
 - Redactar commitment agreement con los usuarios piloto incluyendo penalizaciones y recompensas
 
+## Semana 10
+
+- Hacer una encuesta a los usuarios pilotos para saber si pagaria o no por usar la app y cuánto.
