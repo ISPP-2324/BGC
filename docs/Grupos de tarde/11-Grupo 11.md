@@ -211,3 +211,18 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 
 - Vocalizar más en el inicio.
 - Explicar mejor de que va nuestra aplicación para que sea clara para los oyentes.
+
+## Semana 10
+
+### Presentación
+
+- Hacer la gráfica de Proyect state más grande para que se aprecia mejor los datos.
+- Añadir apoyo visual para el killer opener
+- Explicar antes de mostrar la demo que se va a mostrar.
+- Mejorar la performance-time matrix.
+
+### Riesgos
+
+- Si un riesgo ocurre, es un problema --> PROBLEM MONITORING
+- Especificar mejor las soluciones que se toman para solucionar los riesgos.
+- Establecer un umbral para comprobar la eficacia de la solución al problema.
