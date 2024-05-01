@@ -38,4 +38,5 @@ En este documento vamos a encontrar feedback respecto a los usuarios pilotos de 
 ## Semana 10
 + Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
 + Al recoger el feedback de los usuarios piloto sobre los precios, nos da más información preguntar primero cuánto estaría dispuesto a pagar antes de mostrarle cuánto cuesta.
++ Poner un término sancionador si el otro equipo no cumple el CA y no hace de usuario piloto.
 

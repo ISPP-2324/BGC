@@ -275,3 +275,28 @@ En cuanto a la demo, se destaca la necesidad de mejorar la visibilidad, utilizan
 
 ### Acciones de consolidación
 Respecto a las presentaciones, parece que la mayoría de grupos no entendió que se pedía crear un anuncio grabado basado en los storyboards, así que nos tendremos que poner manos a la obra. También se nos sugiere reubicar la planificación para mejorar su comprensión, y reducir el tiempo dedicado a la primera parte de la presentación para centrarnos en los aspectos relevantes de este sprint. Además, se enfatiza la importancia de establecer un plan de pruebas detallado para gestionar las pruebas de software de manera efectiva, algo en lo que aún tenemos que trabajar y mejorar.
+
+
+## Semana 10
+### Temas que mejorar en las presentaciones:
+- Asegurar que el contenido de las diapositivas refleje fielmente lo que se está comunicando verbalmente durante la presentación.
+- Hacer una revisión exhaustiva para garantizar coherencia y claridad entre el texto en las diapositivas y el discurso oral.
+- Incorporar elementos objetivos y técnicos en los anuncios para mantener la atención del público y evitar desviaciones del tema principal.
+- Establecer pautas claras para la creación de anuncios que resalten características específicas del proyecto sin perder el enfoque.
+- Desarrollar una narrativa sólida detrás de las demos para proporcionar contexto y conexión emocional con la audiencia.
+- Explorar la posibilidad de vincular la historia detrás de la demo con otros aspectos del proyecto para una presentación más integral y atractiva.
+
+### Temas que mejorar en el trabajo realizado:
+- Integrar los costos sociales, especialmente aquellos relacionados con el personal, en el estudio de costos para una evaluación más precisa y completa.
+- Establecer un proceso claro para identificar y calcular los costos sociales relevantes y su impacto en el proyecto.
+- Aclarar la diferencia entre ingresos y beneficios para evitar confusiones y garantizar una comprensión precisa de la situación financiera del proyecto.
+- Definir claramente la diferencia entre riesgos y problemas para una gestión correcta de ambos aspectos.
+- Establecer estrategias específicas para abordar y mitigar tanto los riesgos como los problemas identificados durante el desarrollo del proyecto.
+- Desarrollar métricas claras y objetivas para medir el éxito de las soluciones implementadas y evaluar la rentabilidad del proyecto.
+
+### Temas a tratar la siguiente semana:
+- Priorizar e implementar las sugerencias recibidas del feedback para mejorar la calidad y efectividad del trabajo realizado.
+- Establecer un proceso estructurado para la revisión y aplicación del feedback recibido de manera oportuna y eficiente.
+- Refinar la planificación del proyecto con fechas específicas para la publicación de anuncios y posts.
+- Establecer criterios de análisis sólidos para determinar el rendimiento financiero y el impacto general del proyecto en relación con sus objetivos y metas.
+- Empezar a trabajar en todos los aspectos relacionados con el marketing del proyecto.

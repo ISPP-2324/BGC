@@ -486,3 +486,101 @@ Ejemplo: https://www.youtube.com/watch?v=nkugQT7m0Qk
 - planificacion PPL
 - uso de IA
 - diapositiva Final. 
+
+
+
+## Feedback Semana 10 - 23 de abril
+
+### Pensamientos del grupo
+
+- Buen Killer Opener.
+
+### Feedback de los compañeros
+
+**Positivo**
+- Nuestro Anuncio ha sido claro y corto
+- Bien implementada la gamificación
+- La presentación perfecta
+- Issues (se ha hecho muy bien el tema de darles prioridad a las issues)
+- Plantillas (las plantillas están muy bien, bastante completas)
+- Está muy bien el caso de uso de la demo.
+
+**Recomendaciones**
+ - Poner en la Demo algo para que ayude a seguir el hilo. 
+
+### Feedback de los profesores
+
+#### Riesgos y resolución de conflictos
+- Tener métricas y umbrales para medir si solucionamos los problemas y tener fechas.  ES IMPORTANTE. IMPLICA SUSPENSO. 
+
+#### Sobre la presentación
+- Presentación clara y con buena dinámica.
+- Visualmente clara
+- Buena dinamica a la hora de presentar
+- **Recomendación**: Hacer **ejercicios de vocalización** antes de presentar.
+Charla de Treasure “Cómo hablar para que la gente te quiera escuchar”. Ayuda para mejorar la vocalización https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
+- Faltó perico.
+
+#### Costes
+- **ingreso y beneficio no es lo mismo**. Ingreso es el dinero que se ingresa y beneficio cuando el dinero supera a los costes.
+- Indicar el salario bruto por hora.
+
+#### Problema de la clausula abusiva
+- Reestructurar esa cláusula poniendo el caso de clicar sobre él y si no lo clicamos. 
+
+### Lecciones aprendidas del feedback a otros grupos:
+- Buenisima idea mostrar en la demo el feedback recibido por la responsable de manos abiertas con norte. Aporta valor a la aplicación y muestra que estan en contacto con el cliente. (NextONG)
+- Interesante abordamiento el marketing mix de 1 producto 2 precio 3 distribución 4 comunicación (Musclemate)
+- La tabla de problemas está muy bien porque incluye el cómo lo miden, cosa que aún no ha hecho ningún grupo que ha presentado hasta ahora. (Musclemate)
+- El anuncio está muy bien, sobretodo porque han tenido el feedback en cuenta de los profesores y han hecho referencia a nosotros (Musclemate)
+![image](https://github.com/ciaolavoro/ciao-lavoro/assets/72520174/bcfccd04-8c57-4d35-bcb7-ec1a7886d686)
+- Diapositivas muy limpias y fáciles de entender (OCIAL)
+- No repasar la GPDR completa, solo indicar las acciones concretas que hayan tomado (ITalent)
+- En los riesgos ha faltado acciones, umbrales y formas de medida para los problemas que se encuentran. (ITalent)
+- Poner un término sancionador si el otro equipo no cumple el CA y no hace de usuario piloto. (ITalent)
+- No subir a youtube los anuncios o demos, puede dar muchos problemas. (Cohabify)
+- Mucho texto en las presentaciones. Recortar. La presentación es un apoyo visual a lo que se presenta. No son notas para prácticamente leer.  (Cohabify)
+- Tener métricas y umbrales para medir si solucionamos los problemas y tener fechas.  ES IMPORTANTE. IMPLICA SUSPENSO. 
+
+
+
+## Feedback semana 11 ‐ 30 de Abril de 2024
+
+### Pensamientos del grupo
+
+- Buen Killer Opener.
+- Muy buena demo, pero se oye regular.
+- Es necesario llevar un altavoz para la proxima presentación
+
+### Feedback de los compañeros
+
+**Positivo**
+- La actuación de la demo les ha llamado la atención, les ha parecido más facil seguir la presentación.
+
+**Recomendaciones**
+ - La broma de Bob Esponja una vez hace gracia, repetidamente se hace pesada.
+- Poner subtítulos podría ser una buena idea para ayudar a seguir el hilo de la demo.
+- Intentar que el audio se oiga mejor.
+
+### Feedback de los profesores
+
+#### Sobre la presentación
+- Se nota el esfuerzo en tener un ritmo distinto y una mejor vocalización.
+- La presentación ha estado muy bien.
+- Se notaba que el presentador se contenía al principio porque miraba el suelo: intentar no mirar el suelo.
+- Al nivel visual estaba bien pero hay un cambio visual entre la tipografía del equipo y sus powerpoint con el resto de la presentación, y letras muy grandes. Intentar conseguir uniformidad si es posible. Por ejemplo con los colores, cambiamos continuamente de colores. 
+- Algunas partes de la presentación son super genéricas y evidentes. Intentar revisar la presentación para revisar y cambiar las partes genéricas por contenido más específico de nuestro proyecto, dando razones objetivas más allá de “somos muy buenos, los mejores”. Analizar cada frase para ver si es genérica o no, y si no lo es, introducir las razones del por qué. Esto afecta también a las diapositivas de costes, habría que indicar el criterio usado y especificar el momento y el por qué de cuando empieza a ser rentable.
+- Prestar atención a las frases, cosas tipo “eso es lo que pretendemos hacer” no da seguridad al público, usar frases tipo “esto es lo que vamos a hacer”, cambiarlas para darles más seguridad al público. No decir intenciones si no Hechos. Dar seguridad de lo que hablamos.
+- Lo que nosotros vendemos es una aplicacion: NO SE PUEDE DECIR ESO. Hay que maquillarlo. Por ejemplo, "nosotros vendemos una solución social que permite a particulares contactar con particulares para ofrecer servicios"
+- Mostrar fotos y nombres del equipo de desarrollo, intentarlo presentar de forma más homogénea. No dedicar tantas diapositivas para el equipo: poner a todo el equipo, y dejar de mostrarlo como tres equipos.
+- Hay que identificar y mostrar en la presentación dos personas, especificando motivaciones de usar la app, objetivos que quieren conseguir, etc. - Market segmentation-
+
+#### Sobre la demo
+- Está bien en el video demostración pero hay que hacerlo menos enfocado a hacer una película. Hay que intentar conseguir un equilibrio y debería durar 2 minutos como MAXIMO. Debe apuntar a las cosas claves de la aplicación. No se oía nada del video tampoco, recomendable llevar un altavoz.
+- La demo debe de centrarse más en las funcionalidades.
+ 
+
+
+### Lecciones aprendidas del feedback a otros grupos:
+- Anuncio para inversiores de 1 minuto máximo (NextONG)
+- Como ingenieros de software, hay que tener cuidado de cómo nos autodefinimos. Frontend-Programmer NO es apto. Como mínimo poner frontend engineer (NextONG)

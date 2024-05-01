@@ -1,5 +1,56 @@
 En este documento vamos a encontrar las cosas generales enumeradas por los profesores durante esa semana que esperan ver en la presentación de la siguiente semana.
 ****
+## Semana 11
+Para la semana 12 se espera:
+
+- La proxima presentación es evaluación.
+- A iniciativa de Shar3D, ahora hay que **publicitarse en las pantallas de la escuela**. Se va a usar esas pantallas para publicitar el WPL y después podemos poner una publicidad con un modelo donde publicitar de qué va el proyecto. Para el jueves-viernes debería estar disponible una plantilla hecha por Carlos Muller.
+
+Se mantiene lo de esta presentación, simplemente pulir en base a lo dicho en el feedback, y definir las personas tipo (market segmentation)
+
+ **2 presentaciones distintas:** máx. 10 minutos, ensayar el WPL. Resto del tiempo, 5 mins, más detalles sobre el PPL.
+### 1º Presentación (WPL ensayo):  
+ - ¿De qué va el proyecto? Killer opener, video usuarios/cliente máx 1 minuto
+- ¿Qué hace el proyecto? Demo (datos realistas).
+- ¿Hay competencia? Análisis competidores, diferencias (dejar claras).
+- ¿Quién hay detrás? Equipo de desarrollo.
+- ¿Podría ser rentable el proyecto? Planes de precio, resumen de costes, resumen de plan de negocio, oportunidades de inversión (meter anuncio para inversores, máx 1 minuto entiendo, de qué va el proyecto, captar inversión, dar opciones de inversiones)
+- ¿Dónde puedo ver más información? Link a landing page, email, datos de contacto. 
+
+### 2º Presentación (marketing): 
+- Plan de marketing
+- Caracterizacion de audiencia (a quien va dirijido, segmentacion: minimo dos perfiles de persona) 
+- Optimización seo (Search Engine Optimization). 
+- Campaña de lanzamiento a corto plazo  
+- Pensar en partnership, asociaciones
+- Community management (pildora teórica, Objetivos redes sociales, responsable, impresiones que queremos conseguir…)
+- Uso de las IA
+
+
+
+**SEMANAS PASADAS:**
+
+## Semana 10
+Para la semana 11 se espera:
+ **2 presentaciones distintas:** máx. 10 minutos, ensayar el WPL. Resto del tiempo, 5 mins, más detalles sobre el PPL.
+### 1º Presentación (WPL ensayo):  
+ - ¿De qué va el proyecto? Killer opener, video usuarios/cliente máx 1 minuto
+- ¿Qué hace el proyecto? Demo (datos realistas).
+- ¿Hay competencia? Análisis competidores, diferencias (dejar claras).
+- ¿Quién hay detrás? Equipo de desarrollo.
+- ¿Podría ser rentable el proyecto? Planes de precio, resumen de costes, resumen de plan de negocio, oportunidades de inversión (meter anuncio para inversores, máx 1 minuto entiendo, de qué va el proyecto, captar inversión, dar opciones de inversiones)
+- ¿Dónde puedo ver más información? Link a landing page, email, datos de contacto. 
+
+### 2º Presentación (marketing): 
+- Plan de marketing
+- Caracterizacion de audiencia (a quien va dirijido, segmentacion: minimo dos perfiles de persona) 
+- Optimización seo (Search Engine Optimization). 
+- Campaña de lanzamiento a corto plazo  
+- Pensar en partnership, asociaciones
+- Community management (pildora teórica, Objetivos redes sociales, responsable, impresiones que queremos conseguir…)
+- Uso de las IA
+
+
 ## Semana 9
 Para la semana 10 los profesores esperan ver:
 - introducción

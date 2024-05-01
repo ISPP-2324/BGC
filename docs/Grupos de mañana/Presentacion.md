@@ -115,3 +115,16 @@ Ejemplo: si tenemos de presupuesto 67.839,45, en las diapositivas escribirlo com
 + No confundir los términos "beneficios" e "ingresos", sobre todo al reflejarlos en la presentación.
 + No usar canciones demasiado conocidas para los anuncios. Plantearse usar herramientas de IA con el nombre de nuestra aplicación para estos.
 + En los anuncios evitar anuncios de dinámica “¿Conoces la app ...?” Es mejor llegar de una manera más orgánica, en la que uno presente las necesidades que puede satisfacer la aplicación y entonces se le ocurra usar la nuestra.
++ Recomendación: Hacer ejercicios de vocalización antes de presentar. Charla de Treasure “Cómo hablar para que la gente te quiera escuchar”. Ayuda para mejorar la vocalización https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen
++ Buenisima idea mostrar en la demo el feedback recibido por los usuarios piloto. Aporta valor a la aplicación y muestra que estan en contacto con el cliente. 
++ No repasar la GPDR completa, solo indicar las acciones concretas que hayan tomado
++ No subir a youtube los anuncios o demos, puede dar muchos problemas.
+
+# Semana 11
++ Hay que intentar conseguir uniformidad en la tipografía y los powerpoint siempre que sea posible. Evitar cambiar mucho los colores y evitar el uso de letrar demasiado grandes.
++ Revisar las partes de la presentación para cambiar las partes más genéricas por contenido más específico del proyecto. Hay que dar razones más allá de "nuestro proyecto es muy bueno", hay que introducir el por qué de las cosas.
+Esto tambien se aplica a la diapositiva de costes, hay que indicar los criterios usados y especificar el por qué de cuando empieza a ser rentable.
++ Evitar decir frases como "es lo que pretendemos hacer". Hay que decir frases que aporten e indiquen seguridad, como "esto es lo que vamos a hacer". No decir intenciones, si decir hechos.
++ Lo que nosotros vendemos es una aplicacion: NO SE PUEDE DECIR ESO. Hay que maquillarlo. Por ejemplo, "nosotros vendemos una solución social que permite a particulares contactar con particulares para ofrecer servicios"
++ Mostrar fotos y nombres del equipo de desarrollo, intentarlo presentar de forma homogénea.
++ **Importante:**Hay que identificar y mostrar en la presentación dos personas, especificando motivaciones de usar la app, objetivos que quieren conseguir, etc. **-Market segmentation-**

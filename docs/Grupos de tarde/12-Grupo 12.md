@@ -123,3 +123,11 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Reescalar la presentación al tamaño de la pantalla.
 + Hilar el killer opener con el anuncio y con la demo. Debe ser todo muy claro.
 + Evaluar alternativas para que el audio se escuche correctamente.
+
+## Semana 10
++ En la demo se ha intentado unir con el inicio, pero no ha resultado efectivo. Se podría haber hilado mejor con la historia del anuncio.
++ Se podría haber profundizado más en el marketing que se va a realizar.
++ Mejorar el audio de cara a próximas presentaciones.
++ El killer opener ha sido mejor que los anteriores, pero se puede seguir mejorando.
++ Los usuarios impresores son los fundamentales para hacer que funcione la aplicación. El marketing debe estar enfocado en una primera instancia a los impresores.
++ Para las pruebas de interfaz, incluir el id en los elementos que se van a probar luego. Así no se van a producir fallos en los tests al modificar la interfaz.    
