@@ -40,4 +40,7 @@ En este documento vamos a encontrar feedback respecto al desempeño de los prese
 + Si como presentador tenemos problemas de hablar rápido es buena práctica realizar ejercicios de vocalización previos a la presentación.
 + Se debe cuidar el uso de conectores durante la presentación sobre todo si no tiene sentido coherente entre ambas frases.
 
+## Semana 11
++ Intentar evitar gestos como mirar al suelo mientras se presenta.
+
 

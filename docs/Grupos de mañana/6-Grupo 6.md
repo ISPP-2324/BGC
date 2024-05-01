@@ -541,3 +541,46 @@ Charla de Treasure “Cómo hablar para que la gente te quiera escuchar”. Ayud
 - No subir a youtube los anuncios o demos, puede dar muchos problemas. (Cohabify)
 - Mucho texto en las presentaciones. Recortar. La presentación es un apoyo visual a lo que se presenta. No son notas para prácticamente leer.  (Cohabify)
 - Tener métricas y umbrales para medir si solucionamos los problemas y tener fechas.  ES IMPORTANTE. IMPLICA SUSPENSO. 
+
+
+
+## Feedback semana 11 ‐ 30 de Abril de 2024
+
+### Pensamientos del grupo
+
+- Buen Killer Opener.
+- Muy buena demo, pero se oye regular.
+- Es necesario llevar un altavoz para la proxima presentación
+
+### Feedback de los compañeros
+
+**Positivo**
+- La actuación de la demo les ha llamado la atención, les ha parecido más facil seguir la presentación.
+
+**Recomendaciones**
+ - La broma de Bob Esponja una vez hace gracia, repetidamente se hace pesada.
+- Poner subtítulos podría ser una buena idea para ayudar a seguir el hilo de la demo.
+- Intentar que el audio se oiga mejor.
+
+### Feedback de los profesores
+
+#### Sobre la presentación
+- Se nota el esfuerzo en tener un ritmo distinto y una mejor vocalización.
+- La presentación ha estado muy bien.
+- Se notaba que el presentador se contenía al principio porque miraba el suelo: intentar no mirar el suelo.
+- Al nivel visual estaba bien pero hay un cambio visual entre la tipografía del equipo y sus powerpoint con el resto de la presentación, y letras muy grandes. Intentar conseguir uniformidad si es posible. Por ejemplo con los colores, cambiamos continuamente de colores. 
+- Algunas partes de la presentación son super genéricas y evidentes. Intentar revisar la presentación para revisar y cambiar las partes genéricas por contenido más específico de nuestro proyecto, dando razones objetivas más allá de “somos muy buenos, los mejores”. Analizar cada frase para ver si es genérica o no, y si no lo es, introducir las razones del por qué. Esto afecta también a las diapositivas de costes, habría que indicar el criterio usado y especificar el momento y el por qué de cuando empieza a ser rentable.
+- Prestar atención a las frases, cosas tipo “eso es lo que pretendemos hacer” no da seguridad al público, usar frases tipo “esto es lo que vamos a hacer”, cambiarlas para darles más seguridad al público. No decir intenciones si no Hechos. Dar seguridad de lo que hablamos.
+- Lo que nosotros vendemos es una aplicacion: NO SE PUEDE DECIR ESO. Hay que maquillarlo. Por ejemplo, "nosotros vendemos una solución social que permite a particulares contactar con particulares para ofrecer servicios"
+- Mostrar fotos y nombres del equipo de desarrollo, intentarlo presentar de forma más homogénea. No dedicar tantas diapositivas para el equipo: poner a todo el equipo, y dejar de mostrarlo como tres equipos.
+- Hay que identificar y mostrar en la presentación dos personas, especificando motivaciones de usar la app, objetivos que quieren conseguir, etc. - Market segmentation-
+
+#### Sobre la demo
+- Está bien en el video demostración pero hay que hacerlo menos enfocado a hacer una película. Hay que intentar conseguir un equilibrio y debería durar 2 minutos como MAXIMO. Debe apuntar a las cosas claves de la aplicación. No se oía nada del video tampoco, recomendable llevar un altavoz.
+- La demo debe de centrarse más en las funcionalidades.
+ 
+
+
+### Lecciones aprendidas del feedback a otros grupos:
+- Anuncio para inversiores de 1 minuto máximo (NextONG)
+- Como ingenieros de software, hay que tener cuidado de cómo nos autodefinimos. Frontend-Programmer NO es apto. Como mínimo poner frontend engineer (NextONG)
