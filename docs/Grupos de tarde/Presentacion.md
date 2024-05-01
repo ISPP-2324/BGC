@@ -81,3 +81,10 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 - No añadir información excesiva en las presentaciones, que permita a los oyentes digerir la información.
 
 - Para la información extra añadirlas a diapositivas finales después de todo por si preguntan por esa información.
+
+## Semana 10
+
+- Poner información en las diapositivas que concuerde con lo que se dice en la presentación. Sincronía.
+- Evitar poner mucho texto.
+- No meter política/religión en presentaciones técnicas.
+- Seguir una historia a lo largo de toda la presetación.
