@@ -159,5 +159,21 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + Especificar los bugs que se han detectado y de qué manera se han solucionado.
 + Si durante esa semana ha habido algún problema con los usuarios pilotos, se deben desarrollar las acciones que se han tomado con respecto al Acuerdo de los Usuarios Piloto.
 + Por cada riesgo o problema que se presente, debe haber acciones de consolidación, pero lo más importante es que además deben haber métricas y se deben exponer en la presentación. “Vamos a reunirnos cada 2 días” “Vamos a …” Debe haber una métrica para medir el grado de satisfacción de la medida y un umbral que mida cuando se ha solucionado.
-+ Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica – Estado 
++ Cuando se hable de los problemas que han aparecido, reflejar de alguna manera (una tabla es lo más sencillo para que lo vean claro los profesores) que se vea: Problema – Medida – Métrica – Estado
+
+## Semana 11
++ Business Plan debe responder a “¿Cómo voy a ganar dinero con la aplicación? ¿Por qué y cómo vamos a ser rentables?”.
++  Realizar el Anuncio de Inversores. Se deben incluir números, datos, ROI… Orientado al mercado y apoyado de estudios que hayamos realizado.No olvidar cuales son las prioridades del inversor. Ser claro con ¿Cuánto tengo que invertir? ¿Cuándo Tengo que invertir? y ¿Cuánto voy a ganar? CON NÚMEROS apoyados por estudios de marketing, anuncios, estudios de mercado… 
++ Dar opciones de inversión sin nunca superar el 50% (de adquisición de la aplicación) y mostrando el ROI.
++ EN la DEMO no incluir la presentación de la historia que cuenta Javi a la misma vez que se están realizando acciones sobre la aplicación, aunque sea el registro.
++ Intentar realizar un anuncio a la vez que DEMO de esta manera podría quedar menos repetitivo. Es decir, en nuestro caso podría funcionar mejor un anuncio en el que se vean claramente las funciones de nuestra aplicación.
++ Eliminar el Commitment Agreement de la presentación, no pega en las últimas presentaciones.
++ Añadir la leyenda de la gráfica de la página 6.
++ Mostrar algún story o publicación en la presentación de Marketing.
++ Se debe mostrar la agenda de marketing en la presentación.
++ Se ve que hay un coste inicial en el Marketing (que nos hacen empezar en negativo), se debe hablar de estos costes (desglose) además de otros datos como el número de usuarios que estimamos que aporte la campaña de marketing.
++ Usar “Equipos” para el SEO no es una keyword efectiva, aparecerían otros resultados antes (deportes).
++ Fernando debe alzar la voz en el Killer Opener de los CV.
++ El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
++ Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
 
