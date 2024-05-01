@@ -135,3 +135,14 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Crear mapa de calor en el rendimiento individual para ver el progreso durante los sprints.
 -   Explicar con mayor transparencia la función usada para las notas individuales.
 -   Sobre los riesgos: crear métricas, umbrales y plazos sobre las acciones a tomar en respuesta a problemas o mejoras a hacer. Es decir, formalizar las acciones concretas a tomar (escribir correo, hablar con alguien), crear una medida que permita observar si funciona y un umbral objectivo que represente cuándo pretendemos tener soluciones.
+
+## Semana 11
+
+-   Poner las tomas falsas al final de la presentación.
+-   La dema debe ser más corta y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
+-   Poner en contexto sobre Manos Abiertas con Norte antes de poner la demo.
+-   Explicar de donde vienen las graficas del plan de marketing.
+-   Meter costes de marketing en la segunda presentación.
+-   Business Plan: ¿Como voy a ganar dinero?
+-   La tabla del TCO desentona. Al hablar de miles/millones, poner K/M.
+-   El anuncio parece que es para donantes, no para inversores.
