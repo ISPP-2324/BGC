@@ -131,3 +131,17 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + El killer opener ha sido mejor que los anteriores, pero se puede seguir mejorando.
 + Los usuarios impresores son los fundamentales para hacer que funcione la aplicación. El marketing debe estar enfocado en una primera instancia a los impresores.
 + Para las pruebas de interfaz, incluir el id en los elementos que se van a probar luego. Así no se van a producir fallos en los tests al modificar la interfaz.    
+
+## Semana 11
++ Establecer el número de usuarios que significa cada estimación en la gráfica de costes frente a beneficios.
++ En el killer opener, aprovechar más la imagen del influencer, no solo mencionarlo. Los killer opener deberían tener un apoyo visual preferiblemente.
++ SHAR3D o SHAR3D, unificar la forma de decirlo.
++ A la demo le ha faltado zoom al inicio.
++ Buen discurso en la presentación de los 10 minutos.
++ La gráfica del estado del proyecto no debe estar en la presentación del World Project Launch. Debería estar en la presentación de 5 minutos.
++ En el vídeo de inversores faltan datos y opciones de inversión. Si se invierte tanto… se ganará tanto…
++ Utilizar más titulares de noticias para dar fuerza al mensaje. El actual que hay en el vídeo parece un subtítulo.
++ ¿Se podrán solapar los roles de diseñador e impresor? Introducir en los anuncios elementos para empezar a persuadir a los diseñadores.
++ Ya que se menciona que se ha hecho un sorteo en X, ver el post en las diapositivas.
++ Profundizar en el contenido que se va a subir a las redes sociales. Lo interesante es ver ejemplos en la presentación, no solo mencionarlos.
++ No poner elevator pitch como título de una diapositiva.
