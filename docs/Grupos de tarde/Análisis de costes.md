@@ -41,3 +41,7 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 ## Semana 10
 
 - Usar la palabra Incomes en vez de Benefits
+
+## Semana 11
+
+- En la gráfica de costes vs beneficios, añadir la previsión de usuarios en los costes y beneficios de cada caso.
