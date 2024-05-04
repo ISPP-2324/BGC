@@ -301,6 +301,8 @@ Respecto a las presentaciones, parece que la mayoría de grupos no entendió que
 - Establecer criterios de análisis sólidos para determinar el rendimiento financiero y el impacto general del proyecto en relación con sus objetivos y metas.
 - Empezar a trabajar en todos los aspectos relacionados con el marketing del proyecto.
 
+### Acciones de consolidación
+Lo más importante que podemos sacar respecto a la presentación, es que debe haber una coordinación entre lo que se va diciendo y lo que se va mostrando en las diapositivas, ya que si esta no existe, dificulta la comprensión y distrae al oyente. También se nos hace hincapié en que debe existir una historia que vaya enlazando con las diferentes partes que se van presentando, facilitando así poder seguir el hilo correctamente. Por otro lado, no debemos confundir riesgo con problema, y es algo que también nos ha ocurrido anteriormente.
 
 
 ## Semana 11
@@ -323,3 +325,6 @@ Respecto a las presentaciones, parece que la mayoría de grupos no entendió que
 - Considerar la inclusión de gráficos de costos en el video para inversores, resaltando aspectos relevantes de manera visual y facilitando la comprensión de la información financiera.
 - Enfocar la campaña de marketing durante la presentación de los 10 minutos, destacando estrategias específicas y acciones previstas para atraer a la audiencia objetivo.
 - Preparar diapositiva para publicitarse en las pantallas de la universidad.
+
+### Acciones de consolidación
+Esta semana nuestro principal problema, que parece que es común en la mayoría de grupos, diría que ha sido que no se ha enfocado correctamente el tema de captar inversores. Donde mejor se ha podido observar esto es en el video que iba dirigido a ellos, ya que en estos se ha mostrado demasiada funcionalidad o mensajes genéricos, en vez de datos y números financieros que inciten a invertir en el proyecto. También destacar que debemos ser muy precisos en el plan de marketing indicando fechas y todo tipo de información detallada al respecto.
