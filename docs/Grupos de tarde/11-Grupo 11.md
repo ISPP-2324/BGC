@@ -226,3 +226,36 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 - Si un riesgo ocurre, es un problema --> PROBLEM MONITORING
 - Especificar mejor las soluciones que se toman para solucionar los riesgos.
 - Establecer un umbral para comprobar la eficacia de la solución al problema.
+
+## Semana 11
+
+### Anuncio
+
+- Acortar el anuncio.
+- No usar terminos de ingenieros en la presentación, por ejemplo C2C.
+- Usar datos para convencer a los inversores, datos que llamen la atención.
+- No comentar cosas irreales, aunque sea para un chiste.
+- Centrarse en la funcionalidad de ceder aparcamiento.
+
+### Demo
+
+- No incluir la introducción de datos en los formulacios (registrarse, inicio de sesión, etc.)
+- Centrarse en la cesión de aparcamiento.
+
+### Presentación
+
+- Mejorar la narrativa con la que se cuenta los competidores. Llamar más la atención a los oyentes para vender que lo nuestro es mejor.
+- No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
+- No poner el título de Elevator pitch.
+- Hacer un Elevator pitch más impovisado, que no quede muy enconsetado y planeado.
+- La parte de key aspect no es nada específica, vende humo.
+
+### Marketing
+
+- Goals del plan de marketing muy genérico.
+- Presentar el calendario de marketing y un ejemplo de flyer.
+
+### Segmentación
+
+- Segmentación muy genérica. No vale decir que todos valen.
+- Crear una persona para mostrar cual es el público objetivo,
