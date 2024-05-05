@@ -45,3 +45,5 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 ## Semana 11
 
 - En la gráfica de costes vs beneficios, añadir la previsión de usuarios en los costes y beneficios de cada caso.
+
+- Incluir la gráfica de costes vs beneficios en el anuncio de inversores
