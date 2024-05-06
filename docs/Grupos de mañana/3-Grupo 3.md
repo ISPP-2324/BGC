@@ -261,7 +261,7 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 - En el anuncio de inversores, debemos mencionar qué beneficios obtiene el inversor una vez se comienzan a obtener beneficios, por ejemplo, qué porcentaje de la inversión podría esperar obtener cada año como beneficio. También podemos tener en cuenta que no tenemos que relegar toda la inversión a un único inversor, pudiendo ofrecer inversiones más ligeras con un menor beneficio.
 
 7. **Mejoras en el anuncio:**
-   - En el anuncio tenemos que evitar juntar música alta de fondo y un narrador. Si vamos a hacer uso de una narración incluida o externa a el anuncio, tenemos que acomodar este a el narrador, ya sea bajando el volumen de la música o eliminando la música.
+   - En el anuncio tenemos que evitar unir música alta de fondo y un narrador. Si vamos a hacer uso de una narración incluida o externa a el anuncio, tenemos que acomodar este al narrador, ya sea bajando el volumen de la música o eliminando la música.
 
 8. **Redes sociales:**
    - Se ha echado en falta ejemplos de qué clase de revelaciones puede el público esperar en nuestras redes sociales para  traer más tráfico a esta.
