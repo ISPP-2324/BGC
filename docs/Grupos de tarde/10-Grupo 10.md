@@ -222,5 +222,23 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 ### Marketing
 - Se pedían ideas preliminares de la campaña de marketing
 
+## Semana 11
+### Presentación
+- Problema de planteamiento: Visión de que es la última presentación, primera vez enseñando al mundo
+- No referencias a nada anterior
+- Debe haber hilo argumental entre demo y anuncio, ir a lo principal
+- Cuidado con el audio y eco (Probarlo antes en el WPL)
+- Poner caras en la diapositiva de miembros de grupo
+### Costes
+- CAPEX y OPEX no se conoce las siglas en el WPL, hablar de costes de capitalización y coste operacional
+### Anuncio/Storyboard
+- El vídeo de inversores encapsula perfectamente lo que hace cocemfe, pero el anuncio de usuario no
+### Usuarios pilotos
+### Marketing
+- Buena segmentación de mercado
+- Vídeo de inversores al uso se puede hacer como los otros grupos, hacer uso de las gráficas hablando del retorno de inversion recompensas por inversión y demas conceptos de dinero
+- Acciones para atraer posibles inversores: Invertir dinero en el proyecto, apelar al sentimiento de que damos apoyos a ONGs
+
+
 
 
