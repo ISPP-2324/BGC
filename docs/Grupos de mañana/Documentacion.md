@@ -29,4 +29,5 @@ En este documento vamos a encontrar feedback respecto a la documentación de des
 ## Semana 7
 + Reflejar en el Commitment Agreement las formulas usadas para la evaluación de miembros del equipo.
 
-
+## Semana 10
++ Crear mapa de calor en el rendimiento individual para ver el progreso durante los sprints.

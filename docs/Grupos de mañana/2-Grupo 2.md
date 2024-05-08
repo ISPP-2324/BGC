@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 24/04 13.00h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 02/05 13.50h*
 ****
 ## Semana 1
 
@@ -137,6 +137,20 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - Justificar si el mapa es un valor diferencial.
 - A los usuarios pilotos preguntar entorno al precio de las suscripciones.
 - Dejar claro, que ocial esta enfocado a una aplicación móvil, con tu ubicación actual.
+
+## Semana 11
+
+- Ha faltado contesto con el killer opener.
+- Muy bien hilada la DEMO con lo anterior.
+- Partnership (no partnetship)
+- No decir siglas técnicas de la carrera (Capex y Opex).
+- No se escucha el ruido del bar en el anuncio.
+- Acortar la DEMO (operaciones CRUD), solo si necesitamos más tiempo.
+- No hablar tanto tiempo de los competidores.
+- No poner las RRSS como competidores, ya que tiene toda la línea roja.
+- No decir que en el caso pesimista no se recupera la inversión.
+- Decir de donde salen los 250000€
+- Hablar en presente, no como si quisiesemos hacerlo
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*

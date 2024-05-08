@@ -127,4 +127,5 @@ Esto tambien se aplica a la diapositiva de costes, hay que indicar los criterios
 + Evitar decir frases como "es lo que pretendemos hacer". Hay que decir frases que aporten e indiquen seguridad, como "esto es lo que vamos a hacer". No decir intenciones, si decir hechos.
 + Lo que nosotros vendemos es una aplicacion: NO SE PUEDE DECIR ESO. Hay que maquillarlo. Por ejemplo, "nosotros vendemos una solución social que permite a particulares contactar con particulares para ofrecer servicios"
 + Mostrar fotos y nombres del equipo de desarrollo, intentarlo presentar de forma homogénea.
++ La dema no debe ser demasiado larga y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
 + **Importante:**Hay que identificar y mostrar en la presentación dos personas, especificando motivaciones de usar la app, objetivos que quieren conseguir, etc. **-Market segmentation-**

@@ -47,3 +47,4 @@ En este documento vamos a encontrar feedback respecto al proyecto en general que
 # Semana 10
 + Hay que saber medir cuando, aún habiendo mucho esfuerzo en una tarea, si se da una corrección o una recomendación, aceptar estas y realizar algo de retrospectiva en lugar de tratar de defenderla a cualquier costo.
 + Si alguien disminuye su rendimiento de manera constante es necesario tomar algún tipo de medida, hablarlo con él y llegar a algún tipo de solución para que la tendencia no siga.
++ Hacer fotos más formales (Usar misma camiseta y pose y no tener fondo o tener fondo muy simple).

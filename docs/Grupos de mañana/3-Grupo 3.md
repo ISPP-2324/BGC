@@ -217,4 +217,58 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
 6. **Mecionar dificultades encontradas anteriormente:**
    - Podríamos mencionar las dificultades encontradas en los primeros sprints como un problema a resolver en la retrospectiva, así como cómo hemos solucionado el problema y si la solución aplicada ha sido efectiva.
 
+
+
+## Semana 10
+
+1. **Optimizar costes:**
+   - No es necesario tener en cuenta el costo de una oficina para 15 personas una vez el producto ya se haya desarrollado, es suficiente un lugar pequeño para el par de desarrolladores que se queden manteniendo la aplicación.
+
+2. **Separar costes:**
+   - No deberíamos mezclar los costes mensuales en los primeros meses con los costes iniciales de el proyecto (compra de portátiles, licencias de una única compra, etc...).
+
+3. **Aclarar soluciones en la retrospectiva de cara al futuro:**
+   - Dentro de la retrospectiva sobre los problemas encontrados y sus soluciones, no solo debemos mencionar aquellos a los que ya hayamos aplicado una solución sino aquellas soluciones de cara a el futuro.
+
+4. **Mejoras en la demo:**
+   - Asegurar que la clase creada sea igual que la del anuncio (en el anuncio hablan de bicicletas, podríamos haber usado las bicicletas).
+   - En lugar de usar iconos para representar cada usuario, podríamos usar directamente fotos de los personajes del anuncio, conectando aún más con este.
+   - Sería muy interesante que en la canción de fondo en vez de decir "THUNDERSTRUCK" dijera "MUSCLEMATE". Esto se puede hacer fácilmente con IA.
+
+5. **Mejoras en las fotos de los miembros del equipo:**
+   -  Para las fotos de los miembros del equipo, podríamos realizar fotos consistentes y profesionales para todos los miembros del equipo.
+    
+
+
+## Semana 11
+
+1. **Cuidado del vocabulario:**
+   - Cuando hablemos frente a un público diverso debemos evitar usar coloquialismos como "coñas", ya que puede no sentarle bien a ciertas demográficas.
+
+2. **Mejoras del killer opener:**
+   - Debemos intentar que el killer opener tenga sentido con el tema de nuestra aplicación, de cara a la presentación final debemos relacionarlo más.
+
+3. **Optimizar anuncio:**
+   - Respecto a el anuncio, este solo se ha centrado en la gestión de incidencias, una pequeña parte de la aplicación. Este y la demo deben mostrar todas las funcionalidades clave de la aplicación, aunque nos centremos un poco más en alguna.
+
+4. **Adaptarnos al público:**
+   - Debido a que la presentación final es un público nuevo, debemos evitar referencias a previas presentaciones, ya que dicho público no tiene el contexto de las anteriores presentaciones o su feedback (elementos como la F de Feedback son innecesarios).
+
+5. **Distinguir entre pricing y costes/ingresos:**
+   -  Ha sido confusa la distinción entre costes/ingresos y el pricing de la aplicación. Es buena idea usar títulos más claros para estas diapositivas y mantenerlas separadas, pudiendo indicar su relación en la transición entre estas.
+
+6. **Aclarar información anuncio de inversores:**
+- En el anuncio de inversores, debemos mencionar qué beneficios obtiene el inversor una vez se comienzan a obtener beneficios, por ejemplo, qué porcentaje de la inversión podría esperar obtener cada año como beneficio. También podemos tener en cuenta que no tenemos que relegar toda la inversión a un único inversor, pudiendo ofrecer inversiones más ligeras con un menor beneficio.
+
+7. **Mejoras en el anuncio:**
+   - En el anuncio tenemos que evitar unir música alta de fondo y un narrador. Si vamos a hacer uso de una narración incluida o externa a el anuncio, tenemos que acomodar este al narrador, ya sea bajando el volumen de la música o eliminando la música.
+
+8. **Redes sociales:**
+   - Se ha echado en falta ejemplos de qué clase de revelaciones puede el público esperar en nuestras redes sociales para  traer más tráfico a esta.
+   - Si mencionamos un número concreto de visitas en nuestros posts, deberíamos incluir capturas de pantalla de dichos posts destacando las visitas. De esta manera aseguramos estas cifras al público.
+ 
+
+
+            
+
  

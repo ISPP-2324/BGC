@@ -121,4 +121,40 @@ ltx studio→para convertir storyboards en anuncios
 + Apuntar en los costes, la api de correo.
 + Traer altavoz para la próxima 
 
+## Semana 10
++ Hacer Killer opener bastante más visual
++ Riesgos :objetivos,medidas y calidad de la solución adoptada
++ Hacer el anuncio más grande en la presentación
++ Agilizar el relleno de formularios en la DEMO y MAS ENERGIA.
++ Gráfica de uso de la IA bien desarrollado
++ Incluir qué cosas de implementación y testing va a llevarse a cabo en las siguientes semanas (si lo hay) en la planificación
+
+## Semana 11
++ No utilizar vocabulario especializado (Matchmaking, CAPEX, OPEX,B2C Y B2B)
++ Acercar la parte del portátil en los 2 anuncios
++ No se oye bien por los altavoces de clase(no se llega a entender nada y presencia de eco)
++ Demasiado texto en la transparencia de la segmentación de mercado,hacerlo más visuales
++ Intentar buscar influencers que se enfoquen en la búsqueda de empleo joven
++ La intro no queda muy clara, podemos adelantar el anuncio para que se entienda mejor
++ Dejar claro que hace exactamente nuestra aplicación en el elevator pitch
++ Quitar la parte de las funcionalidades específicas de cada usuario.
++ DEMO seguir una historia mejor hilada, concretar unas funcionalidades .
++ Hacer el final de la demostración menos abrupta.
++ Centrarse más en las funcionalidades por las que se va a pagar. Si se quieren mostrar más funcionalidades mostrar una imagen después de la DEMO.
++ Decidir el mensaje que se quiere transmitir en cada transparencia
++ Destacar las funcionalidades clave que nos diferencian de nuestros competidores
++ Decir mil en vez de K.
++ La gráfica de costes vs beneficios se podría incluir en el anuncio de inversores
++ En el anuncio de inversores faltan datos y estimaciones.
++ Campaña de lanzamiento demasiado genérica,pensar que vamos a hacer nosotros en concreto para alcanzar a nuestro nicho de mercado
++ SEGUNDA PARTE DE LA PRESENTACIÓN (CORTA):
++ Poner algunos ejemplos de keyword directamente en el SEO
++ Ejemplo de persona en los tipos de usuario 
++ Mencionar las redes sociales
++ Separar facebook para gente mas mayor, gerentes y insta para mas jovenes
++ Mirar cuanto cuesta influencers, anuncios de pago, etc…
++ INCLUIR PERFILES DE CLIENTES
+
+
+
 

@@ -88,3 +88,9 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 - Evitar poner mucho texto.
 - No meter política/religión en presentaciones técnicas.
 - Seguir una historia a lo largo de toda la presetación.
+
+## Semana 11
+
+- No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
+- Añadir apoyo visual en el killer opener.
+- El planteamiento de esta presentación tiene que ir enfocada al evento de salir al mercado, esto significa que no se puede hacer referencia a cosas anteriores, no hablar con técnicismo, ni en el contexto de la asginatura.
