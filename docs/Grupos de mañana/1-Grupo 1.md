@@ -177,3 +177,17 @@ Aclarar y enlazar el Killer Opener con el inicio y el resto de la presentación.
 + El audio debe ser mejorado en el anuncio (arreglar eco), aclararlo lo mas posible (o volver a grabarlo encajarlo en el video).
 + Evitar usar términos como Capex, Opex, Matchmaking… en el WPL, ya que no son de dominio general (en la presentación habrá personas que no dominan estos términos) por lo que es mejor usar Coste Capital y Coste Operacional.
 
+## Semana 12
++ Buen inicio efectivo.
++ Somo un buen ejemplo de cómo se pasa de un tema a otro, enlazando el hilo argumental con un buen ritmo.
++ Para el killer opener, El tono de voz de Fernando tiene que ser más elevado. Imprimir varios currículos y preguntar quién tiene uno de IT.
++ El anuncio no se puede considerar como tal, es demasiado largo:
+   + El tema oscuro con música triste no casan nada bien. Transmite algo contradictorio, da una sensación de desolación con el negro + música triste mientras se usa la aplicación hace que parezca que ITTALENT da desidia. La música triste debe ser al principio, una vez se usa la aplicación se debe cambiar a un motivo alegre, de esperanza.
+   + Cuidar que Javi dice Plan Pro y se clica en el Advance.
+   + La historia parece dirigida a una sola persona que busca trabajo o no queda lo suficientemente claro que existen ambas.
+
++ A lo largo del resto de la aplicación se debe seguir reforzando la formación de equipos y las ventajas que esto da con respecto a otras aplicaciones disponibles en el mercado. Si no se enseñan las ventajas o lo rompedor que es de forma natural, incluir una diapositiva que indique las razones por la que lo es.
++ Revisar los términos ISPP ONLY como “TCO”, cambiar términos aunque se desglosen las siglas.
++ El anuncio de inversores está en muy buena dirección. Eliminar la parte en la que se habla de “”. El audio dice que se ganan 15K y en el video pone que se ganan 43K (sin hacer la resta) es algo contradictorio.
++ Eliminar la keyword “Team Building”, es otra cosa, no tiene que ver con nuestra aplicación.
++ Los datos de impresiones deben estar en el WPL actualizados, quedan muy bien.
