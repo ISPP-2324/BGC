@@ -1,5 +1,24 @@
 En este documento vamos a encontrar las cosas generales enumeradas por los profesores durante esa semana que esperan ver en la presentación de la siguiente semana.
 ****
+## Semana 12
+Para la semana 13 de retrospectiva se espera:
+
+**Retrospectiva**
+-Rápida destacando contribuciones de cada miembro, repositorio, commits, contributors, horas de clocki. Que sea ágil.
+
+Para la semana 14 de WPL:
+
+**Rúbrica para evaluación de WPL:**
+- Calidad audiovisual
+- Delivery (dicción, energía, ritmo, claridad…)
+- Problema (queda claro el problema, y como se resuelve…)
+- Target (queda claro el público al que va dirigido)
+- Modelo de negocio (ventaja competitiva, rentabilidad…)
+- La nota se pone al momento, la dan allí.
+
+
+**SEMANAS PASADAS:**
+
 ## Semana 11
 Para la semana 12 se espera:
 
@@ -25,10 +44,6 @@ Se mantiene lo de esta presentación, simplemente pulir en base a lo dicho en el
 - Pensar en partnership, asociaciones
 - Community management (pildora teórica, Objetivos redes sociales, responsable, impresiones que queremos conseguir…)
 - Uso de las IA
-
-
-
-**SEMANAS PASADAS:**
 
 ## Semana 10
 Para la semana 11 se espera:
