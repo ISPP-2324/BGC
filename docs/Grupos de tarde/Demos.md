@@ -15,3 +15,7 @@ En este documento vamos a encontrar feedback respecto a las demos de las present
 - Buscar desarrollar una historia a al hora de mostrar la demo.
 
 - Incluir datos realistas en las demostraciones.
+
+## Semana
+
+- Hacer demos directas, enseñando la parte nuclear de la aplicación y saltando elementos que son irelevantes.
