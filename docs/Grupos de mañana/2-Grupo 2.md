@@ -1,5 +1,5 @@
 En este documento vamos a encontrar el feedback recibido por el grupo 2
-**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 02/05 13.50h*
+**Enlace al la base de conocimientos del grupo 2:** https://docs.ocial.es/ *Última actualización 10/05 13.00h*
 ****
 ## Semana 1
 
@@ -151,6 +151,14 @@ En este documento vamos a encontrar el feedback recibido por el grupo 2
 - No decir que en el caso pesimista no se recupera la inversión.
 - Decir de donde salen los 250000€
 - Hablar en presente, no como si quisiesemos hacerlo
+
+## Semana 12
+
+- La competencia, los que sean todo rojo, poner "sub-objetivos" que si se comparten.
+- DEMO solo funcionalidades clave.
+- Dar vuelta al analisis de competidores.
+- Mas eventos en la DEMO.
+- Hilo argumental.
 
 ****
 *Secretarios: Juan José Gómez Borrallo y Ramón José Guerrero Romero*
