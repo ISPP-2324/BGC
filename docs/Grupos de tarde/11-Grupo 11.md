@@ -258,4 +258,34 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 ### Segmentación
 
 - Segmentación muy genérica. No vale decir que todos valen.
-- Crear una persona para mostrar cual es el público objetivo,
+- Crear una persona para mostrar cual es el público objetivo.
+
+## Semana 12
+
+### Presentación
+
+- No hace falta un índice que vaya siguiendo, simplemente la presentación debe seguir un hilo argumental bueno.
+- Presentarse al inicio de la presentación.
+- Hacer el inicio efectivo más visual, usar varias fotos que sigan la historia.
+- Recortar la tabla de competidores, dejar los más relvantes o marcarlos para que destaquen.
+- No usar terminos de la asignatura (CapEX, OpEX, TCO).
+- Redondear los números.
+
+### Anuncio Inversores
+
+- Añadir lo de los tipos de inversión en el anuncio de inversores y quitarlos de la presenatción.
+- Dar datos reales que inciten a los usuario a invertir en la aplicación.
+
+### Demo
+
+- Que la demo sea más como una historia, más fluido todo. Que siga el contexto del anuncio.
+
+### Presentadores
+
+- Dar toda la energía posible para la presentación.
+- Hacer una conexión fluida de los apartados.
+
+### Segmentación del mercado
+
+- Abarcar a un rango de edad diferente o justificarlo mejor.
+- Enfocar la publicidad segun al sector al que nos queremos centrar. Anucios televisión, baners, ... .
