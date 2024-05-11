@@ -145,3 +145,14 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 + Ya que se menciona que se ha hecho un sorteo en X, ver el post en las diapositivas.
 + Profundizar en el contenido que se va a subir a las redes sociales. Lo interesante es ver ejemplos en la presentación, no solo mencionarlos.
 + No poner elevator pitch como título de una diapositiva.
+
+## Semana 12
++ En el elevator pitch no hablar de los planes antes de enseñar la demo. Primero hablar de la funcionalidad y luego mencionar los planes.
++ La demo está al límite. Hacer evidente la existencia de una necesidad para usar la aplicación. Se pide una historia en la que se siga un hilo argumental. Hay que partir de una necesidad, con esto, ver como el personaje con la necesidad descubre la aplicación, y, en la demo, ver como este personaje usa la aplicación en un caso de uso real. Todo debe ser coherente y estar dentro del mismo contexto. ¿Qué motivación tiene el personaje que compra en la demo? Mejorar la narrativa en este apartado. Hay que explicar el porqué quiere solicitar una impresión el personaje. A qué se debe esa necesidad.
++ No ir a la defensiva al recibir feedback. Analizar los comentarios que se dan y luego debatir de forma constructiva. En el caso de que no se quiera seguir el feedback, justificar los motivos detalladamente, explicando por qué otras opciones son mejores.
++ No poner términos relacionados con la asignatura en las diapositivas. Nada de CapEx, OpEx y términos similares.
++ Todos los costes relativos a una marca de tiempo, indicarlo explícitamente. Por ejemplo: 27K€/mes.
++ Se recomienda todas las cantidades reducirlas a K euros. Si la cantidad es menor, generalizar esos costes de otra forma.
++ Muy buen anuncio de inversores, aunque se hace algo largo.
++ Muy bien comentada la parte de beneficios frente a gastos.
++ Sacar la funcionalidad de la aplicación del anuncio de inversores, así como los sonidos de dinero o similares que le restan formalidad al anuncio.
