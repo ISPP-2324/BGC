@@ -146,3 +146,13 @@ En este documento vamos a encontrar el feedback recibido por el grupo 1
 -   Business Plan: ¿Como voy a ganar dinero?
 -   La tabla del TCO desentona. Al hablar de miles/millones, poner K/M.
 -   El anuncio parece que es para donantes, no para inversores.
+
+## Semana 12
+
+-   Fluidez de la presentación es mejorable
+-   Estaría bien decir en los anuncios algo como "NexONG surge a partir de la ONG Manos Abiertas" porque a veces ponemos la imagen de manos abiertas pero no la mencionamos.
+-   La demo no sigue una historia. Se para en cosas no relevantes.
+-   Anuncio de inversores: justificar a los inversores mediante gráficas mostrando información de los beneficios que obtendrían
+-   Poner la portada de la demo en blanco.
+-   Dejar de poner conceptos Capex y Opex explícitamente.
+-   Poner cuantas horas a la semana se supone que trabajan los Community Manager.
