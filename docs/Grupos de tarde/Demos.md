@@ -15,3 +15,11 @@ En este documento vamos a encontrar feedback respecto a las demos de las present
 - Buscar desarrollar una historia a al hora de mostrar la demo.
 
 - Incluir datos realistas en las demostraciones.
+
+## Semana 11
+
+- Hacer demos directas, enseñando la parte nuclear de la aplicación y saltando elementos que son irelevantes.
+
+## Semana 12
+
+- Que la demo sea fluida, como una historia siguiendo una narrativa planteada en el anuncio por ejemplo. No debe ser un listado de funcionalidades que se van probando de una en una.

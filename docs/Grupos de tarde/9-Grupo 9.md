@@ -300,3 +300,52 @@ Respecto a las presentaciones, parece que la mayoría de grupos no entendió que
 - Refinar la planificación del proyecto con fechas específicas para la publicación de anuncios y posts.
 - Establecer criterios de análisis sólidos para determinar el rendimiento financiero y el impacto general del proyecto en relación con sus objetivos y metas.
 - Empezar a trabajar en todos los aspectos relacionados con el marketing del proyecto.
+
+### Acciones de consolidación
+Lo más importante que podemos sacar respecto a la presentación, es que debe haber una coordinación entre lo que se va diciendo y lo que se va mostrando en las diapositivas, ya que si esta no existe, dificulta la comprensión y distrae al oyente. También se nos hace hincapié en que debe existir una historia que vaya enlazando con las diferentes partes que se van presentando, facilitando así poder seguir el hilo correctamente. Por otro lado, no debemos confundir riesgo con problema, y es algo que también nos ha ocurrido anteriormente.
+
+
+## Semana 11
+### Temas que mejorar en las presentaciones:
+- No olvidar que el objetivo es captar inversores, por lo que hay que asegurar que cada aspecto destacado contribuya a este propósito principal.
+- Incorporar un hilo argumental sólido en la demo para mantener el interés y la comprensión del público, intentando que cada aspecto presentado contribuya a la historia general.
+- En la demo, evitar la inclusión de funcionalidades excesivas que puedan distraer del mensaje central, priorizando aquellas que sean más relevantes para el público objetivo.
+- Optimizar la velocidad de la demo, manteniendo un equilibrio entre la cantidad de información y la claridad en la comunicación.
+- Diseñar un inicio efectivo que sea específico de nuestra aplicación, destacando los aspectos únicos del proyecto y captando la atención de manera inmediata.
+- Eliminar cualquier información o elemento genérico que pueda diluir el mensaje o distraer a los inversores, manteniendo el enfoque en los puntos claves y únicos de nuestro proyecto.
+- Revisar y corregir errores de traducción en la presentación.
+
+### Temas que mejorar en el trabajo realizado:
+- Evitar el uso de terminología específica que pueda resultar confusa para personas nuevas, asegurando que el contenido sea accesible y comprensible para todos los públicos.
+- Profundizar en el plan de marketing, especificando las redes a utilizar, los tipos de anuncios y el impacto esperado, para una estrategia más sólida y enfocada.
+- Garantizar una segmentación precisa del público objetivo en el marketing, identificando claramente quiénes son los destinatarios de las campañas y cómo se abordarán sus necesidades específicas.
+- Mejorar la claridad y la efectividad del video destinado a inversores, asegurando que transmita claramente la propuesta de valor del proyecto y sus datos financieros de manera convincente.
+
+### Temas a tratar la siguiente semana:
+- Considerar la inclusión de gráficos de costos en el video para inversores, resaltando aspectos relevantes de manera visual y facilitando la comprensión de la información financiera.
+- Enfocar la campaña de marketing durante la presentación de los 10 minutos, destacando estrategias específicas y acciones previstas para atraer a la audiencia objetivo.
+- Preparar diapositiva para publicitarse en las pantallas de la universidad.
+
+### Acciones de consolidación
+Esta semana nuestro principal problema, que parece que es común en la mayoría de grupos, diría que ha sido que no se ha enfocado correctamente el tema de captar inversores. Donde mejor se ha podido observar esto es en el video que iba dirigido a ellos, ya que en estos se ha mostrado demasiada funcionalidad o mensajes genéricos, en vez de datos y números financieros que inciten a invertir en el proyecto. También destacar que debemos ser muy precisos en el plan de marketing indicando fechas y todo tipo de información detallada al respecto.
+
+
+## Semana 12
+### Temas que mejorar en las presentaciones:
+- Incorporar una historia que enlace todos los puntos de la presentación para garantizar una narrativa fluida y coherente que mantenga la atención del público.
+- Apoyar visualmente el inicio efectivo y establecer una conexión emocional con la audiencia desde el principio.
+- Evitar la excesiva enumeración en la demo y en su lugar contextualizar las funcionalidades presentadas contando una historia que muestre la interacción entre personajes y cómo surgen las necesidades que la aplicación resuelve.
+- Asegurarse de que todo lo que se presente en la primera presentación (10 minutos) responda a las preguntas fundamentales previamente establecidas, evitando proporcionar más información de la necesaria.
+- Enfatizar la necesidad de conectar mejor entre presentadores para mantener la coherencia y la fluidez durante la presentación.
+
+### Temas que mejorar en el trabajo realizado:
+- Mejorar la demo asegurando que cada participante esté motivado por una necesidad específica y que la historia presentada sea coherente y relevante para el público objetivo.
+- Revisar y mejorar la claridad y la profundidad del contenido presentado, asegurando que se eliminen términos específicos o técnicos que puedan resultar incomprensibles fuera del contexto de la asignatura.
+- Reducir la cantidad de transparencias dedicadas a los costes en la primera presentación (10 minutos), ya que puede resultar abrumador para el público.
+- En el video dirigido a inversores, garantizar que se destaquen claramente los puntos clave relacionados con los datos económicos y las proyecciones de beneficios, proporcionando información concreta y relevante para respaldar la viabilidad del negocio.
+- Evitar la subjetividad excesiva y asegurar que se indiquen cifras exactas y datos concretos para generar confianza y credibilidad entre los inversores potenciales.
+
+### Temas a tratar la siguiente semana:
+- Preparar una presentación para la próxima semana que incluya el trabajo realizado por cada miembro del equipo, utilizando herramientas como Clockify para documentar y presentar el tiempo dedicado a cada tarea.
+- Destacar aspectos específicos de mejora de la asignatura y del proyecto en general, asegurando que se aborden de manera clara y estructurada en la presentación final.
+- Incluir ejemplos concretos de publicaciones en la parte final de la presentación para dar una idea más clara de la campaña de marketing y su impacto en el público objetivo.

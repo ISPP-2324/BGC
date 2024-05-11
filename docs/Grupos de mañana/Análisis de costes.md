@@ -42,3 +42,5 @@ En este documento vamos a encontrar feedback respecto a los costes asociados a n
 + ingreso y beneficio no es lo mismo. Ingreso es el dinero que se ingresa y beneficio cuando el dinero supera a los costes.
 + Indicar el salario bruto por hora.
 
+## Semana 12
+- Explicar los escenarios pesimista, optimista y realista sacando datos de usuarios de fuente reales y contrastadas (periódicos, medios deportivos, portales del gobierno…), si es posible, es buena practica.
