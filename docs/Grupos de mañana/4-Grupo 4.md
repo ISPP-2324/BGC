@@ -136,5 +136,25 @@ En este documento vamos a encontrar el feedback recibido por el grupo 4
 + En la pirámide de UX, desarrollar los comentarios de los usuarios piloto para justificar.
 + Hacer que la demo esté hilada con una historia, es más interesante.
 
+### Semana 11: 30/04
+
++ Revisar modelo de negocio.
++ La demo es una que alguien ve por primera vez y que muestra sólo lo más importantes.
++ Orientar la presentación al usuario y al mismo tiempo al inversor.
++ Evitar usar demasiados tecnicismos.
++ Responder a preguntas ¿por qué voy a invertir, cuánto y cuándo vas a ganar.
++ Agrupar y resumir más los costes.
+
+### Semana 12: 07/05
+
++ Mejorar la fluidez del inicio y de la transicion entre diapositivas.
++ No decir roles, hay que transmitir que es un equipo multidisciplinar.
++ No detallar demasiado los costes.
++ Reducir las formulas, explicar en que nos basamos y numeros finales en el anuncio de inversores.
++ Poner temporalidad en el plan de precios.
++ Poner en el orden optimista-realista-pesimista. Poner los valores encima de cada estimación.
++ Comentar sólo el caso realista en el anuncio.
++ Si en el vídeo se han puesto cosas, no hace falta que se ponga en las transparencias.
+
 
 
