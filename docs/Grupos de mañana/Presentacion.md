@@ -129,3 +129,9 @@ Esto tambien se aplica a la diapositiva de costes, hay que indicar los criterios
 + Mostrar fotos y nombres del equipo de desarrollo, intentarlo presentar de forma homogénea.
 + La dema no debe ser demasiado larga y debe haber un balance entre tener una historia y mostrar las funcionalidades. Inventarse 2 o 3 personajes.
 + **Importante:**Hay que identificar y mostrar en la presentación dos personas, especificando motivaciones de usar la app, objetivos que quieren conseguir, etc. **-Market segmentation-**
+
+# Semana 12
++ Vocabulario proveniente de ISPP como Elevator Pitch o matchmaking son terminos dificiles de entender. Hay que usar un vocabulario en el que cualquier persona pueda entenderlo.
++ El elevator pitch debe ser una frase que en 15 segundos venda el potencial del producto.
++ Hay que mejorar el sonido a la hora de poner videos.
++ Hay que tener un hilo argumental en la presentación. Que no sea abrupto.

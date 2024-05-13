@@ -11,3 +11,6 @@ En este documento vamos a encontrar feedback respecto a la publicidad asociadas 
 
 ## Semana 11
 + Hay que realizar un anuncio para inversiores de 1 minuto máximo
+
+## Semana 12
+-   Anuncio de inversores: justificar a los inversores mediante gráficas mostrando información de los beneficios que obtendrían

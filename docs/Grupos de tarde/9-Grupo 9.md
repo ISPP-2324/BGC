@@ -328,3 +328,24 @@ Lo más importante que podemos sacar respecto a la presentación, es que debe ha
 
 ### Acciones de consolidación
 Esta semana nuestro principal problema, que parece que es común en la mayoría de grupos, diría que ha sido que no se ha enfocado correctamente el tema de captar inversores. Donde mejor se ha podido observar esto es en el video que iba dirigido a ellos, ya que en estos se ha mostrado demasiada funcionalidad o mensajes genéricos, en vez de datos y números financieros que inciten a invertir en el proyecto. También destacar que debemos ser muy precisos en el plan de marketing indicando fechas y todo tipo de información detallada al respecto.
+
+
+## Semana 12
+### Temas que mejorar en las presentaciones:
+- Incorporar una historia que enlace todos los puntos de la presentación para garantizar una narrativa fluida y coherente que mantenga la atención del público.
+- Apoyar visualmente el inicio efectivo y establecer una conexión emocional con la audiencia desde el principio.
+- Evitar la excesiva enumeración en la demo y en su lugar contextualizar las funcionalidades presentadas contando una historia que muestre la interacción entre personajes y cómo surgen las necesidades que la aplicación resuelve.
+- Asegurarse de que todo lo que se presente en la primera presentación (10 minutos) responda a las preguntas fundamentales previamente establecidas, evitando proporcionar más información de la necesaria.
+- Enfatizar la necesidad de conectar mejor entre presentadores para mantener la coherencia y la fluidez durante la presentación.
+
+### Temas que mejorar en el trabajo realizado:
+- Mejorar la demo asegurando que cada participante esté motivado por una necesidad específica y que la historia presentada sea coherente y relevante para el público objetivo.
+- Revisar y mejorar la claridad y la profundidad del contenido presentado, asegurando que se eliminen términos específicos o técnicos que puedan resultar incomprensibles fuera del contexto de la asignatura.
+- Reducir la cantidad de transparencias dedicadas a los costes en la primera presentación (10 minutos), ya que puede resultar abrumador para el público.
+- En el video dirigido a inversores, garantizar que se destaquen claramente los puntos clave relacionados con los datos económicos y las proyecciones de beneficios, proporcionando información concreta y relevante para respaldar la viabilidad del negocio.
+- Evitar la subjetividad excesiva y asegurar que se indiquen cifras exactas y datos concretos para generar confianza y credibilidad entre los inversores potenciales.
+
+### Temas a tratar la siguiente semana:
+- Preparar una presentación para la próxima semana que incluya el trabajo realizado por cada miembro del equipo, utilizando herramientas como Clockify para documentar y presentar el tiempo dedicado a cada tarea.
+- Destacar aspectos específicos de mejora de la asignatura y del proyecto en general, asegurando que se aborden de manera clara y estructurada en la presentación final.
+- Incluir ejemplos concretos de publicaciones en la parte final de la presentación para dar una idea más clara de la campaña de marketing y su impacto en el público objetivo.

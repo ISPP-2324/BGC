@@ -94,3 +94,8 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 - No destacar el paso pesimista en los costes y beneficios, a no ser que sea para realzar lo bueno.
 - Añadir apoyo visual en el killer opener.
 - El planteamiento de esta presentación tiene que ir enfocada al evento de salir al mercado, esto significa que no se puede hacer referencia a cosas anteriores, no hablar con técnicismo, ni en el contexto de la asginatura.
+
+# Semana 12
+
+- No usar tecnicismos de la asignatura como CapEX, OpEX.
+- No poner elementos que no se van a explicar. Por ejemplo una formula de la que no se va a hablar en detaller.

@@ -584,3 +584,47 @@ Charla de Treasure “Cómo hablar para que la gente te quiera escuchar”. Ayud
 ### Lecciones aprendidas del feedback a otros grupos:
 - Anuncio para inversiores de 1 minuto máximo (NextONG)
 - Como ingenieros de software, hay que tener cuidado de cómo nos autodefinimos. Frontend-Programmer NO es apto. Como mínimo poner frontend engineer (NextONG)
+
+
+## Feedback semana 12 ‐ 7 de Mayo de 2024
+
+### Pensamientos del grupo
+- A veces se usan coletillas al hablar. Intentar reducir el uso de coletillas.
+
+### Feedback compañeros:
+- Nos han aplaudido el anuncio de cliente
+- Muy buenos videos, muy graciosos
+- Está bien saber que clase de marketing nos resulta más efectivo
+
+### Feedback profesores
+**Sobre la presentación**
+- El inicio efectivo no ha funcionado. Hay que mejorarlo.
+- El elevator pitch/matchmaking o cosas con vocabulario de ispp son términos difíciles de entender. Esta clase de conceptos no deberían de ponerse a nivel específico con el término.
+- El elevator pitch no funciona, dice que no tiene potencial: es una frase que en 15 sg explica el potencial de la app, para venderlo. 
+- La Demo tenemos que reducir la parte de la valoración, quitarla. Hay saltos que no se entienden. Quizás añadir una escena en la que la persona realice el servicio, para separarlo y que se entienda mejor
+- Mejorar el sonido. (Aunque es un problema del aula)
+- El video de inversores lo pondría después del estudio de viabilidad. Y materializamos en el video las conclusiones del estudio.
+Invertimos demasiado tiempo en transparencias de costes Dejar la transparencia detallada de los costes al final de la presentación. 
+- No es necesario la trasparencia con los sueldos.
+- Sobra el reconocimiento del trabajo del equipo, quitarlo. 
+- Ordenar mejor el hilo argumental, parece que estamos metiendo con calzador los videos, muy abrupto
+
+
+### Lecciones aprendidas de las presentaciones de otros grupos
+**OCIAL**
+- Está muy bien eso de que pongan antes de la demo las fotos de quienes van a ser los usuarios. Y que se va a hacer en la demo.
+- La parte de gastos está bien explicada, queda bien que vayan poniendo los cuadrados con las información dentro, está esquematizado.  
+- Bien explicado el tema de los escenarios pesimista, optimista y realista, sacando los datos de usuarios de fuentes reales y contrastadas. (periódicos, medios deportivos, portales del gobierno…).
+- Muy buen anuncio de inversores, poniendo un ejemplo real y además poniendo los % y lo que ganaran según inviertan 
+
+**Musclemate**
+- La demo y el anuncio se centran en los aspectos principales de la aplicación, sin repetir funcionalidades en una y otra. Han hecho una demo rapida, centrandose en lo principal que los diferencia.
+
+**ITalent*
+- Tienen un buen Elevator Pitch porque venden bien la app, dice lo que hacen en poco tiempo
+
+**Cohabify**
+- Ponen palabras que toda persona que no haya cursado ISPP va a entender. 
+
+
+
