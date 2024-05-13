@@ -268,6 +268,32 @@ En este documento vamos a encontrar el feedback recibido por el grupo 3
    - Si mencionamos un número concreto de visitas en nuestros posts, deberíamos incluir capturas de pantalla de dichos posts destacando las visitas. De esta manera aseguramos estas cifras al público.
  
 
+## Semana 12
+
+1. **Mejorar elevator pitch:**
+   - No ha quedado claro a qué nos referimos como "compañero" en el inicio efectivo y elevator pitch.
+   - Algunas sugerencias de mejora incluyen:
+        - Que se escuche mejor a la multitud
+        - Que dicha multitud esté dando ejemplos de uso de la aplicación
+
+2. **Naturalidad a la hora de presentar:**
+ - Tenemos que  tratar de enmascarar la "estructuración" de la presentación, dando lugar a un flujo más natural en esta en vez de parecer que estamos marcando casillas en una lista.
+
+3. **Mejoras en el análisis de competidores:**
+   - Podríamos hacer uso de un cuadro separado en la tabla de competidores para resaltar aquello que nos hace único (por ejemplo, mostrando solo lo común primero y luego las diferencias) o separando más el cuadro de las diferencias claves de lo común.
+
+4. **Menos detalle del equipo:**
+   -  No es necesario dar tanto detalle sobre cada miembro de el equipo, con destacar solo a aquellos organizadores es suficiente, centrándose más en destacar las habilidades de el equipo en general.
+
+5. **Pequeños detalles para dar mayor profesionalidad:**
+   - En las cantidades, no llegar al euro. En lugar de mostrar 10.000€, reducirlo a 10K€. Esto dará un aspecto más profesional a la presentación.
+   - Podríamos voltear el orden en el que hemos presentado los costes y los planes. Idealmente, comenzaríamos por los planes y de este pasaríamos a el anuncio de inversores, después del cual explicamos los costes/beneficios mencionados en el anuncio.
+   - Para la sección de marketing, podemos usar el espacio ganado al detallar menos los miembros del equipo para mostrar más nuestras redes sociales y ejemplos de posts
+
+6. **Mejora anuncio de inversores:**
+   - El anuncio debe ser corto y centrarse en los beneficios para el inversor y el potencial de nuestro mercado para la inversión.   
+
+
 
             
 
