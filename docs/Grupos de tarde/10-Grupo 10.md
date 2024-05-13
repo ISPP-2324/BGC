@@ -239,6 +239,14 @@ En este documento vamos a encontrar el feedback recibido por el grupo 12
 - Vídeo de inversores al uso se puede hacer como los otros grupos, hacer uso de las gráficas hablando del retorno de inversion recompensas por inversión y demas conceptos de dinero
 - Acciones para atraer posibles inversores: Invertir dinero en el proyecto, apelar al sentimiento de que damos apoyos a ONGs
 
-
+## Semana 12
+### Presentación
+- La demo debe tener algún tipo de historia coherente con la utilizada para el killer opener o el anuncio a ser posible
+- La demo actual lo único que hace es enumerar lo que se hace sin enseñar un caso de uso real
+- No usar términos técnicos
+- Dejar claro quién es el público objetivo (En nuestro caso son las ONGs principalmente pero estamos abiertos a otras empresas que quieran comprar nuestro producto)
+- Quitar lo de ISPP de la portada al principio
+### Costes
+- Decir si las estimaciones de costes tienen en cuenta la segmentación o no
 
 
