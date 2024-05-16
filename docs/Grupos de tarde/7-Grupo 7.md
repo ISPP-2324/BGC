@@ -383,3 +383,209 @@ Es importante mantener la estructura proporcionada y asegurarse de cubrir todos 
 ### Compromiso de acuerdo:
 
 - Inclusión de cláusulas en Commitment Agreement: Se sugiere incluir cláusulas que especifiquen las acciones a tomar en caso de incumplimiento de los compromisos acordados.
+
+## Semana 9
+
+### Presentación:
+
+- Varios equipos recibieron críticas sobre la presentación, incluyendo problemas con el orden de las diapositivas, falta de fluidez en la entrega y problemas con la visibilidad del contenido en la pantalla. **F**
+
+- Se sugiere reducir la carga de información en las diapositivas y practicar la vocalización y entonación para una mejor comprensión por parte del público. **F**
+
+### TCO y ROI:
+
+- Se señala la ausencia de consideraciones sobre el GDPR en algunos proyectos. **F**
+
+- Recomendaciones para mejorar la visualización y comprensión de las gráficas de costos y beneficios, así como la inclusión de aspectos como la seguridad social en el cálculo del TCO.
+
+### Demostración:
+
+- Problemas con la claridad y la conexión entre las características presentadas. **F**
+
+- Se sugiere contar una historia con la demostración para una mejor comprensión por parte del público. **F**
+
+- La falta de botones de aceptación de términos y condiciones fue señalada en algunas presentaciones. **F**
+
+### Anuncio:
+
+- Algunos equipos no presentaron anuncios según lo requerido, y en su lugar utilizaron elementos del storyboard.
+
+### Seguimiento:
+
+- Se recomienda mejorar la explicación sobre cómo se están resolviendo los problemas y adoptar un enfoque sistemático para la resolución de problemas emergentes.
+
+### Pilotos / Acuerdo con el Cliente:
+
+- Se destacó la importancia de recopilar y valorar adecuadamente el feedback de los usuarios piloto.
+
+- Se sugiere priorizar los cambios solicitados por los usuarios piloto para mejorar la experiencia del cliente. **F**
+
+### Planificación / Replanificación:
+
+- Recomendaciones para simplificar la presentación de la planificación utilizando iconos u otros recursos en lugar de diagramas de Gantt.
+
+- La falta de un plan de pruebas también fue señalada en algunas presentaciones.
+
+### IA:
+
+- No se proporcionaron comentarios específicos sobre el componente de IA en los proyectos evaluados.
+
+### Testing:
+
+- Se observaron deficiencias en la estrategia de pruebas, incluyendo la falta de pruebas de rendimiento y la necesidad de un enfoque más exhaustivo para evaluar la calidad del software.
+
+## Semana 10
+
+### Feedback General
+
+- Se observa una necesidad de mejorar la fluidez y organización de las presentaciones.
+- La carga de información en las diapositivas es excesiva y dificulta la comprensión. **F**
+- Falta uniformidad en el estilo y colores de las presentaciones. **F**
+- Es crucial mejorar la vocalización y entonación para una mejor comunicación. **F**
+- Se requiere una mejor adaptación del contenido al tiempo disponible.
+- Es esencial trabajar en la claridad y visibilidad de las demostraciones. **F**
+- Se sugiere una narrativa coherente y la inclusión de datos realistas en las demostraciones. **F**
+- La falta de seguimiento sistemático y resolución de problemas es una debilidad.
+- Es importante establecer indicadores de éxito y seguir un plan de resolución de problemas. **F**
+- La planificación debe ser más clara y priorizar los cambios según la retroalimentación de los usuarios.**F**
+- Se requiere una mejor gestión del tiempo y la inclusión de un plan de pruebas exhaustivo. **F**
+- Se deben corregir problemas de presentación, como aspect ratios y problemas de visualización. **F**
+
+### Presentación
+
+- Mejorar la estructura y organización de las diapositivas. **F**
+- Reducir la carga de información en las diapositivas para una mejor comprensión.
+- Trabajar en la uniformidad de estilo y colores. **F**
+- Practicar la vocalización y entonación para una comunicación más efectiva. **F**
+- Aprovechar el tiempo disponible de manera más eficiente.
+
+### TCO y ROI
+
+- Incluir consideraciones importantes como GDPR y seguridad social en los cálculos. **F**
+- Clarificar y mejorar la representación visual de los costos y beneficios. **F**
+
+### Demo
+
+- Mejorar la narrativa y conexión entre las características demostradas. **F**
+- Asegurar una presentación clara y visible, con datos realistas y una narrativa coherente. **F**
+- Considerar la inclusión de un botón de aceptar términos y condiciones. **F**
+
+### Anuncio
+
+- Desarrollar anuncios basados en storyboards con una narrativa clara y visualmente efectiva. **F**
+
+### Seguimiento
+
+- Establecer un seguimiento sistemático de problemas y su resolución. **F**
+- Definir indicadores de éxito y metas claras para evaluar la efectividad de las soluciones.
+
+### Pilotos / Customer Agreement
+
+- Priorizar los cambios según la retroalimentación de los usuarios piloto.**F**
+- Mejorar la comunicación y recopilación de feedback de los usuarios piloto.
+
+### Planificación / Replanificación
+
+- Simplificar la planificación y evitar el uso excesivo de diagramas complejos. **F**
+- Priorizar las funcionalidades según el tiempo disponible y la retroalimentación de los usuarios. **F**
+
+### IA
+
+- Aprovechar las herramientas de IA para mejorar la generación de anuncios y presentaciones.
+- Incorporar IA de manera efectiva en todas las etapas del proyecto, desde la planificación hasta el seguimiento y la resolución de problemas.
+
+### Testing
+
+- Ampliar el alcance de las pruebas para incluir pruebas de rendimiento y responsividad. **F**
+- Utilizar herramientas y métricas adecuadas para evaluar la efectividad de las pruebas y los errores encontrados.
+
+## Semana 11
+
+### Feedback General sobre Presentaciones
+
+- Se ha observado una falta de sincronización entre el discurso y la presentación en PowerPoint en varios grupos.
+- En varias presentaciones se ha hecho hincapié en aspectos políticos o emocionales en lugar de centrarse en aspectos técnicos.
+- Se ha recomendado seguir una narrativa coherente o un hilo argumental durante las demostraciones. **F**
+- Hay una sugerencia para mejorar la visualización y presentación de datos en las diapositivas, como el uso adecuado de gráficos y la simplificación del contenido. **F**
+- Se ha mencionado la importancia de practicar la vocalización y entonación para una mejor comunicación durante las presentaciones. **F**
+
+### Feedback sobre Estudio de Costes y ROI
+
+- En el estudio de costes, se ha sugerido incluir los costos sociales que la empresa tendría que pagar. **F**
+- Se recomienda distinguir claramente entre salario bruto y costos sociales en los cálculos financieros. **F**
+- Se ha planteado la necesidad de tener en cuenta el número esperado de clientes para calcular adecuadamente el ROI. **F**
+
+### Feedback sobre Demostraciones
+
+- Se sugiere mejorar la narrativa y conexión entre las características demostradas durante las presentaciones. **F**
+- En algunas demostraciones, se ha mencionado la falta de una introducción clara sobre lo que se va a ver. **F**
+- Se ha destacado la importancia de una presentación clara y visualmente efectiva, con datos realistas y una narrativa coherente. **F**
+
+### Feedback sobre Seguimiento y Resolución de Problemas
+
+- Se ha mencionado la importancia de establecer un seguimiento sistemático de problemas y su resolución, así como definir indicadores de éxito para evaluar la efectividad de las soluciones. **F**
+- Se sugiere incluir lecciones aprendidas y problemas encontrados durante el seguimiento para mejorar el proceso de resolución de problemas. **F**
+
+### Feedback sobre Planificación y Replanificación
+
+- En la planificación, se ha recomendado evitar el uso excesivo de diagramas complejos y priorizar las funcionalidades según la retroalimentación de los usuarios. **F**
+- Se ha sugerido ser más específico en el plan de marketing, estableciendo fechas para publicaciones en redes sociales u otros eventos promocionales.
+
+### Feedback sobre IA y Testing
+
+- Se ha mencionado la importancia de aprovechar las herramientas de IA para mejorar la generación de anuncios y presentaciones, así como su incorporación en todas las etapas del proyecto.
+- En cuanto al testing, se recomienda ampliar el alcance de las pruebas para incluir pruebas de rendimiento y responsividad, así como utilizar herramientas adecuadas para evaluar la efectividad de las pruebas realizadas. **F**
+
+## Semana 12
+
+### Inicio y Killer Opener
+
+- El inicio ha sido efectivo.
+- El killer opener es problemático y puede suponer un fallo de entrega.
+- Mejorar el killer opener para remarcar la necesidad de la aplicación.
+- Un inicio más visual es recomendable, incluyendo dramatizaciones para resaltar problemas y soluciones.
+
+### Historia y Coherencia
+
+- Generar una historia para dar coherencia y conectar las acciones de la demo.
+- Seguir un hilo argumental en el video de marketing, planteando una necesidad y luego una solución.
+- La historia y la funcionalidad de la aplicación deben estar correctamente aplicadas y mostradas.
+- Mejorar la conexión de las partes de la presentación para evitar que las funcionalidades se enumeren fuera de contexto.
+
+### Roles y Funcionalidades
+
+- Mostrar acciones por rol de manera lógica, sin necesidad de enumerar cada acción.
+- Identificar y mostrar claramente las funcionalidades relacionadas con accesibilidad.
+
+### Costes y Ganancias
+
+- Asegurarse de que el video de marketing esté orientado a la audiencia correcta.
+- Mostrar datos o informes de gastos en anuncios de inversores.
+- Juntar detalles de estimaciones de beneficios en 1-2 transparencias y explicar las fórmulas de costes y beneficios.
+- Añadir cálculos sobre la recuperación de inversión y ganancias esperadas en los anuncios.
+- Especificar si los costos presentados son anuales.
+
+### Competidores y Segmentación
+
+- Usar más recursos gráficos para aclarar la información en el análisis de competidores.
+- Enfocar la discusión en los competidores principales.
+- Explicar mejor la segmentación del mercado, enfocándose en el mercado objetivo más beneficioso y las redes sociales óptimas.
+
+### Presentación y Conexión de Partes
+
+- Unificar el estilo de los símbolos de dinero (K€).
+- Responder a dudas que puedan tener usuarios e inversores en el video de presentación.
+- Hilar mejor las partes de la presentación y evitar añadir información de roles adicionales innecesariamente.
+- Eliminar diapositivas innecesarias y mover información relevante al anuncio de inversores.
+
+### Marketing y Anuncios
+
+- Evitar contenido que no corresponda a mostrar la funcionalidad del proyecto en las campañas de marketing.
+- Indicar las necesidades de las personas en la parte de la campaña de lanzamiento.
+- Proveer ejemplos de cómo podría ser la campaña de marketing, como banners en periódicos y anuncios en televisión.
+- Continuar con la historia del anuncio en la demo de la aplicación.
+
+### Calidad Audiovisual y Energía
+
+- La presentación debe ser clara, atractiva, y presentada con energía.
+- Presentar con energía y asegurarse de que se entienda bien cómo obtener más información.
