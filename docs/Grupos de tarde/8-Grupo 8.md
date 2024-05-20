@@ -155,6 +155,17 @@ ltx studio→para convertir storyboards en anuncios
 + Mirar cuanto cuesta influencers, anuncios de pago, etc…
 + INCLUIR PERFILES DE CLIENTES
 
+## Semana 12
++ En la demo se podrían pulir algunos puntos, como quitar formularios, etc,...
++ Evitar describir la estructura de equipo en la presentación (sacamos foto común en la retro)
++ Detallar de donde se saca el estudio de mercado?
++ Solo hablar en la presentación cosas que aporten a responder las preguntas que nos dieron.(regla del algodón) (las preguntas de la estructura de presentación que nos dieron hace 2 semanas)
++ Página 23 demasiada información
++ Poner más datos económicos en el anuncio de inversores,qué obtienes al invertir en la aplicación.(como el grupo de shar3d y contar de eso de manera atractiva, no “técnica” que aburre)
++ Indicar necesidades en los perfiles de clientes(en campaña de lanzamiento)
++ Evitar anglicismos(targetear y etc)
+
+
 
 
 

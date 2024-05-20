@@ -18,3 +18,4 @@ En este documento vamos a encontrar feedback respecto a los anuncios de las pres
 ## Semana 12
 
 - En el anuncio de inversores añadir datos reales que llame la atencio de los inversores. Datos que respanden que la aplicación es ecalable.
+- En el anuncio de inversores además de incluir de que trata nuestra aplicación y promocionarla inculir aspectos económicos como indice de recuperación de la inversión entre otros.
