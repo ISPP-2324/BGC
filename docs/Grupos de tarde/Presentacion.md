@@ -99,3 +99,4 @@ En este documento vamos a encontrar feedback respecto a las propias presentacion
 
 - No usar tecnicismos de la asignatura como CapEX, OpEX.
 - No poner elementos que no se van a explicar. Por ejemplo una formula de la que no se va a hablar en detaller.
+- Incluir en esta presentación aspectos relacionados con el márketing, ya sean tanto algunas publicaciones como las distintas redes que hemos usado y algunas estadísticas.
